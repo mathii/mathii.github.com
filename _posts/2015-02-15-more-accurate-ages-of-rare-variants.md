@@ -2,7 +2,7 @@
 layout: post
 title: "More accurate ages of rare variants"
 description: ""
-category: 
+category: "Research"
 tags: [f2,demography,coalescent,follow-up]
 ---
 {% include JB/setup %}

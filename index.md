@@ -7,7 +7,7 @@ tagline: Popgen results and more
 
 ###About
 I'm going to try using this site to post small results, or things that I am 
-working on, or have worked on but given up on. Mostly this stuff is probably useful for me, 
+working on, or have worked on but given up on. Mostly this stuff is probably only useful for me, 
 but I'm putting it up here in case anyone else is interested. 
 
 ### Contact
