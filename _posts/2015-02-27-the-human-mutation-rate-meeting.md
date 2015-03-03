@@ -17,7 +17,7 @@ Basically, the point of the meeting was to discuss the discrepancy between the h
 
 1. The two recombination-based methods presented agreed that $$\mu \approx 1.65\times10^{-8}$$. However, many pedigree and trio based studies seem to converge on $$\mu=1.2\times10^{-8}$$. Most people seemed to think that the pedigree studies are undercalling mutations, but there was no clear explanation or evidence for that. On the other hand, calibration using ancient DNA from the directly dated Ust'-Ishim sample presented by Qiaomei Fu suggested a lower rate of around $$\nu=0.4\times10^{-9}$$, consistent with the pedigree estimates. This leaves us with something like a 25% discrepancy which needs to be explained. 
 
-2. The lower mutation rate leads to a date that's possibly too old for the orang-utan split, probably too old for the gibbon-ape split, and certainly too old for the old world monkey (OWM) split. But the more recent ape splits are fine. Therefore, a lower mutation rate only requires a slowdown on one lineage, sometime between the split of OWM and the split between ape and orang-utan, rather the parallel slowdowns on multiple lineages which were a rather uncomfortable requirement of the Scally & Durbin model. 
+2. The lower mutation rate leads to a date that's possibly too old for the orang-utan split, probably too old for the gibbon split, and certainly too old for the old world monkey (OWM) split. But the more recent ape splits are fine. Therefore, a lower mutation rate only requires a slowdown on one lineage, sometime between the split of OWM and the split between ape and orang-utan, rather the parallel slowdowns on multiple lineages which were a rather uncomfortable requirement of the Scally & Durbin model. 
 
 
 
