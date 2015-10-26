@@ -6,9 +6,8 @@ tagline: Popgen results and more
 {% include JB/setup %}
 
 ###About
-I'm going to try using this site to post small results, or things that I am 
-working on, or have worked on but given up on. Mostly this stuff is probably only useful for me, 
-but I'm putting it up here in case anyone else is interested. 
+This site contains small results, reviews, meeting reports and things that I am 
+working on, or have worked on but given up on. Posted here for my own convenience, and in case anyone else is interested. 
 
 ### Contact
 My [website][home], [github][github] and [twitter][twitter].
