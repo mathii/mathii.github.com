@@ -12,7 +12,7 @@ The FADS (fatty acid desaturase) genes encode enzymes which are required for the
 ###The evolution of *FADS1* and *FADS2*
 
 Ameur *et al.* found that there were two independent LD blocks covering the two genes (See below). Block 1 covers most of *FADS1* and the start of *FADS2* and block 2 covers the rest of *FADS2*.
-![FADS1 and 2 LD blocks](/assets/images/Ameur_FADS_Frequencies.pdf)
+![FADS1 and 2 LD blocks](/assets/images/Ameur_FADS_Frequencies.jpg)
 
 Block 1 contains two major haplotypes - the derived haplotype, which increases the activity of *FADS1*, is most common in Africa, at intermediate frequencies in Europe and East Asia, and absent in Native Americans. This is and unusual and interesting pattern in itself and given the evidence for a sweep in Africa, Ameur *et al.* reasonably conclude that this sweep was ongoing at the time of the out-of-Africa event, so the derived allele remained polymorphic in non-Africans and was lost by drift in Americans. However, we now have a lot more ancient genomes available and the story turns out to be more complicated. I looked up the 28 SNPs that Ameur *et al.* use to define their haplotypes in several high coverage ancient genomes:
  
@@ -24,7 +24,7 @@ As you can see, it turns out that both the 45,000 year-old Ust'-Ishim individual
 
 The other extremely surprising thing about this haplotype is that the Neanderthal haplotype is mostly derived! Remember, this haplotype is the one that is almost fixed in Africa. I built a haplotype graph (with [pegas](https://cran.r-project.org/package=pegas)) using the 20kb region around rs175546, and data from the 1000 Genomes project, the Simons Genome Diversity Project (SGDP) and some ancient samples, and confirmed that 1) Virtually all present-day Africans (including San and Mbuti), have the derived allele, along with ~80% of Europeans and ~50% of East Asians 2) All ancient Eurasians have the ancestral allele and 3) the Denisovan and Neanderthal haplotypes are intermediate to the ancestral and derived alleles: 
 
-![FADS1 haplotype network](/assets/images/FADS_hapnet.pdf)
+![FADS1 haplotype network](/assets/images/FADS_hapnet.jpg)
 
 Here, African haplotypes are in brown, European haplotypes are in blue and East Asian haplotypes in green. It looks like there are actually two major clusters of derived haplotypes - one which is African-specific and one which is shared with Eurasians. Note that all the inuit (from the SGDP) have the ancestral allele. 
 
