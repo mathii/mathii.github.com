@@ -40,6 +40,10 @@ Therefore, I think we have to invoke time-varying selection to explain this patt
 
 I don't know much about paleo-diets, so I don't know whether it's true that Upper Paleolithic Eurasian hunter-gatherers ate meat/fish-heavy diets. I have heard it suggested in the context of a source for vitamin D given that, as far as we can tell, these populations do not have the skin-lightening adaptations of present-day Eurasians, and may have had to get much of their vitamin D from environmental sources other than sunlight. This model predicts that we should be able to find some very early Eurasian humans with the derived allele, and also that we should be able to find some Neanderthals (or, just about possibly, Denisovans) who carry the ancestral allele. 
 
+Here's a cartoon of what I think is going on with the derived allele frequency in different populations: 
+
+![FADS1 history cartoon](/assets/images/FADS_cartoon.jpg)
+
 ###Independent selection at the FADS locus
 
 It looks to me like the Fumagalli *et al.* haplotype which reduces the action of *FADS2* is actually in LD block 2, mostly covering *FADS2*, and independent of this signal. This is consistent since the Inuit eat a diet that probably contains even more meat and unsaturated fats than any hunter-gatherers, so need to reduce the activity of the FADS genes even more than the ancestral allele at *FADS1*. This suggests to me that other populations would have fine-tuned the activity of these genes to suit their specific diets, which we should be able to detect, particularly in populations who eat a lot of, or very little, animal fats.
