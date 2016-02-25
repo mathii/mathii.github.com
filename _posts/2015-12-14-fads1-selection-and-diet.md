@@ -22,7 +22,7 @@ As you can see, it turns out that both the 45,000 year-old Ust'-Ishim individual
 
 ![rs174546 frequencies](/assets/images/Mathieson_FADS_Frequencies.png)
 
-The other extremely surprising thing about this haplotype is that the Neanderthal haplotype is mostly derived! Remember, this haplotype is the one that is almost fixed in Africa. I built a haplotype graph (with [pegas](https://cran.r-project.org/package=pegas)) using the 20kb region around rs175546, and data from the 1000 Genomes project, the Simons Genome Diversity Project (SGDP) and some ancient samples, and confirmed that 1) Virtually all present-day Africans (including San and Mbuti), have the derived allele, along with ~80% of Europeans and ~50% of East Asians 2) All ancient Eurasians have the ancestral allele and 3) the Denisovan and Neanderthal haplotypes are intermediate to the ancestral and derived alleles: 
+The other extremely surprising thing about this haplotype is that the Neanderthal haplotype is mostly derived! Remember, this haplotype is the one that is almost fixed in Africa. I built a haplotype graph (with [pegas](https://cran.r-project.org/package=pegas)) using the 20kb region around rs174546, and data from the 1000 Genomes project, the Simons Genome Diversity Project (SGDP) and some ancient samples, and confirmed that 1) Virtually all present-day Africans (including San and Mbuti), have the derived allele, along with ~80% of Europeans and ~50% of East Asians 2) All ancient Eurasians have the ancestral allele and 3) the Denisovan and Neanderthal haplotypes are intermediate to the ancestral and derived alleles: 
 
 ![FADS1 haplotype network](/assets/images/FADS_hapnet.jpg)
 
