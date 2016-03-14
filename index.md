@@ -5,7 +5,7 @@ tagline: Popgen results and more
 ---
 {% include JB/setup %}
 
-###About
+### About
 This site contains small results, reviews, meeting reports and things that I am 
 working on, or have worked on but given up on. Posted here for my own convenience, and in case anyone else is interested. 
 

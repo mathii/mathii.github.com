@@ -25,13 +25,13 @@ At least some of this between-population variation in height has a genetic basis
 
 ###Selection on height 
 Turchin *et al.* (2012) showed that the extent of differentiation of height-affecting alleles is greater than can reasonably be explained by neutral processes, an observation confirmed by Berg & Coop (2014) and Robinson *et al* (2015). Systematic investigation is limited by sampling, but one interesting observation is that this effect seems to be particularly strong in Sardinia (Zoledziewska *et al.* 2015). In Mathieson *et al.* (2015), we tried to look at the changes in genetic height over time using ancient samples and found evidence for two independent signs for selection - one for decreased height in Neolithic Iberia, and one for increased height in Bronze Age Steppe populations.
-![Neolithic height in Europe](/assets/images/Sardinian_height.pdf)
+![Neolithic height in Europe](/assets/images/Sardinian_height.jpg)
 
 This is a modified version of a figure from our paper, showing estimated genetic height in various ancient populations with arrows representing major population relationships. It's clear that Neolithic Iberians had substantially lower genetic height than Northern Europeans (mostly from present-day Germany in this case). I assume, though this needs to be tested, that this represents a generally southern European, rather than specifically Iberian, effect. So my current model is one where the present-day variation in height is driven by variation in the proportions of both Steppe and Southern European Neolithic ancestry.  Of course, this model doesn't exclude additional or ongoing selection, or extra sources of ancestry. 
 
 Sardinians provide at least one datapoint consistent with this model because (unlike IBS, say) they have little or no Steppe ancestry, and their genetic height, like their genome-wide ancestry, is consistent with being derived almost entirely from a Southern Early Neolithic (i.e. farmer) population. This is genetic height, which won't necessarily behave like actual height, but one general prediction of this model is that average height across European countries should increase as the proportion of Yamnaya ancestry increases, which seems to be the case (height data mostly from Grasgruber *et al.* 2014 and Arcaleni *et al.* 2006; [data](/assets/data/Yamnaya_Heights.txt); [code](/assets/code/Yamnaya_Heights.R)). 
 
-![Neolithic height in Europe](/assets/images/Yamnaya_height.pdf)
+![Neolithic height in Europe](/assets/images/Yamnaya_height.jpg)
 
 A linear model fits with *R<sup>2</sup>*=0.6 and implies that each percent of Yamnaya ancestry adds 1.3mm of height (*p*=9e-6). The three points in the bottom left are Sardinia, Sicily and Malta[^MALTA], which are probably not independent, but even removing these points we get a positive trend *R<sup>2</sup>*=0.3, *p*=0.01. Yamnaya ancestry is highly (0.9) correlated with latitude, but a linear model of Height~Latitude fits worse than Height~Yamnaya (*R<sup>2</sup>*=0.49 vs 0.6). I think at present we can't reliably tell the difference between Northern and Southern Early farmer ancestry but there's a similar prediction that populations with more Northern Farmer ancestry would be talled. 
 
@@ -68,7 +68,7 @@ Zoledziewska *et al.* [Height-reducing variants and selection for short stature 
 
 ###Notes
 
-[^TALLEST]: The [tallest man in the EU](https://en.wikipedia.org/wiki/Neil_Fingleton) is 7.7 standard deviations taller than the mean!  
+[^TALLEST]: The [tallest man in the EU](https://en.wikipedia.org/wiki/Neil_Fingleton) is 7.7 standard deviations taller than the mean! 
 
 [^GALTON]: Actually, this number hasn't changed that much since Galton first estimated it to be about 2/3 in 1886, inventing regression in the process. 
 
