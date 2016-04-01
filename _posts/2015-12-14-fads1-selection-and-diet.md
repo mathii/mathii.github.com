@@ -22,13 +22,13 @@ As you can see, it turns out that both the 45,000 year-old Ust'-Ishim individual
 
 ![rs174546 frequencies](/assets/images/Mathieson_FADS_Frequencies.png)
 
-The other extremely surprising thing about this haplotype is that the Neanderthal haplotype is mostly derived! Remember, this haplotype is the one that is almost fixed in Africa. I built a haplotype graph (with [pegas](https://cran.r-project.org/package=pegas)) using the 20kb region around rs175546, and data from the 1000 Genomes project, the Simons Genome Diversity Project (SGDP) and some ancient samples, and confirmed that 1) Virtually all present-day Africans (including San and Mbuti), have the derived allele, along with ~80% of Europeans and ~50% of East Asians 2) All ancient Eurasians have the ancestral allele and 3) the Denisovan and Neanderthal haplotypes are intermediate to the ancestral and derived alleles: 
+The other extremely surprising thing about this haplotype is that the Neanderthal haplotype is mostly derived! Remember, this haplotype is the one that is almost fixed in Africa. I built a haplotype graph (with [pegas](https://cran.r-project.org/package=pegas)) using the 20kb region around rs174546, and data from the 1000 Genomes project, the Simons Genome Diversity Project (SGDP) and some ancient samples, and confirmed that 1) Virtually all present-day Africans (including San and Mbuti), have the derived allele, along with ~80% of Europeans and ~50% of East Asians 2) All ancient Eurasians have the ancestral allele and 3) the Denisovan and Neanderthal haplotypes are intermediate to the ancestral and derived alleles: 
 
 ![FADS1 haplotype network](/assets/images/FADS_hapnet.jpg)
 
 Here, African haplotypes are in brown, European haplotypes are in blue and East Asian haplotypes in green. It looks like there are actually two major clusters of derived haplotypes - one which is African-specific and one which is shared with Eurasians. Note that all the inuit (from the SGDP) have the ancestral allele. 
 
-###Variable selection depending on diet
+### Variable selection depending on diet
 It's not obvious what's going on here. At frist glance, it looks like introgression of the ancestral allele from Denisovans into East Asians, but then it's hard to explain how Europeans and, especially, ancient Europeans got the ancestral allele at such high frequency. It could be that the derived allele was at intermediate frequency at the time of the out-of-Africa event, and subsequently swept to fixation in Africa (*all* of Africa?), but not in Eurasia, but then it's very hard to understand how Neanderthals got the derived allele. It seems like the ancestral allele must have been positively selected at some point, but that's unexpected because it was clearly disadvantageous both at some point in ancient Africa, and relatively recently in Eurasia. 
 
 Therefore, I think we have to invoke time-varying selection to explain this pattern. Here's one explanation:
@@ -40,16 +40,21 @@ Therefore, I think we have to invoke time-varying selection to explain this patt
 
 I don't know much about paleo-diets, so I don't know whether it's true that Upper Paleolithic Eurasian hunter-gatherers ate meat/fish-heavy diets. I have heard it suggested in the context of a source for vitamin D given that, as far as we can tell, these populations do not have the skin-lightening adaptations of present-day Eurasians, and may have had to get much of their vitamin D from environmental sources other than sunlight. This model predicts that we should be able to find some very early Eurasian humans with the derived allele, and also that we should be able to find some Neanderthals (or, just about possibly, Denisovans) who carry the ancestral allele. 
 
-###Independent selection at the FADS locus
+
+Here's a cartoon of what I think is going on with the derived allele frequency in different populations: 
+
+![FADS1 history cartoon](/assets/images/FADS_cartoon.jpg)
+
+### Independent selection at the FADS locus
 
 It looks to me like the Fumagalli *et al.* haplotype which reduces the action of *FADS2* is actually in LD block 2, mostly covering *FADS2*, and independent of this signal. This is consistent since the Inuit eat a diet that probably contains even more meat and unsaturated fats than any hunter-gatherers, so need to reduce the activity of the FADS genes even more than the ancestral allele at *FADS1*. This suggests to me that other populations would have fine-tuned the activity of these genes to suit their specific diets, which we should be able to detect, particularly in populations who eat a lot of, or very little, animal fats.
 
-###FADS and health
+### FADS and health
 
 Finally, it's worth noting that the FADS genes may be important for human health. Rs175546 is one of the strongest GWAS hits for lipid levels, particularly triglycerides (Teslovitch *et al.* 2010). The derived allele increases total cholesterol and decreases triglyceride levels, and thus may have an effect on coronary artery disease risk, and other health outcomes, though the evidence for this seems mixed. Bear in mind that having been under strong selection does not necessarily imply that the health effects will be large, since the phenotypes that were under selection are probably not the same as the health phenotypes that we're interested in.
  
 
-###References
+### References
 
 The 1000 Genomes Project Consortium [A global reference for human genetic variation](www.nature.com/articles/nature15393) 2015
 

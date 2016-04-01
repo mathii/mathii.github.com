@@ -21,7 +21,7 @@ sets of authors obviously put a lot of effort into the code, which is
 well-structured and commented, and could easily be further developed
 by others. I'd say two great examples of how methods papers should be done. 
 
-###Data
+### Data
 I used the Human Origins dataset from Lazaridis *et al.* (2014),
 available [here](https://genetics.med.harvard.edu/reich/Reich_Lab/Datasets.html). After
 some experimentation, I restricted to 827 samples, roughly in the box
