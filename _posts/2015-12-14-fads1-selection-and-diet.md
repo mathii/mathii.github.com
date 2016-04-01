@@ -9,7 +9,7 @@ tags: [FADS1,FADS2,selection,diet]
 
 The FADS (fatty acid desaturase) genes encode enzymes which are required for the synthesis of long-chain unsaturated fatty acids from plant-based foods. These fatty acids, which are important for brain development can alternatively be directly obtained from meat and fish. *FADS1* and *FADS2*, which are next to each other on chromosome 11 have been identified as being, or having been, under selection, apparently independently, in many different populations. In Mathieson *et al.* (2015), the *FADS1/2* locus was one of our top hits for selection in Neolithic Europe. The 1000 Genomes Consortium (2015) found that they were under selection in East Asians, and Fumagalli *et al.* (2015) showed selection in the Greenland Inuit. Before that, Ameur *et al.* (2012) found evidence for an ancient selective sweep in Africa. It seems  likely that these genes are very important for human adaptation to different diets, and that they have an interesting evolutionary history. 
 
-###The evolution of *FADS1* and *FADS2*
+### The evolution of *FADS1* and *FADS2*
 
 Ameur *et al.* found that there were two independent LD blocks covering the two genes (See below). Block 1 covers most of *FADS1* and the start of *FADS2* and block 2 covers the rest of *FADS2*.
 ![FADS1 and 2 LD blocks](/assets/images/Ameur_FADS_Frequencies.jpg)

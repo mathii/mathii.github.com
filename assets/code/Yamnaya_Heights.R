@@ -14,6 +14,19 @@ lm.eqn <- function(m){
 data <- read.table("Yamnaya_heights.txt", header=TRUE)
 plot(data$Yamnaya_PC, data$Height, pch=16, xlab="Percent Yamnaya ancestry (Haak et al 2015)", ylab="Average adult male height (cm)", bty="n", ylim=c(170,182))
 
+xx=data$Yamnaya_PC
+yy=data$Height
+pp <- rep(4,NROW(data))
+pp[data$Region=="Finland"]<-3
+pp[data$Region=="Frnace"]<-3
+pp[data$Region=="Tuscany"]<-3
+pp[data$Region=="Belarussia"]<-1
+pp[data$Region=="England"]<-1
+pp[data$Region=="Hungary"]<-3
+pp[data$Region=="Lithuania"]<-3
+pp[data$Region=="Czech"]<-2
+text(xx, yy, data$Region, pos=pp, cex=0.5)
+
 ## Regression
 lm1<-lm(data$Height~data$Yamnaya_PC)
 abline(lm1$coefficients, col="blue", lwd=2)
