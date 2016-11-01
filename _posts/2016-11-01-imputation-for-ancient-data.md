@@ -22,7 +22,7 @@ As a first pass at getting this to work, I looked at 196 UDG-treated samples fro
 - For each site in the 1240K capture array, I computed genotype likelihoods, just based on the binomial likelihood of allele counts, with a small error probability. 
 - Then I used [beagle](https://faculty.washington.edu/browning/beagle/beagle.html) to phase, infer missing genotypes, and impute - using the 1000 Genomes phase 3 EUR samples as a reference panel. You actually have to run beagle twice, once to phase and infer missing genotypes and then again to impute at ungenotyped sites. 
 
-I felt like since all the ancient samples have ancestry that is represented in the present-dat EUR sample, it would be reasonable to use a reference panel. 
+I felt like since all the ancient samples have ancestry that is represented in the present-day EUR sample, it would be reasonable to use a reference panel. 
 
 To test accuracy, for each sample, I masked out 1% of all the sites where we saw reads with both alleles. Excluding errors, these sites should be heterozygotes, so we can measure the accuracy of the imputation by seeing how many of these heterozygote sites we recover: 
 
