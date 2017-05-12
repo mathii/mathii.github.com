@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Iain Mathieson
-tagline: Population Genetics and more
+tagline: Population Genetics
 ---
 {% include JB/setup %}
 
