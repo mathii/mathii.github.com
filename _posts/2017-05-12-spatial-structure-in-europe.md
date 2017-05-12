@@ -13,7 +13,7 @@ Briefly, genetic structure was first interpreted almost entirely as the echo of 
 
 ### The old school
 
-Cavalli-Sforza and colleagues were the first people to convincingly argue that present-day genetic data contained information about historical processes For example the two plots below from [Menozzi et al (1978)](http://science.sciencemag.org/content/201/4358/786) show the first principal components of gene frequency (left), and compare with the archaeological dates of the first evidence of farming across Europe (right). They interpreted the similarity of these plots as evidence that 1) The introduction of farming to Europe was driven by migration rather than cultural transmission and 2) The genetic structure of present-day Europe was largely created by this migration.
+Cavalli-Sforza and colleagues were the first people to really push the idea that present-day genetic data contained fine-scale information about historical processes For example the two plots below from [Menozzi et al (1978)](http://science.sciencemag.org/content/201/4358/786) show the first principal components of gene frequency (left), and compare with the archaeological dates of the first evidence of farming across Europe (right). They interpreted the similarity of these plots as evidence that 1) The introduction of farming to Europe was driven by migration rather than cultural transmission and 2) The genetic structure of present-day Europe was largely created by this migration.
 
 ![Comparison of PCA and farming 1](/assets/images/Menozz1_PC1_Farming.jpg)
 
