@@ -6,7 +6,13 @@ tagline: Population Genetics
 {% include JB/setup %}
 
 ### About Me
-I'm a population geneticist, interested in many areas of human genetics. In the past I've worked on association studies, the distribution of rare variants, the genetics of spatially structured populations and understanding human history using ancient DNA. Right now, my main interest is in understanding the evolution of complex traits in humans, and their relationship to demographic history and natural selection. 
+I'm a population geneticist, interested in many areas of human
+genetics. I've worked on association studies, the distribution of rare
+variants, the genetics of spatially structured populations and
+understanding human history using ancient DNA. Right now, my main
+interest is in understanding the evolution of complex traits in
+humans, their distribution across human populations, and their
+relationship to demographic history and natural selection. 
 
 You can find my publications on my [Google Scholar][Google Scholar] page.
 
@@ -25,7 +31,7 @@ working on, or have worked on but given up on. Posted here for my own convenienc
   {% endfor %}
 </ul>
 
-[home]: http://genetics.med.harvard.edu/Reich_Lab/People/imathieson/index.html
+[home]:https://www.med.upenn.edu/apps/faculty/index.php/g275/p8942206l
 [github]: https://github.com/mathii
 [twitter]: https://twitter.com/mathiesoniain
 [Google Scholar]: https://scholar.google.com/citations?user=uiLwrZ4AAAAJ&hl=en
