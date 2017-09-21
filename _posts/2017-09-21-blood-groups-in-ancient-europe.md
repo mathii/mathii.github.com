@@ -99,8 +99,8 @@ ancestry that is like that of Mesolithic Europeans.
 - Early Farmers (EF); Neolithic individuals from NW Anatolia, and
 European Neolithic individuals with similar ancestry, plus small
 (~0-20%) amounts of hunter-gatherer ancestry.
-- Steppe (ST); Bronze age individuals with "Yamnaya-like" ancestry
-- Bronze Age (BA); Individuals from Bronze age Europe that have a
+- Steppe (ST); Bronze Age individuals with "Yamnaya-like" ancestry
+- Bronze Age (BA); Individuals from Bronze Age Europe that have a
 mixture of the three other types of ancient ancestry.
 
 I also compared with present-day European populations, separating out
