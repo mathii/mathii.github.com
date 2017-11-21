@@ -20,7 +20,7 @@ You can find my publications on my [Google Scholar][Google Scholar] page.
 My [website][home], [github][github] and [twitter][twitter].
 Email me at iain_mathieson at hms.harvard.edu. 
 
-### Posts
+### Posts [![](images/feed-icon-14x14.png)](rss.xml)
 
 Here are some small results, reviews, meeting reports and things that I am 
 working on, or have worked on but given up on. Posted here for my own convenience, and in case anyone else is interested.
