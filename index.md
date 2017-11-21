@@ -18,7 +18,7 @@ You can find my publications on my [Google Scholar][Google Scholar] page.
 
 ### Contact
 My [website][home], [github][github] and [twitter][twitter].
-Email me at iain_mathieson at hms.harvard.edu. 
+Email me at mathi at upenn.edu. 
 
 ### Posts [![](/assets/images/feed-icon-14x14.png)](rss.xml)
 
