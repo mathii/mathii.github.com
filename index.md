@@ -28,7 +28,7 @@ Email me at mathi at upenn.edu.
   {% endfor %}
 </ul>
 
-[home]:https://www.med.upenn.edu/apps/faculty/index.php/g275/p8942206l
+[home]:https://www.med.upenn.edu/mathieson-lab/
 [github]: https://github.com/mathii
 [twitter]: https://twitter.com/mathiesoniain
 [Google Scholar]: https://scholar.google.com/citations?user=uiLwrZ4AAAAJ&hl=en
