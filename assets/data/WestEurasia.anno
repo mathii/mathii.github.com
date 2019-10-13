@@ -1,0 +1,2364 @@
+ID	Source	Date	Population	Country	Lat	Long	Sex
+Altai	PrueferNature2013	122000	Neanderthal	Russia	51.4	84.68	F
+Ust_Ishim	FuNature2014	45020	Ust_Ishim_HG_published.DG	Russia	57.7	71.1	M
+Denisova	MeyerScience2012	72000	Denisovan	Russia	51.4	84.68	F
+Vindija	PrueferScience2017	52000	Neanderthal	Croatia	46.3	16008	F
+Mez1	PrueferNature2013	39700	Neanderthal	Russia	44.2	40	F
+Loschbour	LazaridisNature2014	8050	Loschbour_published.DG	Luxembourg	49.81	6.4	M
+NE1	GambaNatureCommunications2014	7139	LBK_Hungary_EN.SG	Hungary	47.88	21.19	F
+BR2	GambaNatureCommunications2014	3140	Hungary_LBA.SG	Hungary	47.82	19.95	M
+Stuttgart	LazaridisNature2014	7140	LBK_EN_Stuttgart_supplement.SG	Germany	48.78	9.18	F
+Anzick	RasmussenNature2014	12649	Clovis.SG	USA	45.99	-110.66	M
+Inuk	RasmussenNature2010	3885	Saqqaq.SG	Greenland	..	..	M
+ela	SchlebuschScience2017	493	South_Africa_IronAge	South Africa	..	..	F
+baa	SchlebuschScience2017	1910	South_Africa_StoneAge	South Africa	..	..	M
+KK1	JonesNatureCommunications2015	9720	Kotias	Georgia	42.28	43.28	M
+rath1	CassidyPNAS2016	3906	Ireland_BA.SG	Ireland	55.29	-6.19	M
+mota	LlorenteScience2015	4472	Ethiopia_4500BP.SG	Ethiopia	6.8	38.21	M
+bally	CassidyPNAS2016	5132	Ireland_MN.SG	Ireland	54.54	-5.96	F
+SIII	SikoraScience2017	34090	Sunghir_UP	Russia	56.13	40.4	M
+new	SchlebuschScience2017	418	South_Africa_IronAge	South Africa	..	..	F
+Iceman	KellerNatureCommunications2014	5244	Iceman_MN.SG	Italy	46.77	10.83	M
+WC1	BroushakiScience2016	9219	Iran_Neolithic.SG	Iran	..	..	M
+RISE497	AllentoftNature2015	3100	Karasuk.SG	Russia	52.95	90.19	F
+Bichon	JonesNatureCommunications2015	13665	Bichon	Switzerland	47.1	6.87	M
+I0160	SchiffelsNatureCommunications2016	1995	England_IA.SG	Great Britain	52.08	0.18	M
+RISE493	AllentoftNature2015	3429	Karasuk.SG	Russia	53.15	91.05	M
+C1	JeongPNAS2016	2775	Tibetan_Chokhopani_2700BP.SG	Nepal	..	..	M
+mfo	SchlebuschScience2017	378	South_Africa_IronAge	South Africa	..	..	F
+Bar8	HofmanovaPNAS2016	8071	Anatolia_Neolithic.SG	Turkey	40.3	29.57	F
+RISE98	AllentoftNature2015	4104	Nordic_LN.SG	Sweden	55.38	13.45	M
+I0774	SchiffelsNatureCommunications2016	1483	Saxon.SG	Great Britain	52.26	0.07	F
+Chan	GonzalesFortesCurrentBiology2017	9131	Iberia_HG	Spain	43	-7.56	F
+RISE505	AllentoftNature2015	3636	Andronovo.SG	Russia	53.46	85.45	F
+I0777	SchiffelsNatureCommunications2016	1478	Saxon.SG	Great Britain	52.26	0.07	F
+ATP2	GuntherPNAS2015	4739	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	M
+RISE495	AllentoftNature2015	3100	Karasuk.SG	Russia	52.95	90.19	M
+SVI	SikoraScience2017	790	Sunghir_UP	Russia	56.13	40.4	M
+SII	SikoraScience2017	34230	Sunghir_UP	Russia	56.13	40.4	M
+GB	GonzalesFortesCurrentBiology2017	5378	Romania_EN	Romania	45.9	24.9	F
+Bon002	KilincCurrentBiology2016	10078	Anatolia_Neolithic_Boncuklu.SG	Turkey	37.75	32.86	F
+I0157	SchiffelsNatureCommunications2016	1232	Saxon.SG	Great Britain	52.08	0.18	F
+SIV	SikoraScience2017	33400	Sunghir_UP	Russia	56.13	40.4	M
+RISE511	AllentoftNature2015	4744	Afanasievo_sibling.I3387.SG	Russia	54.58	90.78	F
+S35	JeongPNAS2016	1500	Tibetan_Samzdong_1500BP.SG	Nepal	..	..	M
+LaBrana1	OlaldeNature2014	7815	Iberia_HG_published.SG	Spain	42.91	-5.38	M
+Latvia_HG2	JonesNatureCommunications2017	7689	Latvia_EN_dup.I4626	Latvia	56.28	25.13	M
+Bar31	HofmanovaPNAS2016	8279	Anatolia_Neolithic.SG	Turkey	40.3	29.57	M
+S10	JeongPNAS2016	1500	Tibetan_Samdzong_1500BP.SG	Nepal	..	..	M
+RISE496	AllentoftNature2015	3288	Karasuk.SG	Russia	52.95	90.19	F
+I0159	SchiffelsNatureCommunications2016	1247	Saxon.SG	Great Britain	52.08	0.18	F
+RISE552	AllentoftNature2015	4446	Yamnaya_Kalmykia.SG	Russia	46.62	43.33	M
+M96	GonzalesFortesCurrentBiology2017	8825	Iron_Gates_HG	Romania	44.63	22.61	M
+Kostenki14	Seguin-OrlandoScience2014	37470	Kostenki14.SG	Russia	51.23	39.3	M
+RISE174	AllentoftNature2015	1431	Sweden_IA.SG	Sweden	55.55	13.1	F
+RISE523	AllentoftNature2015	3448	Mezhovskaya.SG	Russia	53.04	57.07	F
+RISE150	AllentoftNature2015	3739	Unetice_EBA.SG	Poland	50.92	16.96	F
+I0017	LazaridisNature2014	7626	Motala_HG.SG	Sweden	58.54	15.05	M
+RISE395	AllentoftNature2015	3808	Sintashta_MBA_RISE.SG	Russia	52.64	59.54	F
+I9133	SkoglundCell2017	1970	South_Africa_StoneAge	South Africa	-31.98	18.52	M
+Ajvide58	SkoglundScience2014	4700	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	M
+Klei10	HofmanovaPNAS2016	6063	Greece_Late_Neolithic.SG	Greece	40.1	22.4	M
+S41	JeongPNAS2016	1500	Tibetan_Samzdong_1500BP.SG	Nepal	..	..	M
+ERS1790731	HaberAJHG2017	3750	Canaanite_Lebanon	Lebanon	33.56	35.4	F
+MA577	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-54.88	-68.14	M
+F38	BroushakiScience2016	2852	Iran_IA.SG	Iran	..	..	M
+I0061	FuNature2016	8280	Karelia_HG.SG	Russia	61.65	35.65	M
+I0769	SchiffelsNatureCommunications2016	1455	Saxon.SG	Great Britain	52.26	0.07	F
+Bot15	MalaspinasCurrentBiology2014	300	Botocudo.SG	Brazil	..	..	M
+OC	GonzalesFortesCurrentBiology2017	8704	Iron_Gates_HG	Romania	44.52	22.72	M
+RISE500	AllentoftNature2015	3550	Andronovo.SG	Russia	53.46	85.45	F
+Canes	GonzalesFortesCurrentBiology2017	7115	Iberia_HG	Spain	43.4	-5.85	F
+ERS1790732	HaberAJHG2017	3650	Canaanite_Lebanon	Lebanon	33.56	35.4	M
+MA973	SaagCurrentBiology2017	4408	Corded_Ware_Estonia	Estonia	58.6	25	M
+6DT3	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+RISE504	AllentoftNature2015	1145	Russia_IA.SG	Russia	53.46	85.45	M
+rath2	CassidyPNAS2016	3833	Ireland_BA.SG	Ireland	55.29	-6.19	M
+I0773	SchiffelsNatureCommunications2016	1490	Saxon.SG	Great Britain	52.26	0.07	F
+Gokhem2	SkoglundScience2014	4850	TRB_Sweden_MN.SG	Sweden	58.17	13.41	F
+RISE499	AllentoftNature2015	3100	Karasuk.SG	Russia	51.91	88.57	F
+RISE502	AllentoftNature2015	3351	Karasuk.SG	Russia	51.91	88.57	F
+Yaghan895	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-54.88	-68.14	M
+Bot17	MalaspinasCurrentBiology2014	300	Botocudo.SG	Brazil	..	..	M
+RISE479	AllentoftNature2015	3700	Vatya.SG	Hungary	47.34	18.9	M
+Matojo	GuntherPNAS2015	5395	Iberia_Chalcolithic_allsites.SG	Spain	42.35	-3.52	M
+Pal7	HofmanovaPNAS2016	6351	Greece_Late_Neolithic.SG	Greece	40.1	22.4	F
+AH1	BroushakiScience2016	9900	Iran_Neolithic.SG	Iran	..	..	F
+RISE602	AllentoftNature2015	2450	Russia_IA.SG	Russia	50.62	86.46	M
+ERS1790730	HaberAJHG2017	3650	Canaanite_Lebanon	Lebanon	33.56	35.4	F
+bab	SchlebuschScience2017	2040	South_Africa_StoneAge	South Africa	..	..	M
+MA1	RaghavanNature2013	24305	MA1_HG.SG	Russia	52.9	103.5	M
+SATP	JonesNatureCommunications2015	13255	Satsurblia	Georgia	42.38	42.59	M
+ATP16	GuntherPNAS2015	5039	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	F
+RISE601	AllentoftNature2015	2450	Russia_IA.SG	Russia	50.21	85.73	M
+6DT21	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+ERS1790733	HaberAJHG2017	3770	Canaanite_Lebanon	Lebanon	33.56	35.4	M
+Yaghan894	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-54.88	-68.14	M
+IR1	GambaNatureCommunications2014	2855	Prescythian_Hungary_IA.SG	Hungary	47.82	19.95	M
+KO1	GambaNatureCommunications2014	7660	Koros_Hungary_EN_HG_published.SG	Hungary	47.56	20.72	M
+6DT22	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+M95	GonzalesFortesCurrentBiology2017	8814	Iron_Gates_HG	Romania	44.63	22.61	M
+3DT26	MartinianoNatureCommunications2016	1750	England_Roman_MiddleEast	Great Britain	53.96	-1.08	M
+Rev5	HofmanovaPNAS2016	8301	Greece_Neolithic.SG	Greece	40.1	22.4	F
+SI	SikoraScience2017	32820	Sunghir_UP	Russia	56.13	40.4	M
+Latvia_MN2	JonesNatureCommunications2017	5965	Latvia_MN_Comb_Ware	Latvia	56.28	25.13	F
+I9028	SkoglundCell2017	2103	South_Africa_StoneAge	South Africa	-32.76	18.03	M
+RISE548	AllentoftNature2015	4650	Yamnaya_Kalmykia.SG	Russia	46.54	43.7	M
+Latvia_HG1	JonesNatureCommunications2017	8308	Latvia_Kunda_dup.I4632	Latvia	56.28	25.13	F
+6DT18	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+RISE577	AllentoftNature2015	4000	Starounetice_EBA_dup.I4139.SG	Czech Republic	50.16	14.31	F
+NO3423	MartinianoNatureCommunications2016	1170	Saxon	Great Britain	53.63	-1.18	M
+NE6	GambaNatureCommunications2014	7052	LBK_Hungary_MN.SG	Hungary	47.17	19.83	M
+M63	JeongPNAS2016	2125	Tibetan_Mebrak_2125BP.SG	Nepal	..	..	M
+NE7	GambaNatureCommunications2014	6374	Hungary_MN.SG	Hungary	47.17	19.83	M
+RISE569	AllentoftNature2015	1235	Czech_Early_Slav_dup.I4137.SG	Czech Republic	50.19	14.16	F
+CB13	OlaldeMBE2015	7348	Iberia_EN.SG	Spain	41.37	1.89	F
+RISE509	AllentoftNature2015	4732	Afanasievo.SG	Russia	54.58	90.78	F
+AH4	BroushakiScience2016	9930	Iran_Neolithic.SG	Iran	..	..	F
+CO1	GambaNatureCommunications2014	4750	Hungary_Late_Copper_Age.SG	Hungary	47.17	19.83	F
+RISE94	AllentoftNature2015	4497	BattleAxe_Sweden.SG	Sweden	56.03	14.23	M
+RISE00	AllentoftNature2015	4412	Corded_Ware_Estonia.SG	Estonia	59.41	27.03	F
+RISE503	AllentoftNature2015	3569	Andronovo.SG	Russia	53.46	85.45	F
+NE5	GambaNatureCommunications2014	7050	ALPC_Hungary_MN.SG	Hungary	47.17	20.83	M
+MA969	SaagCurrentBiology2017	4638	Corded_Ware_Estonia	Estonia	58.6	25	M
+kennewick	RasmussenNature2015	8770	Kennewick_WA.SG	USA	46.21	-119.14	M
+rath3	CassidyPNAS2016	3585	Ireland_BA.SG	Ireland	55.29	-6.19	M
+I0156	SchiffelsNatureCommunications2016	2017	England_IA.SG	Great Britain	52.08	0.18	M
+I9134	SkoglundCell2017	1199	South_Africa_StoneAge	South Africa	-32.81	17.95	F
+Latvia_HG3	JonesNatureCommunications2017	7027	Latvia_EN_dup.I4628	Latvia	56.28	25.13	M
+I0789	SchiffelsNatureCommunications2016	2155	England_IA.SG	Great Britain	52.1	0.28	F
+RISE97	AllentoftNature2015	3905	Nordic_LN.SG	Sweden	55.56	13.06	F
+RISE547	AllentoftNature2015	4711	Yamnaya_Kalmykia.SG	Russia	46.54	43.7	M
+RISE600	AllentoftNature2015	2450	Russia_IA.SG	Russia	50.21	85.73	M
+AH2	BroushakiScience2016	9931	Iran_Neolithic.SG	Iran	..	..	M
+I0161	SchiffelsNatureCommunications2016	1165	Saxon.SG	Great Britain	52.08	0.18	F
+BR1	GambaNatureCommunications2014	4035	Hungary_Mako_EBA.SG	Hungary	47.17	20.83	F
+3DT16	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+Tep003	KilincCurrentBiology2016	8505	Anatolia_Neolithic_Tepecik_Ciftlik.SG	Turkey	38.17	34.49	M
+6DT23	MartinianoNatureCommunications2016	1750	England_Roman	Great Britain	53.96	-1.08	M
+RISE423	AllentoftNature2015	3257	Armenia_MBA.SG	Armenia	40.14	45.26	M
+RISE392	AllentoftNature2015	3961	Sintashta_MBA_RISE.SG	Russia	53.88	59.08	M
+ATP2_d	GuntherPNAS2015	4739	Iberia_Chalcolithic_damage.SG	Spain	42.35	-3.52	M
+RISE489	AllentoftNature2015	4693	Remedello_BA.SG	Italy	45.26	10.38	M
+RISE550	AllentoftNature2015	4935	Yamnaya_Kalmykia.SG	Russia	46.56	43.68	M
+MA971	SaagCurrentBiology2017	4400	Corded_Ware_Estonia	Estonia	58.6	25	M
+AM74	RaghavanScience2015	100	Fuego_Patagonian.SG	Chile	..	..	M
+M1489	MartinianoNatureCommunications2016	2035	England_IA	Great Britain	53.73	-0.53	F
+MA976	SaagCurrentBiology2017	4638	Corded_Ware_Estonia	Estonia	58.6	25	M
+Yaghan890	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-54.88	-68.14	M
+RISE507.508.merge	AllentoftNature2015	5077	Afanasievo.SG	Russia	51.5	85.97	F
+ATP9	GuntherPNAS2015	3634	Iberia_Bronze_Age.SG	Spain	42.35	-3.52	F
+XVII-B-939	RaghavanScience2015	6075	6000BP_Canadian_NativeAmerican.SG	Canada	54.3	-130.62	M
+RISE516	AllentoftNature2015	4069	Okunevo.SG	Russia	53.15	90.19	F
+RISE386	AllentoftNature2015	4122	Sintashta_MBA_RISE.SG	Russia	52.45	55.16	M
+ERS1790729	HaberAJHG2017	3750	Canaanite_Lebanon	Lebanon	33.56	35.4	F
+Tep002	KilincCurrentBiology2016	8585	Anatolia_Neolithic_Tepecik_Ciftlik.SG	Turkey	38.17	34.49	F
+RISE394	AllentoftNature2015	3802	Sintashta_MBA_RISE.SG	Russia	52.45	55.16	F
+cha	SchlebuschScience2017	365	South_Africa_IronAge	South Africa	..	..	F
+RISE563	AllentoftNature2015	4492	Bell_Beaker_Germany_dup.I4144.SG	Germany	48.69	13.02	M
+LateDorset-XIV-H_126	RaghavanScience2014	800	LateDorset.SG	..	..	..	M
+RISE61	AllentoftNature2015	4622	Nordic_MN_B.SG	Denmark	55.7	11.86	M
+RISE512	AllentoftNature2015	3322	Andronovo.SG	Russia	53.46	85.45	M
+Ze6b	UnterlanderNatureCommunications2017	1200	Zevakino_Chilikta_IA	Russia	..	..	F
+RISE486	AllentoftNature2015	3904	Remedello_BA.SG	Italy	45.26	10.38	M
+RISE494	AllentoftNature2015	3292	Karasuk_dup.I3425.SG	Russia	53.15	91.05	M
+RISE373	AllentoftNature2015	3741	Maros.SG	Hungary	46.22	20.2	F
+Tep004	KilincCurrentBiology2016	8295	Anatolia_Neolithic_Tepecik_Ciftlik.SG	Turkey	38.17	34.49	F
+RISE247	AllentoftNature2015	3629	Vatya.SG	Hungary	47.33	18.96	M
+I2966	SkoglundCell2017	7500	Malawi_Hora_Holocene	Malawi	-11.66	33.64	M
+RISE71	AllentoftNature2015	4060	Nordic_LN.SG	Denmark	56.68	10.03	F
+RISE407	AllentoftNature2015	2955	Armenia_LBA.SG	Armenia	40.15	45.86	F
+MA826	SaagCurrentBiology2017	4413	Corded_Ware_Estonia	Estonia	..	..	F
+RISE525	AllentoftNature2015	3000	Mezhovskaya.SG	Russia	53.04	57.07	M
+RISE397	AllentoftNature2015	2902	Armenia_LBA.SG	Armenia	39.2	46.4	M
+RISE510	AllentoftNature2015	4610	Afanasievo.SG	Russia	54.58	90.78	F
+RISE487	AllentoftNature2015	5245	Remedello_BA.SG	Italy	45.26	10.38	M
+RISE555	AllentoftNature2015	4627	Russia_EBA.SG	Russia	48.72	44.5	M
+RISE109	AllentoftNature2015	3813	Unetice_EBA.SG	Poland	50.98	17.07	F
+RISE515	AllentoftNature2015	4193	Okunevo.SG	Russia	53.15	90.19	F
+RISE240	AllentoftNature2015	4706	Yamnaya_Kalmykia.SG	Russia	46.58	43.68	F
+Oase	FuNature2015	39610	Oase	Romania	45.12	21.9	M
+Latvia_LN1	JonesNatureCommunications2017	4833	Latvia_LN_CW_dup.I4629	Latvia	56.28	25.13	F
+BC25	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+RISE154	AllentoftNature2015	3795	Unetice_EBA.SG	Poland	50.95	16.94	F
+RISE586	AllentoftNature2015	4000	Unetice_EBA_dup.I5044.SG	Czech Republic	48.8	17.02	F
+RISE446	AllentoftNature2015	4597	Corded_Ware_Germany.SG	Germany	50.01	10.18	M
+Ajvide70	SkoglundScience2014	4700	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	M
+RISE554	AllentoftNature2015	2875	Russia_LBA.SG	Russia	56.02	92.87	M
+Ukraine_HG1	JonesNatureCommunications2017	10867	Ukraine_HG	Ukraine	48.3	35.14	M
+Ukraine_N1	JonesNatureCommunications2017	10643	Ukraine_Mesolithic_dup.I1819	Ukraine	48.3	35.14	M
+NE2	GambaNatureCommunications2014	7124	Hungary_MN.SG	Hungary	47.52	21.59	F
+RISE484	AllentoftNature2015	3700	Vatya.SG	Hungary	47.34	18.9	F
+RISE546	AllentoftNature2015	4650	Yamnaya_Kalmykia.SG	Russia	46.54	43.7	M
+Latvia_MN1	JonesNatureCommunications2017	6064	Latvia_MN_dup.I4627	Latvia	56.28	25.13	M
+RISE374	AllentoftNature2015	3693	Maros.SG	Hungary	46.22	20.2	M
+RISE480	AllentoftNature2015	3550	Vatya.SG	Hungary	47.34	18.9	F
+MA968	SaagCurrentBiology2017	4400	Corded_Ware_Estonia_probable_dup_MA976	Estonia	58.6	25	M
+RISE492	AllentoftNature2015	2253	Russia_IA.SG	Russia	53.15	91.05	M
+IS2	UnterlanderNatureCommunications2017	1200	Zevakino_Chilikta_IA	Russia	..	..	M
+Tep006	KilincCurrentBiology2016	8230	Anatolia_Neolithic_Tepecik_Ciftlik.SG	Turkey	38.17	34.49	M
+RISE559	AllentoftNature2015	4284	Bell_Beaker_Germany_dup.I4124.SG	Germany	48.33	10.9	F
+MARC1492	RaghavanScience2015	387	3500BP_Canadian_NativeAmerican.SG	Canada	47.99	-66.71	M
+RISE483	AllentoftNature2015	3700	Vatya.SG	Hungary	47.34	18.9	F
+kum6	OmrakCurrentBiology2016	6682	Anatolia_Neolithic_Kumtepe.SG	Turkey	39.95	26.2	F
+Bon004	KilincCurrentBiology2016	10076	Anatolia_Neolithic_Boncuklu.SG	Turkey	37.75	32.86	M
+RISE431	AllentoftNature2015	4117	Corded_Ware_Proto_Unetice_Poland.SG	Poland	52.14	16.54	M
+AM71	RaghavanScience2015	100	Fuego_Patagonian.SG	Chile	..	..	M
+RISE408	AllentoftNature2015	3059	Armenia_LBA.SG	Armenia	40.15	45.86	M
+RISE47	AllentoftNature2015	3362	Nordic_BA.SG	Denmark	56.97	9.55	M
+RISE412	AllentoftNature2015	3019	Armenia_LBA.SG	Armenia	40.38	45.18	F
+BC30	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+RISE175	AllentoftNature2015	3214	Nordic_BA.SG	Sweden	55.4	13.6	M
+RISE566	AllentoftNature2015	4106	Bell_Beaker_Czech_dup.I4145.SG	Czech Republic	50.12	14.26	M
+RISE471	AllentoftNature2015	3555	Germany_Bronze_Age.SG	Germany	48.17	10.81	M
+RISE434	AllentoftNature2015	4705	Corded_Ware_Germany.SG	Germany	48.93	12.26	M
+Ajvide52	SkoglundScience2014	4700	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	M
+S40	JeongPNAS2016	1500	Tibetan_Samdzong_1500BP.SG	Nepal	..	..	F
+MA975	SaagCurrentBiology2017	5465	Comb_Ceramic_Neolithic	Estonia	58.6	25	M
+NE3	GambaNatureCommunications2014	7060	Bu_kk_Culture_Hungary_MN.SG	Hungary	48.52	21.17	F
+XIV_C_748	RaghavanScience2014	..	Thule.SG	..	..	..	M
+StoraForvar11	SkoglundScience2014	7325	Sweden_HG.SG	Sweden	57.5	18.55	M
+KO2	GambaNatureCommunications2014	7590	Koros_Hungary_EN.SG	Hungary	47.32	21.53	F
+Matojo_d	GuntherPNAS2015	5395	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	M
+RISE276	AllentoftNature2015	2621	Nordic_LBA.SG	Denmark	55.91	11.57	M
+RISE349	AllentoftNature2015	3859	Hungary_MBA.SG	Hungary	46.36	20.99	F
+RISE564	AllentoftNature2015	4200	Bell_Beaker_Germany_dup.I4134.SG	Germany	48.69	13.02	M
+Bon001	KilincCurrentBiology2016	10032	Anatolia_Neolithic_Boncuklu.SG	Turkey	37.75	32.86	M
+RISE436	AllentoftNature2015	4674	Corded_Ware_Germany.SG	Germany	48.93	12.26	M
+AfontovaGora2	RaghavanNature2013	16710	AfontovaGora2.SG	Russia	56.02	92.87	M
+NE4	GambaNatureCommunications2014	7061	Hungary_Neolithic.SG	Hungary	47.88	21.19	F
+RISE553	AllentoftNature2015	2821	Russia_LBA.SG	Russia	56.02	92.87	M
+DevilsGate1	SiskaScienceAdvances2017	7624	DevilsGate	Russia	44.55	135.58	F
+Enoque65	RaghavanScience2015	3559	Enoque_HG	Brazil	-8.67	-42.55	M
+RISE562	AllentoftNature2015	4282	Bell_Beaker_Germany_dup.I4143.SG	Germany	48.66	12.71	F
+RISE391	AllentoftNature2015	3954	Sintashta_MBA_RISE.SG	Kazakhstan	50.59	56.83	F
+RISE396	AllentoftNature2015	3015	Armenia_LBA.SG	Armenia	39.2	46.4	F
+RISE568	AllentoftNature2015	1200	Czech_Early_Slav.SG	Czech Republic	50.19	14.16	F
+RISE560	AllentoftNature2015	4200	Bell_Beaker_Germany_father.or.son.I5519_dup.I4132.SG	Germany	48.33	10.9	M
+MA974	SaagCurrentBiology2017	5601	Comb_Ceramic_Neolithic	Estonia	58.6	28	F
+M344	JeongPNAS2016	2125	Tibetan_Mebrak_2125BP.SG	Nepal	..	..	M
+RISE210	AllentoftNature2015	3312	Nordic_BA.SG	Sweden	56	14.1	M
+RISE179	AllentoftNature2015	3843	Nordic_LN.SG	Sweden	55.4	13.6	M
+RISE371	AllentoftNature2015	3989	Maros.SG	Hungary	46.22	20.2	F
+BC29	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+M240	JeongPNAS2016	2125	Tibetan_Mebrak_2125BP.SG	Nepal	..	..	M
+ATP7	GuntherPNAS2015	5095	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	F
+RISE435	AllentoftNature2015	4631	Corded_Ware_Germany.SG	Germany	48.93	12.26	F
+Ire8	SkoglundScience2014	4575	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	M
+MARC1491	RaghavanScience2014	1550	MiddleDorset.SG	..	..	..	M
+RISE254	AllentoftNature2015	3969	Vatya.SG	Hungary	47.33	18.96	M
+RISE524	AllentoftNature2015	3000	Mezhovskaya.SG	Russia	53.04	57.07	M
+Gokhem4	SkoglundScience2014	4850	TRB_Sweden_MN.SG	Sweden	58.17	13.41	M
+MARC481	RaghavanScience2014	1550	MiddleDorset.SG	..	..	..	M
+RISE413	AllentoftNature2015	3752	Armenia_MBA.SG	Armenia	40.14	45.26	M
+ATP17	GuntherPNAS2015	4889	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	M
+ATP3	GuntherPNAS2015	5389	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	M
+I2967	SkoglundCell2017	7500	Malawi_Hora_Holocene	Malawi	-11.66	33.64	M
+RISE567	AllentoftNature2015	4200	Bell_Beaker_Czech_dup.I4136.SG	Czech Republic	50.12	14.26	F
+Ajvide53	SkoglundScience2014	4700	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	F
+RISE416	AllentoftNature2015	3494	Armenia_MBA.SG	Armenia	40.14	45.26	M
+AM66	RaghavanScience2015	100	Fuego_Patagonian.SG	Chile	..	..	M
+RISE145	AllentoftNature2015	4023	Unetice_EBA.SG	Poland	50.91	17.18	M
+DevilsGate2	SiskaScienceAdvances2017	7624	DevilsGate_possible_dup.DevilsGate1.SG	Russia	44.55	135.58	F
+RISE21	AllentoftNature2015	3304	Nordic_BA.SG	Denmark	55.55	12.21	F
+RISE139	AllentoftNature2015	3979	Unetice_EBA.SG	Poland	50.8	17.09	F
+RISE595	AllentoftNature2015	2950	Montenegro_LBA.SG	Montenegro	42.38	18.74	F
+Sanganji_131464_B	KanzawaJHG2016	3281	Jomon	Japan	..	..	F
+AM73	RaghavanScience2015	100	Fuego_Patagonian.SG	Chile	..	..	M
+Gokhem5	SkoglundScience2014	5035	TRB_Sweden_MN.SG	Sweden	58.17	13.41	F
+Bon005	KilincCurrentBiology2016	10220	Anatolia_Neolithic_Boncuklu.SG	Turkey	37.75	32.86	F
+RISE207	AllentoftNature2015	3348	Nordic_BA.SG	Sweden	56	14.1	M
+Gokhem7	SkoglundScience2014	4850	TRB_Sweden_MN.SG	Sweden	58.17	13.41	F
+RISE42	AllentoftNature2015	4032	Nordic_LN.SG	Denmark	55.66	12.15	M
+ATP20	GuntherPNAS2015	4120	Iberia_Chalcolithic.SG	Spain	42.35	-3.52	F
+RISE598	AllentoftNature2015	2647	Lithuania_LBA.SG	Lithuania	54.36	23.3	M
+Sanganji_131421-3_A2	KanzawaJHG2016	3156	Jomon	Japan	..	..	M
+Tep001	KilincCurrentBiology2016	8643	Anatolia_Neolithic_Tepecik_Ciftlik_outlier.SG	Turkey	38.17	34.49	M
+RISE1	AllentoftNature2015	4672	Corded_Ware_Poland.SG	Poland	52.29	17.54	M
+Chinchorroi15	RaghavanScience2015	5839	Chinchorro_LA	Chile	-18.48	-70.33	M
+RISE596	AllentoftNature2015	2550	Montenegro_IA.SG	Montenegro	42.38	18.74	F
+MOM6	RaghavanScience2015	..	PreColumbian_MEX_CH_MOM6.SG	Mexico	27	-107.25	M
+kum4	OmrakCurrentBiology2016	6550	Anatolia_Neolithic_Kumtepe.SG	Turkey	39.95	26.2	F
+doo	SchlebuschScience2017	2100	South_Africa_StoneAge	South Africa	..	..	..
+Sanganji_131421-3_A1	KanzawaJHG2016	3156	Jomon	Japan	..	..	M
+BC27	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+MA572	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-53.48	-70.78	M
+BC23	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+BC28	RaghavanScience2015	500	Pericues.SG	Mexico	..	..	M
+Ajvide59	SkoglundScience2014	4700	PWC_Sweden_NHG.SG	Sweden	57.5	18.55	M
+F9	RaghavanScience2015	..	Pre_Columbian_mummy.SG	Mexico	27	-107.25	M
+I1048	SkoglundCell2017	1358	Tanzania_Pemba_1400BP.SG	Tanzania	-4.9	39.6	M
+AM72	RaghavanScience2015	100	Fuego_Patagonian.SG	Chile	..	..	M
+MA575	RaghavanScience2015	100	Fuego_Patagonian.SG	Argentina	-54.88	-68.14	M
+Hum1	GuntherPlosBiology2018	11314	Scandinavian_HG	Norway	58.1	7.7	F
+Hum2	GuntherPlosBiology2018	11314	Scandinavian_HG	Norway	58.1	7.7	M
+Steigen	GuntherPlosBiology2018	7807	Scandinavian_HG	Norway	67.8	14.7	M
+SF9	GuntherPlosBiology2018	11094	Scandinavian_HG	Sweden	57.3	18	F
+SF11	GuntherPlosBiology2018	10842	Scandinavian_HG	Sweden	57.3	18	M
+SF12	GuntherPlosBiology2018	10845	Scandinavian_HG	Sweden	57.3	18	F
+SBj	GuntherPlosBiology2018	10721	Scandinavian_HG	Sweden	57.8	18.5	M
+GoyetQ56-1	HajdinjakNature2018	42540	Neanderthal	Belgium	50.4	5.01	F
+LesCottesZ4-1514	HajdinjakNature2018	43230	Neanderthal	France	47	0	F
+Mezmaiskaya2	HajdinjakNature2018	43780	Neanderthal	Russia	44.2	40	M
+Spy94a	HajdinjakNature2018	38515	Neanderthal	Belgium	50.4	4.67	M
+ALH10	VeeramahPNAS2018	1440	Germany_Medieval	Germany	49.55	10.51	F
+ALH1	VeeramahPNAS2018	1400	Germany_Medieval	Germany	49.55	10.51	M
+FN2	VeeramahPNAS2018	1650	Roman	Germany	48.1	11.6	M
+KER1	VeeramahPNAS2018	1700	Ostrogoth	Crimea	45.4	36.5	M
+NW54	VeeramahPNAS2018	1490	Germany_Medieval	Germany	49	12.1	F
+STR220	VeeramahPNAS2018	1535	Germany_Medieval	Germany	48.5	12.3	F
+STR300	VeeramahPNAS2018	1430	Germany_Medieval	Germany	48.5	12.3	F
+STR310	VeeramahPNAS2018	1430	Germany_Medieval	Germany	48.5	12.3	F
+STR355	VeeramahPNAS2018	1430	Germany_Medieval	Germany	48.5	12.3	F
+STR486	VeeramahPNAS2018	1455	Germany_Medieval	Germany	48.5	12.3	M
+VIM2	VeeramahPNAS2018	1400	Serbia_Medieval	Serbia	44.7	21.2	M
+I6747	BraceNatureEvoEco2019	5557	Britain_Neolithic	UK	53.1	-1.6	M
+I6767	BraceNatureEvoEco2019	10245	Britain_Mesolithic	UK	51.3	-2.8	M
+DA100	Damgaard2018a	1629	TianShanHun	Kyrgyzstan	42.156667	77.405556	M
+DA101	Damgaard2018a	1701	TianShanHun	Kyrgyzstan	42.159444	77.406389	M
+DA104	Damgaard2018a	1769	TianShanHun	Kyrgyzstan	42.156944	77.405556	F
+DA105	Damgaard2018a	1769	TianShanHun	Kyrgyzstan	42.156944	77.405556	M
+DA106	Damgaard2018a	739	Nomad_Med	Kyrgyzstan	42.074722	76.963889	M
+DA10	Damgaard2018a	2700	CentralSaka	Kazakhstan	49.12888889	72.91333333	F
+DA111	Damgaard2018a	2758	HallstattBylany	Czech Republic	50.5099972	14.05	M
+DA112	Damgaard2018a	2478	HallstattBylany	Czech Republic	50.5099972	14.05	F
+DA116	Damgaard2018a	762	Nomad_Med	Kyrgyzstan	42.074444	76.961111	F
+DA117	Damgaard2018a	145	Nomad_His	Kyrgyzstan	42.074444	76.966667	M
+DA118	Damgaard2018a	852	Nomad_Med	Kyrgyzstan	42.074444	76.966667	F
+DA119	Damgaard2018a	1600	Poprad	Slovakia	49.07777778	20.31722222	M
+DA11	Damgaard2018a	2581	CentralSaka	Kazakhstan	50.88833333	73.88027778	F
+DA121	Damgaard2018a	1592	Kangju	Kazakhstan	42.73305556	68.34055556	F
+DA123	Damgaard2018a	1600	Kangju	Kazakhstan	42.73305556	68.32444444	F
+DA124	Damgaard2018a	1271	Nomad_Med	Kazakhstan	43.37111111	77.43888889	M
+DA125	Damgaard2018a	1738	Kangju	Kazakhstan	42.59305556	68.05055556	M
+DA126	Damgaard2018a	985	Nomad_Med	Kazakhstan	43.385	77.54111111	M
+DA127	Damgaard2018a	1634	OutTianShanHun	Kazakhstan	42.99055556	79.36916667	M
+DA128	Damgaard2018a	689	Nomad_Med	Kazakhstan	43.52444444	77.75833333	F
+DA129	Damgaard2018a	2342	Nomad_IA	Kazakhstan	43.14	76.22527778	M
+DA130	Damgaard2018a	2232	TianShanSaka	Kazakhstan	43.36861111	77.42666667	M
+DA134	Damgaard2018a	1933	Sarmatian	Russia	47.293449	39.54598	M
+DA136	Damgaard2018a	1933	Sarmatian	Russia	47.28429	39.533315	M
+DA139	Damgaard2018a	1933	Sarmatian	Russia	47.293449	39.54598	F
+DA13	Damgaard2018a	2577	CentralSaka	Kazakhstan	49.060646	75.5032	M
+DA141	Damgaard2018a	1933	Sarmatian	Russia	47.28429	39.533315	M
+DA142	Damgaard2018a	1300	Nomad_Med	Russia	47.282396	39.541034	M
+DA143	Damgaard2018a	1933	Sarmatian	Russia	47.292254	39.543076	F
+DA144	Damgaard2018a	1933	Sarmatian	Russia	47.293449	39.54598	M
+DA145	Damgaard2018a	1933	Sarmatian	Russia	47.282396	39.541034	M
+DA146	Damgaard2018a	1300	Alan	Russia	42.861705	44.185108	F
+DA14	Damgaard2018a	2565	CentralSaka	Kazakhstan	49.12309	75.18855	F
+DA15	Damgaard2018a	2564	CentralSaka	Kazakhstan	48.48221	74.42368	M
+DA160	Damgaard2018a	1300	Alan	Russia	42.861705	44.185108	F
+DA161	Damgaard2018a	1300	Alan	Russia	42.826264	44.115811	M
+DA162	Damgaard2018a	1700	Alan	Russia	43.217051	44.53845	M
+DA164	Damgaard2018a	850	Alan	Russia	43.327555	44.178391	F
+DA16	Damgaard2018a	2564	CentralSaka	Kazakhstan	48.48834	74.42547	M
+DA171	Damgaard2018a	1600	NLithuania	Lithuania	55.743786	24.228036	M
+DA177	Damgaard2018a	1750	Nomad_HP	Kazakhstan	52.01583333	77.18611111	F
+DA179	Damgaard2018a	900	Kipchak	Kazakhstan	49.04361111	73.62111111	M
+DA17	Damgaard2018a	2733	OutCentralSaka	Kazakhstan	51.08368	75.42763	M
+DA188	Damgaard2018a	1116	SaltovoMayaki	Russia	50.114471	38.300882	M
+DA189	Damgaard2018a	1175	SaltovoMayaki	Russia	50.476192	36.982805	M
+DA18	Damgaard2018a	2554	Nomad_IA	Kazakhstan	51.71055556	74.88416667	F
+DA190	Damgaard2018a	1283	SaltovoMayaki	Russia	50.476192	36.982805	M
+DA191	Damgaard2018a	2362	HungarianScythian	Hungary	47.55944444	20.70805556	F
+DA194	Damgaard2018a	2279	HungarianScythian	Hungary	46.34444444	20.1625	F
+DA195	Damgaard2018a	2523	HungarianScythian	Hungary	46.34444444	20.1625	F
+DA197	Damgaard2018a	2336	HungarianScythian	Hungary	46.34444444	20.1625	M
+DA198	Damgaard2018a	2342	HungarianScythian	Hungary	46.34444444	20.1625	M
+DA199	Damgaard2018a	644	Hungarian_Med	Hungary	47.55694444	21.01527778	F
+DA19	Damgaard2018a	2629	OutCentralSaka	Kazakhstan	51.26861111	78.07388889	M
+DA201	Damgaard2018a	2005	Wusun	Kazakhstan	43.22222222	77.84722222	F
+DA202	Damgaard2018a	2418	Sarmatian	..	46.03972222	53.44222222	F
+DA203	Damgaard2018a	850	Karakhanid	Kazakhstan	43.2025	76.98166667	M
+DA204	Damgaard2018a	940	Karakhanid	Kazakhstan	43.2025	76.98166667	M
+DA205	Damgaard2018a	850	Karakhanid	Kazakhstan	43.2025	76.98166667	F
+DA206	Damgaard2018a	1689	Kangju	Kazakhstan	42.90194444	68.24888889	M
+DA207	Damgaard2018a	200	Kazakh_His	Kazakhstan	42.90194444	68.24888889	M
+DA208	Damgaard2018a	200	Kazakh_His	Kazakhstan	42.90194444	68.24888889	M
+DA20	Damgaard2018a	2233	Nomad_Hun-Sarmatian	Kazakhstan	51.63972222	74.67194444	M
+DA220	Damgaard2018a	2150	Wusun	Kazakhstan	43.22222222	77.84722222	M
+DA221	Damgaard2018a	2565	Nomad_IA	Kazakhstan	43.18222222	76.41305556	M
+DA222	Damgaard2018a	1100	Karluk	Kazakhstan	43.2025	76.98166667	M
+DA223	Damgaard2018a	2274	Wusun	Kazakhstan	43.22222222	77.84722222	M
+DA224	Damgaard2018a	1531	OutTurk	Kazakhstan	42.82916667	68.325	M
+DA226	Damgaard2018a	1850	Kangju	Kazakhstan	43.06861111	68.24888889	F
+DA227	Damgaard2018a	2150	Wusun	Kazakhstan	43.22222222	77.84722222	F
+DA228	Damgaard2018a	1250	Turk	Kazakhstan	42.82916667	68.325	M
+DA229	Damgaard2018a	1950	Kangju	Kazakhstan	42.45972222	69.69972222	M
+DA230	Damgaard2018a	1100	Karluk	Kazakhstan	43.2025	76.98166667	M
+DA231	Damgaard2018a	3372	Andronovo	Kazakhstan	52.49083333	76.83944444	F
+DA23	Damgaard2018a	851	Kipchak	Kazakhstan	52.6925	62.64722222	M
+DA243	Damgaard2018a	1533	Alan	Russia	43.958649	42.587303	M
+DA26	Damgaard2018a	2000	Sarmatian	Kazakhstan	52.18111111	64.53944444	F
+DA27	Damgaard2018a	1542	Nomad_Hun-Sarmatian	Kazakhstan	52.836944	62.893611	M
+DA28	Damgaard2018a	700	GoldenHordeAsian	Kazakhstan	46.99722222	66.28583333	M
+DA29	Damgaard2018a	700	GoldenHordeEuro	Kazakhstan	46.99722222	66.28583333	M
+DA2	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	M
+DA30	Damgaard2018a	1961	Sarmatian	Kazakhstan	51.695	65.67138889	M
+DA31	Damgaard2018a	3207	LchashenMetsamor	Armenia	40.52027778	44.93083333	M
+DA343	Damgaard2018a	4162	Glazkovo	Russia	53.188889	103.368056	M
+DA353	Damgaard2018a	4162	Glazkovo	Russia	53.188889	103.368056	M
+DA356	Damgaard2018a	4162	Glazkovo	Russia	53.188889	103.368056	M
+DA35	Damgaard2018a	3207	LchashenMetsamor	Armenia	40.52027778	44.93083333	F
+DA361	Damgaard2018a	4162	Glazkovo	Russia	53.188889	103.368056	M
+DA385	Damgaard2018a	1466	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	M
+DA38	Damgaard2018a	2043	XiongNu_WE	Mongolia	49.27444444	101.7158333	F
+DA39	Damgaard2018a	1960	XiongNu	Mongolia	48.01777778	101.3533333	M
+DA3	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	F
+DA41	Damgaard2018a	2179	XiongNu_WE	Mongolia	49.27444444	101.7158333	M
+DA43	Damgaard2018a	1994	XiongNu	Mongolia	42.52583333	105.18	M
+DA45	Damgaard2018a	1994	XiongNu	Mongolia	42.52583333	105.18	M
+DA47	Damgaard2018a	2065	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA48	Damgaard2018a	2250	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA49	Damgaard2018a	2228	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA4	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	M
+DA50	Damgaard2018a	2250	NoDateTianShanSaka	Kyrgyzstan	41.42805556	75.32972222	F
+DA51	Damgaard2018a	2230	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA52	Damgaard2018a	1482	TianShanHun	Kyrgyzstan	41.42805556	75.32972222	M
+DA53	Damgaard2018a	2354	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	F
+DA54	Damgaard2018a	1595	TianShanHun	Kyrgyzstan	41.42805556	75.32972222	M
+DA55	Damgaard2018a	1986	TianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA56	Damgaard2018a	2049	OutTianShanSaka	Kyrgyzstan	41.42805556	75.32972222	M
+DA57	Damgaard2018a	2070	TianShanSaka	Kyrgyzstan	41.49972222	75.80416667	M
+DA58	Damgaard2018a	2065	TianShanSaka	Kyrgyzstan	41.49972222	75.80416667	M
+DA59	Damgaard2018a	2140	TianShanSaka	Kyrgyzstan	41.49972222	75.80416667	M
+DA5	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	M
+DA65	Damgaard2018a	1525	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	M
+DA66	Damgaard2018a	1456	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA68	Damgaard2018a	1361	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA69	Damgaard2018a	1543	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA6	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	F
+DA70	Damgaard2018a	1833	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA71	Damgaard2018a	1645	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA72	Damgaard2018a	1586	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA73	Damgaard2018a	1634	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	M
+DA74	Damgaard2018a	1514	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	M
+DA7	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	M
+DA80	Damgaard2018a	1613	TianShanHun	Kyrgyzstan	41.50138889	75.79472222	F
+DA81	Damgaard2018a	1684	TianShanHun	Kyrgyzstan	41.615	74.98583333	M
+DA82	Damgaard2018a	1801	TianShanHun	Kyrgyzstan	41.615	74.98583333	F
+DA85	Damgaard2018a	1700	TianShanHun	Kyrgyzstan	41.615	74.98583333	M
+DA86	Damgaard2018a	1468	Turk	Kyrgyzstan	42.076111	76.965556	M
+DA87	Damgaard2018a	1280	Kimak	Kazakhstan	52.64305556	76.71055556	M
+DA89	Damgaard2018a	1246	Turk	Kazakhstan	53.59722222	75.20861111	M
+DA8	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	F
+DA92	Damgaard2018a	1923	Nomad_IA	Kazakhstan	52.17388889	77.03972222	M
+DA93	Damgaard2018a	1129	Nomad_Med	Kazakhstan	52.50472222	76.61472222	M
+DA94	Damgaard2018a	1129	Nomad_Med	Kazakhstan	52.50472222	76.61472222	M
+DA95	Damgaard2018a	1604	Nomad_HP	Kazakhstan	52.61805556	76.74944444	M
+DA96	Damgaard2018a	1613	TianShanHun	Kyrgyzstan	42.156944	77.405556	M
+DA98	Damgaard2018a	1831	TianShanHun	Kyrgyzstan	42.159444	77.406389	F
+DA99	Damgaard2018a	755	Nomad_Med	Kyrgyzstan	42.067222	76.962778	F
+DA9	Damgaard2018a	2817	Tagar	Russia	54.67583333	90.85361111	F
+BOT14	Damgaard2018b	5264	Kazakhstan_Botai.SG	Kazakhstan	53.305983	67.648166	M
+BOT15	Damgaard2018b	5135	Kazakhstan_Botai.SG	Kazakhstan	53.305983	67.648166	M
+BOT2016	Damgaard2018b	5450	Kazakhstan_Botai.SG	Kazakhstan	53.305983	67.648166	F
+DA245	Damgaard2018b	7941	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA246	Damgaard2018b	7727	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	F
+DA247	Damgaard2018b	7701	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA248	Damgaard2018b	7645	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA249	Damgaard2018b	7840	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	F
+DA250	Damgaard2018b	7392	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA251	Damgaard2018b	7336	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA252	Damgaard2018b	7341	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	F
+DA253	Damgaard2018b	7246	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	F
+DA334	Damgaard2018b	4121	Russia_Shamanka_EBA.SG	Russia	51.698333	103.703056	M
+DA335	Damgaard2018b	4200	Russia_Shamanka_EBA.SG	Russia	51.698333	103.703056	M
+DA336	Damgaard2018b	4200	Russia_Shamanka_EBA.SG	Russia	51.698333	103.703056	M
+DA337	Damgaard2018b	4331	Russia_Shamanka_EBA.SG	Russia	51.698333	103.703056	M
+DA338	Damgaard2018b	4200	Russia_Shamanka_EBA.SG_brother.DA336.SG	Russia	51.698333	103.703056	M
+DA339	Damgaard2018b	4040	Russia_Shamanka_EBA.SG	Russia	51.698333	103.703056	M
+DA340	Damgaard2018b	6990	Russia_Lokomotiv_EN.SG	Russia	52.286944	104.249167	F
+DA341	Damgaard2018b	7585	Russia_Lokomotiv_EN.SG	Russia	52.286944	104.249167	F
+DA342	Damgaard2018b	5610	Russia_UstIda_LN.SG	Russia	53.188889	103.368056	F
+DA344	Damgaard2018b	5608	Russia_UstIda_LN.SG	Russia	53.188889	103.368056	F
+DA345	Damgaard2018b	5456	Russia_UstIda_LN.SG	Russia	53.188889	103.368056	M
+DA354	Damgaard2018b	4626	Russia_Kurma_EBA_o.SG	Russia	53.179167	106.962778	M
+DA355	Damgaard2018b	5461	Russia_UstIda_LN.SG	Russia	53.188889	103.368056	M
+DA357	Damgaard2018b	7803	Russia_Lokomotiv_EN.SG	Russia	52.286944	104.249167	M
+DA358	Damgaard2018b	4710	Russia_Kurma_EBA.SG	Russia	53.179167	106.962778	F
+DA359	Damgaard2018b	7559	Russia_Lokomotiv_EN.SG	Russia	52.286944	104.249167	M
+DA360	Damgaard2018b	4706	Russia_Kurma_EBA.SG	Russia	53.179167	106.962778	F
+DA362	Damgaard2018b	7242	Russia_Shamanka_EN.SG	Russia	51.698333	103.703056	M
+DA379	Damgaard2018b	5147	Turkmenistan_Namazga_CA.SG_1d.rel.DA380_final.SG	Turkmenistan	37.60098	59.328411	M
+DA380	Damgaard2018b	5181	Turkmenistan_Namazga_CA.SG	Turkmenistan	37.60098	59.328411	F
+DA381	Damgaard2018b	5181	Turkmenistan_Namazga_CA.SG	Turkmenistan	37.1907	61.0343	M
+DA382	Damgaard2018b	2806	Turkmenistan_IA.SG	Turkmenistan	38.718548	61.692287	M
+DA383	Damgaard2018b	5150	Turkmenistan_Namazga_CA_o.SG	Turkmenistan	38.718548	61.692287	F
+EBA1	Damgaard2018b	4112	Kazakhstan_CentralSteppe_EMBA.SG	Kazakhstan	51.631339	74.66445	F
+EBA2	Damgaard2018b	4494	Kazakhstan_CentralSteppe_EMBA.SG	Kazakhstan	52.629778	76.727647	F
+MA2195	Damgaard2018b	3800	Anatolia_Ottoman1.SG	Turkey	39.345805	33.78813	F
+MA2196	Damgaard2018b	3800	Anatolia_Ottoman2.SG	Turkey	39.345805	33.78813	F
+MA2197	Damgaard2018b	2900	Anatolia_IA.SG	Turkey	39.345805	33.78813	F
+MA2198	Damgaard2018b	2900	Anatolia_IA.SG	Turkey	39.345805	33.78813	F
+MA2200	Damgaard2018b	3800	Anatolia_MLBA.SG	Turkey	39.345805	33.78813	M
+MA2203	Damgaard2018b	3800	Anatolia_MLBA.SG	Turkey	39.345805	33.78813	F
+MA2205	Damgaard2018b	3800	Anatolia_MLBA.SG	Turkey	39.345805	33.78813	M
+MA2206	Damgaard2018b	3800	Anatolia_MLBA.SG	Turkey	39.345805	33.78813	F
+MA2208	Damgaard2018b	3800	Anatolia_MLBA.SG	Turkey	39.345805	33.78813	M
+MA2210	Damgaard2018b	4700	Anatolia_EBA.SG	Turkey	38.629306	34.297718	F
+MA2212	Damgaard2018b	4700	Anatolia_EBA.SG	Turkey	38.629306	34.297718	M
+MA2213	Damgaard2018b	4700	Anatolia_EBA.SG	Turkey	38.629306	34.297718	F
+RISE515	Damgaard2018b	4193	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	F
+RISE516	Damgaard2018b	4069	Russia_Okunevo_BA.SG_sister.RISE672.SG	Russia	53.156486	90.207811	F
+RISE662	Damgaard2018b	4070	Russia_Okunevo_BA_dup.I3426.SG	Russia	53.547806	91.02565	M
+RISE664	Damgaard2018b	4283	Russia_Okunevo_BA_dup.I3427.SG	Russia	53.547806	91.02565	M
+RISE667	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	F
+RISE670	Damgaard2018b	3963	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	M
+RISE671	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	F
+RISE672	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	M
+RISE673	Damgaard2018b	4300	Russia_Okunevo_BA.SG_1d.rel.RISE515.SG	Russia	53.156486	90.207811	M
+RISE674	Damgaard2018b	4079	Russia_Okunevo_BA.SG	Russia	53.156486	90.207811	M
+RISE675	Damgaard2018b	4555	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	M
+RISE677	Damgaard2018b	4482	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	F
+RISE680	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	F
+RISE681	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	F
+RISE683	Damgaard2018b	3977	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	M
+RISE684	Damgaard2018b	4253	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	F
+RISE685	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	53.708561	90.359808	F
+RISE718	Damgaard2018b	4411	Russia_Okunevo_BA_brother.I2078.SG	Russia	54.371767	91.506856	M
+RISE719	Damgaard2018b	4300	Russia_Okunevo_BA.SG	Russia	54.371767	91.506856	M
+Sidelkino	Damgaard2018b	11259	Russia_Sidelkino_HG.SG	Russia	54.53	51.11	F
+Yamnaya	Damgaard2018b	4903	Kazakhstan_Karagash_Yamnaya_EMBA.SG	Kazakhstan	49.134217	75.851817	F
+Yana_old	SikoraNature2019	31684	Yana	Russia	70.72	135.42	M
+Yana_old2	SikoraNature2019	31684	Yana	Russia	70.72	135.42	M
+I9030	FuNature2016	13980	Villabruna	Italy	46.15	12.21	M
+I0898	FuNature2016	32415	Kostenki12	Russia	51.23	39.3	M
+I0062	FuNature2016	30010	Vestonice16	Czech Republic	48.53	16.39	M
+I0876	FuNature2016	37470	Kostenki14	Russia	51.23	39.3	M
+I0066.damage	FuNature2016	30260	Pavlov1	Czech Republic	48.53	16.39	M
+I0909.damage	FuNature2016	33300	Muierii2	Romania	45.11	23.46	F
+I0004.damage	FuNature2016	30870	Vestonice13	Czech Republic	48.53	16.39	M
+I0080.damage	FuNature2016	30870	Vestonice15	Czech Republic	48.53	16.39	M
+I0065.damage	FuNature2016	30010	Vestonice43	Czech Republic	48.53	16.39	M
+I0889.damage	FuNature2016	28975	Ostuni2	Italy	40.73	17.57	M
+I0869.damage	FuNature2016	27620	Ostuni1	Italy	40.73	17.57	F
+I0878.damage	FuNature2016	10855	Continenza	Italy	41.96	13.54	F
+I0006_damage	FuNature2016	30870	Vestonice14	Czech Republic	48.53	16.39	M
+I0907.damage	FuNature2016	18720	ElMiron	Spain	43.26	-3.45	F
+I9050.damage	FuNature2016	17930	AfontovaGora3	Russia	56.02	92.87	F
+Ranchot.damage	FuNature2016	10085	Ranchot88	France	47.91	5.43	F
+Bockstein.damage	FuNature2016	8265	Bockstein	Germany	48.33	10.09	F
+Ofnet.damage	FuNature2016	8245	Ofnet	Germany	48.49	10.27	F
+LCX-13.damage	FuNature2016	9900	LesCloseaux13	France	48.52	2.11	M
+Berry_au_Bac_low	FuNature2016	7245	BerryAuBac	France	49.24	3.54	M
+Q116-1	FuNature2016	34795	GoyetQ116-1	Belgium	50.26	4.28	M
+Cioclovina_d	FuNature2016	32435	Cioclovina1	Romania	45.35	23.84	M
+B1_d	FuNature2016	27750	Paglicci108	Italy	41.65	15.61	M
+Q53-1_d	FuNature2016	27975	GoyetQ53-1	Belgium	50.26	4.28	M
+Q376-19_d	FuNature2016	27515	GoyetQ376-19	Belgium	50.26	4.28	M
+Q56-16_d	FuNature2016	26320	GoyetQ56-16	Belgium	50.26	4.28	M
+GA252snp	FuNature2016	32895	Paglicci133	Italy	41.65	15.61	M
+Hohle_Fels	FuNature2016	14670	HohleFels79	Germany	48.22	9.45	M
+HF49	FuNature2016	15130	HohleFels49	Germany	48.22	9.45	M
+Rigney2	FuNature2016	15465	Rigney1	France	47.23	6.1	F
+Q2	FuNature2016	15005	GoyetQ-2	Belgium	50.26	4.28	M
+BRI_d	FuNature2016	14780	Brillenhohle	Germany	48.24	9.46	M
+BUR_d	FuNature2016	14615	Burkhardtshohle	Germany	48.32	9.35	M
+Rochedane_low	FuNature2016	12960	Rochedane	France	47.21	6.45	M
+ADI_d	FuNature2016	11725	Iboussieres39	France	44.29	4.46	M
+Falkenstein_d	FuNature2016	9200	Falkenstein	Germany	48.06	9.04	M
+CRC-1_d	FuNature2016	8205	Chaudardes1	France	49.24	3.46	M
+I1577	FuNature2016	30950	KremsWA3	Austria	48.41	15.59	M
+I1634	LazaridisNature2016	6145	Armenia_ChL	Armenia	39.73	45.2	M
+I1632	LazaridisNature2016	6065	Armenia_ChL	Armenia	39.73	45.2	M
+I1631	LazaridisNature2016	6100	Armenia_ChL	Armenia	39.73	45.2	M
+I1635	LazaridisNature2016	4492	Armenia_EBA	Armenia	40.65	45.12	M
+I1633	LazaridisNature2016	4465	Armenia_EBA	Armenia	40.65	45.12	M
+I1658	LazaridisNature2016	5170	Armenia_EBA	Armenia	40.39	43.89	M
+I1656	LazaridisNature2016	3402	Armenia_MLBA	Armenia	40.38	43.94	M
+I1409	LazaridisNature2016	6057	Armenia_ChL	Armenia	39.73	45.2	M
+I1407	LazaridisNature2016	5875	Armenia_ChL	Armenia	39.73	45.2	M
+I1290	LazaridisNature2016	9846	Iran_N	Iran	34.45	48.12	M
+I1069	LazaridisNature2016	12750	Natufian	Israel	32.65	35.07	M
+I1687	LazaridisNature2016	13265	Natufian	Israel	32.65	35.07	M
+I1690	LazaridisNature2016	12750	Natufian	Israel	32.65	35.07	M
+I1685	LazaridisNature2016	12750	Natufian	Israel	32.65	35.07	M
+I1072	LazaridisNature2016	12750	Natufian	Israel	32.65	35.07	M
+I1705	LazaridisNature2016	4032	Levant_BA	Jordan	31.99	35.98	M
+I1706	LazaridisNature2016	4345	Levant_BA	Jordan	31.99	35.98	M
+I1679	LazaridisNature2016	8800	Levant_N	Jordan	31.99	35.98	M
+I1416	LazaridisNature2016	10050	Levant_N	Jordan	31.99	35.98	M
+I1415	LazaridisNature2016	9875	Levant_N	Jordan	31.99	35.98	M
+I1414	LazaridisNature2016	10050	Levant_N	Jordan	31.99	35.98	M
+I1701	LazaridisNature2016	9610	Levant_N	Jordan	31.99	35.98	M
+I1709	LazaridisNature2016	10050	Levant_N	Jordan	31.99	35.98	M
+I1727	LazaridisNature2016	10050	Levant_N	Jordan	31.99	35.98	M
+I1710	LazaridisNature2016	9580	Levant_N	Jordan	31.99	35.98	M
+I1707	LazaridisNature2016	9582	Levant_N	Jordan	31.99	35.98	M
+I1704	LazaridisNature2016	9202	Levant_N	Jordan	31.99	35.98	M
+I1730	LazaridisNature2016	4344	Levant_BA	Jordan	31.99	35.98	M
+I1700	LazaridisNature2016	10050	Levant_N	Jordan	31.99	35.98	M
+I1699	LazaridisNature2016	8700	Levant_N	Jordan	31.99	35.98	M
+I1670	LazaridisNature2016	6678	Iran_ChL	Iran	34.5	47.96	M
+I1662	LazaridisNature2016	6672	Iran_ChL	Iran	34.5	47.96	M
+I1674	LazaridisNature2016	5836	Iran_ChL	Iran	34.5	47.96	M
+I1665	LazaridisNature2016	5826	Iran_ChL	Iran	34.5	47.96	M
+I1661	LazaridisNature2016	6544	Iran_ChL	Iran	34.5	47.96	M
+I1671	LazaridisNature2016	7698	Iran_LN	Iran	34.5	47.96	M
+I0867	LazaridisNature2016	8700	Levant_N	Israel	31.79	35.17	M
+I0861	LazaridisNature2016	12750	Natufian	Israel	32.65	35.07	M
+I1944	LazaridisNature2016	9800	Iran_N	Iran	34.45	48.12	M
+I1945	LazaridisNature2016	9800	Iran_N	Iran	34.45	48.12	M
+I1949	LazaridisNature2016	10052	Iran_N	Iran	34.45	48.12	M
+I1951	LazaridisNature2016	9892	Iran_N	Iran	34.45	48.12	M
+I1955	LazaridisNature2016	493	Iran_recent	Iran	34.45	48.12	M
+I1584	LazaridisNature2016	5776	Anatolia_ChL	Turkey	40.3	29.57	M
+I1293	LazaridisNature2016	10800	Iran_HotuIIIb	Iran	35.59	53.5	M
+I2683	LazaridisNature2017	4494	Anatolia_BA	Turkey	37.92	30.71	F
+I2937	LazaridisNature2017	7359	Greece_N	Greece	36.64	22.38	F
+I0070	LazaridisNature2017	4000	Minoan_Lasithi	Greece	35.08	25.83	M
+I0071	LazaridisNature2017	4000	Minoan_Lasithi	Greece	35.08	25.83	F
+I0073	LazaridisNature2017	4000	Minoan_Lasithi	Greece	35.08	25.83	M
+I0074	LazaridisNature2017	4000	Minoan_Lasithi	Greece	35.08	25.83	F
+I9010	LazaridisNature2017	3250	Mycenaean	Greece	37.5	23.45	F
+I9005	LazaridisNature2017	4000	Minoan_Lasithi	Greece	35.08	25.83	F
+I9006	LazaridisNature2017	3287	Mycenaean	Greece	37.97	23.5	F
+I9033	LazaridisNature2017	3298	Mycenaean	Greece	36.92	21.7	F
+I9041	LazaridisNature2017	3250	Mycenaean	Greece	37.5	23.45	M
+I9123	LazaridisNature2017	3240	Crete_Armenoi	Greece	35.45	24.17	F
+I9127	LazaridisNature2017	3895	Minoan_Odigitria	Greece	35.05	24.81	F
+I9128	LazaridisNature2017	3895	Minoan_Odigitria	Greece	35.05	24.81	F
+I9129	LazaridisNature2017	3895	Minoan_Odigitria	Greece	35.05	24.81	F
+I9130	LazaridisNature2017	3895	Minoan_Odigitria	Greece	35.05	24.81	M
+I9131	LazaridisNature2017	3895	Minoan_Odigitria	Greece	35.05	24.81	F
+I2739	LipsonNature2017	7142	LBKT_MN	Hungary	46.21	18.7	M
+I2744	LipsonNature2017	7050	ALPc_MN	Hungary	47.18	19.86	M
+I2745	LipsonNature2017	7050	ALPc_MN	Hungary	47.18	19.86	F
+I2746	LipsonNature2017	6700	Tisza_LN	Hungary	46.94	21.21	M
+I2752	LipsonNature2017	5175	Baden_LCA	Hungary	46.78	17.73	M
+I2753	LipsonNature2017	5081	Baden_LCA	Hungary	46.78	17.73	M
+I2763	LipsonNature2017	5025	Baden_LCA	Hungary	46.67	17.27	F
+I2783	LipsonNature2017	6046	Balaton_Lasinja_CA	Hungary	46.33	19.05	M
+I2785	LipsonNature2017	5175	Baden_LCA	Hungary	47.68	19.92	F
+I2788	LipsonNature2017	5730	Protoboleraz_LCA	Hungary	47.19	20	M
+I2789	LipsonNature2017	5650	Protoboleraz_LCA	Hungary	47.19	20	M
+I2790	LipsonNature2017	5649	Protoboleraz_LCA	Hungary	47.19	20	F
+I2791	LipsonNature2017	5471	Protoboleraz_LCA	Hungary	47.19	20	M
+I2793	LipsonNature2017	6301	Tiszapolgar_ECA	Hungary	47.19	20.4	M
+I2199	LipsonNature2017	7074	Iberia_EN	Spain	42.63	-3.12	F
+I2467	LipsonNature2017	4297	Iberia_Chalcolithic	Spain	42.57	-2.62	M
+I2473	LipsonNature2017	4765	Iberia_Chalcolithic	Spain	42.57	-2.62	M
+I0802	LipsonNature2017	5163	Germany_MN	Germany	51.53	11.83	M
+I0800	LipsonNature2017	5171	Germany_MN	Germany	51.53	11.83	F
+I0447	LipsonNature2017	6700	Tisza_LN	Hungary	46.36	20.28	F
+I0449	LipsonNature2017	6700	Tisza_LN	Hungary	46.36	20.28	M
+I1594	LipsonNature2017	5131	Blatterhole_MN	Germany	51.36	7.55	M
+I1838	LipsonNature2017	5099	Iberia_Chalcolithic	Spain	42.63	-2.7	F
+I1843	LipsonNature2017	4935	Iberia_Chalcolithic	Spain	42.57	-2.57	F
+I1887	LipsonNature2017	7150	Vinca_MN	Hungary	45.59	18.31	M
+I1890	LipsonNature2017	6875	TDLN	Hungary	46.42	18.92	M
+I1891	LipsonNature2017	6969	TDLN	Hungary	46.42	18.92	F
+I1894	LipsonNature2017	7150	Vinca_MN	Hungary	45.59	18.31	F
+I1895	LipsonNature2017	7151	Vinca_MN	Hungary	45.6	18.28	F
+I1896	LipsonNature2017	7150	Vinca_MN	Hungary	45.6	18.28	M
+I1899	LipsonNature2017	6380	TDLN	Hungary	47.1	17.91	M
+I1901	LipsonNature2017	6600	TDLN	Hungary	47.1	17.91	M
+I1902	LipsonNature2017	6600	TDLN	Hungary	47.02	17.96	M
+I1903	LipsonNature2017	6600	TDLN	Hungary	46.2	18.7	M
+I1905	LipsonNature2017	6664	TDLN	Hungary	47.51	18.62	M
+I1906	LipsonNature2017	6600	TDLN	Hungary	47.51	18.62	M
+I1907	LipsonNature2017	6153	Balaton_Lasinja_CA	Hungary	47.64	17.36	F
+I1908	LipsonNature2017	6050	Balaton_Lasinja_CA	Hungary	46.71	17.24	F
+I1909	LipsonNature2017	6089	Balaton_Lasinja_CA	Hungary	45.99	18.58	F
+I1972	LipsonNature2017	6710	Iberia_EN	Spain	42.63	-3.12	F
+I1975	LipsonNature2017	4942	Iberia_Chalcolithic	Spain	42.57	-2.55	M
+I1976	LipsonNature2017	4409	Iberia_Chalcolithic	Spain	42.57	-2.62	M
+I1893	LipsonNature2017	6889	TDLN	Hungary	46.2	18.73	M
+I1904	LipsonNature2017	7028	LBKT_MN	Hungary	46.2	18.7	M
+I1593	LipsonNature2017	5601	Blatterhole_MN	Germany	51.36	7.55	M
+I1563	LipsonNature2017	5361	Blatterhole_MN	Germany	51.36	7.55	F
+I1565	LipsonNature2017	5735	Blatterhole_MN_HG	Germany	51.36	7.55	M
+I1876	LipsonNature2017	7544	Starcevo_EN	Hungary	46.21	18.7	M
+I1878	LipsonNature2017	7700	Starcevo_EN	Hungary	46.21	18.7	M
+I1882	LipsonNature2017	7050	LBKT_MN	Hungary	47.5	18.91	M
+I1981	LipsonNature2017	4903	Iberia_Chalcolithic	Spain	42.57	-2.57	F
+I2352	LipsonNature2017	6388	TDLN	Hungary	47.1	17.91	M
+I2353	LipsonNature2017	6200	Tiszapolgar_ECA	Hungary	47.46	20.51	M
+I2354	LipsonNature2017	6200	Tiszapolgar_ECA	Hungary	47.46	20.51	M
+I2355	LipsonNature2017	7050	ALPc_MN	Hungary	47.46	20.51	F
+I2357	LipsonNature2017	7050	ALPc_MN	Hungary	47.46	20.51	F
+I2358	LipsonNature2017	6700	Tisza_LN	Hungary	47.46	20.51	F
+I2366	LipsonNature2017	5093	Baden_LCA	Hungary	47.62	19.04	M
+I2367	LipsonNature2017	5081	Baden_LCA	Hungary	47.62	19.04	M
+I2369	LipsonNature2017	5185	Baden_LCA	Hungary	47.62	19.04	M
+I2370	LipsonNature2017	5096	Baden_LCA	Hungary	47.32	19.17	F
+I2371	LipsonNature2017	5179	Baden_LCA	Hungary	47.32	19.17	M
+I2375	LipsonNature2017	7050	ALPc_MN	Hungary	48	21.18	M
+I2377	LipsonNature2017	7025	ALPc_MN	Hungary	48	21.18	M
+I2378	LipsonNature2017	7050	ALPc_MN	Hungary	47.86	21	M
+I2379	LipsonNature2017	7011	ALPc_MN	Hungary	47.86	21	M
+I2380	LipsonNature2017	7350	ALPc_MN	Hungary	47.78	20.58	F
+I2382	LipsonNature2017	7350	ALPc_MN	Hungary	47.78	20.58	M
+I2384	LipsonNature2017	7130	ALPc_MN	Hungary	47.86	21.43	M
+I2387	LipsonNature2017	6700	Tisza_LN	Hungary	46.39	20.24	M
+I2394	LipsonNature2017	6238	Balaton_Lasinja_CA	Hungary	47.1	17.91	M
+I2395	LipsonNature2017	6200	Tiszapolgar_ECA	Hungary	47.46	20.51	M
+I2005	LipsonNature2017	7126	LBK_EN	Germany	51.9	11.05	F
+I2008	LipsonNature2017	7052	LBK_EN	Germany	51.9	11.05	F
+I2016	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I2017	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I2021	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	M
+I2026	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	M
+I2029	LipsonNature2017	7126	LBK_EN	Germany	51.9	11.05	F
+I2030	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I2032	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I2036	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I2037	LipsonNature2017	7056	LBK_EN	Germany	51.9	11.05	M
+I2038	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I1880	LipsonNature2017	7600	Starcevo_EN	Hungary	45.99	18.58	M
+I2012	LipsonNature2017	6400	Germany_MN	Germany	51.9	11.05	F
+I2014	LipsonNature2017	6978	LBK_EN	Germany	51.9	11.05	M
+I2020	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	M
+I2022	LipsonNature2017	7125	LBK_EN	Germany	51.9	11.05	F
+I3270	LipsonNature2017	5000	Iberia_Chalcolithic	Spain	42.63	-2.7	F
+I3271	LipsonNature2017	5000	Iberia_Chalcolithic	Spain	42.63	-2.7	F
+I3272	LipsonNature2017	5033	Iberia_Chalcolithic	Spain	42.57	-2.55	M
+I3273	LipsonNature2017	5445	Iberia_Chalcolithic	Spain	42.57	-2.55	F
+I3277	LipsonNature2017	4925	Iberia_Chalcolithic	Spain	42.57	-2.57	F
+I3269	LipsonNature2017	5000	Iberia_Chalcolithic	Spain	42.63	-2.7	M
+I3535	LipsonNature2017	7061	ALPc_MN	Hungary	47.86	21.43	M
+I3536	LipsonNature2017	7050	LBKT_MN	Hungary	47.64	17.36	F
+I3537	LipsonNature2017	7371	ALPc_MN	Hungary	47.78	20.58	F
+I4181	LipsonNature2017	7050	LBKT_MN	Hungary	46.74	18.96	F
+I4183	LipsonNature2017	6757	TDLN	Hungary	46.03	18.33	M
+I4184	LipsonNature2017	6773	TDLN	Hungary	46.03	18.33	F
+I4185	LipsonNature2017	6877	TDLN	Hungary	46.2	18.73	M
+I4186	LipsonNature2017	7050	ALPc_MN	Hungary	47.48	21.5	F
+I4187	LipsonNature2017	7050	ALPc_MN	Hungary	47.48	21.5	M
+I4188	LipsonNature2017	7050	ALPc_MN	Hungary	47.87	21.13	M
+I4189	LipsonNature2017	6050	Balaton_Lasinja_CA	Hungary	46.2	18.73	F
+I4196	LipsonNature2017	7050	LBKT_MN	Hungary	47.5	18.91	F
+I4199	LipsonNature2017	7050	ALPc_MN	Hungary	48	21.18	F
+I4971	LipsonNature2017	7592	Koros_EN_HG	Hungary	47.56	20.72	M
+I3276	LipsonNature2017	4955	Iberia_Chalcolithic	Spain	42.57	-2.57	M
+I5838	LipsonNature2017	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I2794	LipsonNature2017	7574	Koros_EN	Hungary	47.19	20.4	F
+I0235	MathiesonNature2015	3675	Srubnaya	Russia	53.14	50.01	F
+I0234	MathiesonNature2015	3675	Srubnaya	Russia	53.14	50.01	F
+I0421	MathiesonNature2015	3675	Srubnaya_1d_rel_I0430	Russia	53.08	50.36	F
+I0431	MathiesonNature2015	3675	Srubnaya	Russia	53.08	50.36	F
+I0430	MathiesonNature2015	3675	Srubnaya	Russia	53.08	50.36	M
+I0424	MathiesonNature2015	3675	Srubnaya	Russia	53.12	48.37	M
+I0354	MathiesonNature2015	3803	Srubnaya_Outlier	Russia	53.03	50.39	F
+I0371	MathiesonNature2015	4678	Poltavka	Russia	53.59	50.57	M
+I0126	MathiesonNature2015	4627	Poltavka	Russia	53.31	51.15	M
+I0440	MathiesonNature2015	4727	Poltavka	Russia	53.38	50.39	M
+I0432	MathiesonNature2015	4658	Poltavka_outlier	Russia	53.66	50.67	M
+I0418	MathiesonNature2015	3897	Potapovka	Russia	52.91	50.99	F
+I0419	MathiesonNature2015	4000	Potapovka	Russia	52.91	50.99	M
+I0246	MathiesonNature2015	4149	Potapovka	Russia	52.91	50.99	M
+I0434	MathiesonNature2015	6550	Samara_Eneolithic	Russia	52.22	48.1	M
+I0433	MathiesonNature2015	6550	Samara_Eneolithic	Russia	52.22	48.1	M
+I0122	MathiesonNature2015	6550	Samara_Eneolithic	Russia	52.22	48.1	M
+I0124	MathiesonNature2015	7549	Samara_HG	Russia	53.4	50.4	M
+I0232	MathiesonNature2015	3475	Srubnaya	Russia	48.1	54.44	M
+I0360	MathiesonNature2015	3800	Srubnaya	Russia	53.03	50.39	M
+I0358	MathiesonNature2015	3719	Srubnaya	Russia	53.03	50.39	F
+I0361	MathiesonNature2015	3475	Srubnaya	Russia	53.03	50.39	M
+I0359	MathiesonNature2015	3475	Srubnaya	Russia	53.03	50.39	F
+I0231	MathiesonNature2015	4792	Yamnaya_Samara	Russia	52.42	48.24	M
+I0370	MathiesonNature2015	4950	Yamnaya_Samara	Russia	51.27	58.18	M
+I0441	MathiesonNature2015	4766	Yamnaya_Samara	Russia	52.3	52.05	F
+I0444	MathiesonNature2015	5059	Yamnaya_Samara	Russia	53.31	51.15	M
+I0439	MathiesonNature2015	5071	Yamnaya_Samara	Russia	53.38	50.39	M
+I0357	MathiesonNature2015	4952	Yamnaya_Samara	Russia	53.38	50.39	F
+I0429	MathiesonNature2015	5079	Yamnaya_Samara	Russia	53.38	50.39	M
+I0438	MathiesonNature2015	4778	Yamnaya_Samara	Russia	53.38	50.38	M
+I1282	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I1302	MathiesonNature2015	4573	Iberia_Chalcolithic_1d_rel_I1314	Spain	42.33	-3.5	M
+I1276	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I1284	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I1274	MathiesonNature2015	4573	Iberia_Chalcolithic_1d_rel_I1277	Spain	42.33	-3.5	M
+I1280	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I1314	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I1277	MathiesonNature2015	4407	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I1272	MathiesonNature2015	4627	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I1281	MathiesonNature2015	4670	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I1300	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I0585	MathiesonNature2015	7815	Iberia_Mesolithic	Spain	42.91	-5.38	M
+I0807	MathiesonNature2015	5790	Baalberge_MN	Germany	51.42	11.68	M
+I0559	MathiesonNature2015	5541	Baalberge_MN	Germany	51.79	11.14	M
+I0560	MathiesonNature2015	5458	Baalberge_MN	Germany	51.79	11.14	F
+I1546	MathiesonNature2015	4225	Bell_Beaker_Germany	Germany	51.82	10.91	F
+I0806	MathiesonNature2015	4241	Bell_Beaker_Germany	Germany	51.79	11.14	M
+I0805	MathiesonNature2015	4255	Bell_Beaker_Germany	Germany	51.79	11.14	M
+I0113	MathiesonNature2015	4140	Bell_Beaker_Germany	Germany	51.79	11.14	F
+I0112	MathiesonNature2015	4250	Bell_Beaker_Germany	Germany	51.79	11.14	F
+I1530	MathiesonNature2015	4249	Bell_Beaker_Germany_1d_rel_I0111	Germany	51.45	11.54	M
+I0060	MathiesonNature2015	4239	Bell_Beaker_Germany	Germany	51.45	11.54	F
+I0111	MathiesonNature2015	4290	Bell_Beaker_Germany	Germany	51.45	11.54	F
+I0108	MathiesonNature2015	4387	Bell_Beaker_Germany	Germany	51.45	11.54	F
+I0171	MathiesonNature2015	4114	BenzigerodeHeimburg_LN	Germany	51.82	10.91	F
+I0059	MathiesonNature2015	4188	BenzigerodeHeimburg_LN	Germany	51.82	10.91	F
+I1542	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I1536	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I1544	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I1538	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I1539	MathiesonNature2015	4408	Corded_Ware_Germany	Germany	51.42	11.68	F
+I1534	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I0106	MathiesonNature2015	4287	Corded_Ware_Germany	Germany	51.42	11.68	F
+I1540	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I1541	MathiesonNature2015	4225	Corded_Ware_Germany_1d_rel_I1538+I1540	Germany	51.42	11.68	M
+I1532	MathiesonNature2015	4225	Corded_Ware_Germany	Germany	51.42	11.68	M
+I0049	MathiesonNature2015	4287	Corded_Ware_Germany	Germany	51.42	11.68	F
+I0099	MathiesonNature2015	3036	Halberstadt_LBA	Germany	51.9	11.05	M
+I0211	MathiesonNature2015	8280	Karelia_HG	Russia	61.65	35.65	M
+I0061	MathiesonNature2015	8280	Karelia_HG	Russia	61.65	35.65	M
+I0550	MathiesonNature2015	4471	Karsdorf_LN	Germany	51.28	11.65	F
+I0821	MathiesonNature2015	6976	LBK_EN	Germany	51.9	11.05	M
+I0057	MathiesonNature2015	7070	LBK_EN	Germany	51.9	11.05	F
+I0048	MathiesonNature2015	7056	LBK_EN	Germany	51.9	11.05	M
+I0659	MathiesonNature2015	7037	LBK_EN	Germany	51.9	11.05	M
+I0046	MathiesonNature2015	7051	LBK_EN	Germany	51.9	11.05	F
+I0797	MathiesonNature2015	7125	LBK_EN	Germany	51.28	11.65	M
+I0795	MathiesonNature2015	7079	LBK_EN	Germany	51.28	11.65	M
+I0176	MathiesonNature2015	7026	LBKT_EN	Hungary	46.03	18.33	F
+I0551	MathiesonNature2015	5163	Salzmuende_MN	Germany	51.53	11.83	M
+I0409	MathiesonNature2015	7215	Iberia_EN	Spain	42.5	0.5	F
+I0411	MathiesonNature2015	7131	Iberia_EN_1d_rel_I0410	Spain	42.5	0.5	M
+I0405	MathiesonNature2015	5700	Iberia_MN	Spain	41.25	-2.33	M
+I0174	MathiesonNature2015	7569	Starcevo_EN	Hungary	46.21	18.7	M
+I0115	MathiesonNature2015	3807	Unetice_EBA	Germany	51.42	11.68	F
+I0117	MathiesonNature2015	4106	Unetice_EBA	Germany	51.42	11.68	F
+I0804	MathiesonNature2015	4001	Unetice_EBA	Germany	51.17	11.85	M
+I0803	MathiesonNature2015	3987	Unetice_EBA	Germany	51.17	11.85	F
+I0047	MathiesonNature2015	3951	Unetice_EBA	Germany	51.9	11.05	F
+I0164	MathiesonNature2015	3909	Unetice_EBA	Germany	51.79	11.14	F
+I0114	MathiesonNature2015	3995	Unetice_EBA_1d_rel_I0117	Germany	51.42	11.68	M
+I0022	MathiesonNature2015	7125	LBK_EN	Germany	48.78	9.18	F
+I0026	MathiesonNature2015	7125	LBK_EN	Germany	48.78	9.18	F
+I0013	MathiesonNature2015	7751	Motala_HG	Sweden	58.54	15.05	M
+I0011	MathiesonNature2015	7569	Motala_HG	Sweden	58.54	15.05	F
+I0015	MathiesonNature2015	7747	Motala_HG	Sweden	58.54	15.05	M
+I0012	MathiesonNature2015	7595	Motala_HG	Sweden	58.54	15.05	M
+I0014	MathiesonNature2015	7703	Motala_HG	Sweden	58.54	15.05	F
+I0017	MathiesonNature2015	7626	Motala_HG	Sweden	58.54	15.05	M
+I1508	MathiesonNature2015	7590	Hungary_EN	Hungary	47.32	21.53	F
+I1500	MathiesonNature2015	7050	Hungary_EN	Hungary	47.17	20.83	M
+I1100	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1102	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1099	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1103	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1101	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1097	MathiesonNature2015	8288	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I0744	MathiesonNature2015	8273	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1579	MathiesonNature2015	8081	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1581	MathiesonNature2015	8254	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1096	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1580	MathiesonNature2015	8195	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1098	MathiesonNature2015	8288	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1585	MathiesonNature2015	8060	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I0708	MathiesonNature2015	8097	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I0745	MathiesonNature2015	8251	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I0746	MathiesonNature2015	7930	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I1583	MathiesonNature2015	8281	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I0707	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I0709	MathiesonNature2015	8086	Anatolia_Neolithic	Turkey	40.3	29.57	M
+I0725	MathiesonNature2015	7950	Anatolia_Neolithic	Turkey	40.26	29.65	F
+I0727	MathiesonNature2015	7950	Anatolia_Neolithic	Turkey	40.26	29.65	M
+I0724	MathiesonNature2015	7950	Anatolia_Neolithic	Turkey	40.26	29.65	M
+I0736	MathiesonNature2015	8300	Anatolia_Neolithic	Turkey	40.3	29.57	F
+I1499	MathiesonNature2015	7060	Hungary_EN	Hungary	48.52	21.17	F
+I1502	MathiesonNature2015	4035	Hungary_BA	Hungary	47.17	20.83	F
+I1497	MathiesonNature2015	4750	Hungary_CA	Hungary	47.17	19.83	F
+I1495	MathiesonNature2015	6374	Hungary_EN	Hungary	47.17	19.83	M
+I1498	MathiesonNature2015	7124	Hungary_EN	Hungary	47.52	21.59	F
+I1507	MathiesonNature2015	7660	Hungary_HG	Hungary	47.56	20.72	M
+I1504	MathiesonNature2015	3140	Hungary_BA	Hungary	47.82	19.95	M
+I1506	MathiesonNature2015	7139	Hungary_EN	Hungary	47.88	21.19	F
+I1496	MathiesonNature2015	7052	Hungary_EN	Hungary	47.17	19.83	M
+I1505	MathiesonNature2015	7061	Hungary_EN	Hungary	47.88	21.19	F
+I0581	MathiesonNature2015	4740	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I0422	MathiesonNature2015	3475	Srubnaya	Russia	52.54	50.5	F
+I0854	MathiesonNature2015	8106	Anatolia_Neolithic_1d_rel_I0736	Turkey	40.3	29.57	F
+I1271	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	F
+I1303	MathiesonNature2015	4573	Iberia_Chalcolithic	Spain	42.33	-3.5	M
+I1549	MathiesonNature2015	4225	Bell_Beaker_Germany	Germany	51.82	10.91	F
+I1550	MathiesonNature2015	7125	LBK_EN	Germany	51.9	11.05	F
+I0100	MathiesonNature2015	6977	LBK_EN	Germany	51.9	11.05	F
+I0407	MathiesonNature2015	5700	Iberia_MN	Spain	41.25	-2.33	F
+I0025	MathiesonNature2015	7125	LBK_EN	Germany	48.78	9.18	F
+I0247	MathiesonNature2015	2239	Scythian_IA	Russia	52.43	51.16	M
+I0374	MathiesonNature2015	4350	Poltavka	Russia	49.97	44.67	M
+I0423	MathiesonNature2015	3475	Srubnaya_Outlier	Russia	52.54	50.5	M
+I0443	MathiesonNature2015	4950	Yamnaya_Samara	Russia	53.38	50.39	M
+I0723	MathiesonNature2015	7870	Anatolia_Neolithic	Turkey	40.26	29.65	M
+I0726	MathiesonNature2015	7950	Anatolia_Neolithic	Turkey	40.26	29.65	F
+I0103	MathiesonNature2015	4473	Corded_Ware_Germany	Germany	51.42	11.68	F
+I0172	MathiesonNature2015	5173	Esperstedt_MN	Germany	51.42	11.68	M
+I0408	MathiesonNature2015	5727	Iberia_MN	Spain	41.25	-2.33	F
+I0412	MathiesonNature2015	7144	Iberia_EN	Spain	42.5	0.5	M
+I0054	MathiesonNature2015	7072	LBK_EN	Germany	51.66	11.53	F
+I0056	MathiesonNature2015	7061	LBK_EN	Germany	51.9	11.05	M
+I0104	MathiesonNature2015	4378	Corded_Ware_Germany	Germany	51.42	11.68	M
+I0116	MathiesonNature2015	3987	Unetice_EBA	Germany	51.42	11.68	M
+I0118	MathiesonNature2015	4309	Alberstedt_LN	Germany	51.45	11.63	F
+I0406	MathiesonNature2015	5700	Iberia_MN	Spain	41.25	-2.33	M
+I0410	MathiesonNature2015	7130	Iberia_EN	Spain	42.5	0.5	M
+I0413	MathiesonNature2015	7139	Iberia_EN	Spain	42.5	0.5	F
+Falkenstein	MathiesonNature2018	9200	WHG	Germany	48.06	9.04	M
+Iboussieres25-1	MathiesonNature2018	11725	WHG	France	44.29	4.46	M
+Iboussieres31-2	MathiesonNature2018	11725	WHG	France	44.29	4.46	M
+Rochedane	MathiesonNature2018	12960	WHG	France	47.21	6.45	M
+BerryAuBac	MathiesonNature2018	7245	WHG	France	49.24	3.54	M
+ANI152	MathiesonNature2018	6495	Varna	Bulgaria	43.21	27.86	M
+ANI153	MathiesonNature2018	6413	Varna	Bulgaria	43.21	27.86	M
+ANI160	MathiesonNature2018	6542	Varna	Bulgaria	43.21	27.86	M
+ANI163	MathiesonNature2018	6577	Varna_outlier	Bulgaria	43.21	27.86	F
+Bul10	MathiesonNature2018	4957	Balkans_BronzeAge	Bulgaria	42.43	25.9	F
+Bul4	MathiesonNature2018	4906	Yamnaya_Bulgaria	Bulgaria	42.43	25.9	M
+Bul6	MathiesonNature2018	4450	Balkans_BronzeAge	Bulgaria	42.43	25.9	M
+Bul8	MathiesonNature2018	4450	Balkans_BronzeAge	Bulgaria	42.43	25.9	M
+ANI159-ANI181	MathiesonNature2018	6571	Varna	Bulgaria	43.21	27.86	M
+I2405	MathiesonNature2018	5128	Globular_Amphora	Poland	52.85	17.88	M
+I2427	MathiesonNature2018	6340	Balkans_Chalcolithic	Bulgaria	43.06	26.77	F
+I2431	MathiesonNature2018	6615	Balkans_Chalcolithic	Bulgaria	43.1	26.72	M
+I2433	MathiesonNature2018	4950	Globular_Amphora	Poland	52.85	17.88	F
+I2434	MathiesonNature2018	5050	Globular_Amphora	Poland	52.85	17.88	F
+I2435	MathiesonNature2018	4950	Globular_Amphora_brother_of_I2407_son_of_I2433_son_of_I2440	Poland	52.85	17.88	M
+I2440	MathiesonNature2018	4950	Globular_Amphora	Poland	52.85	17.88	M
+I2441	MathiesonNature2018	5050	Globular_Amphora	Poland	52.85	17.88	M
+I0785	MathiesonNature2018	6357	Balkans_Chalcolithic	Bulgaria	42.23	24.26	F
+I0781	MathiesonNature2018	6400	Balkans_Chalcolithic	Bulgaria	42.23	24.26	F
+I0633	MathiesonNature2018	7440	Balkans_Neolithic	Serbia	44.9	19.75	M
+I0634	MathiesonNature2018	6557	Balkans_Neolithic	Serbia	44.9	19.75	M
+I1131	MathiesonNature2018	6483	Balkans_Neolithic	Serbia	44.9	19.75	M
+I1298	MathiesonNature2018	7885	Balkans_Neolithic	Bulgaria	43.37	23.73	F
+I0676	MathiesonNature2018	7807	Balkans_Neolithic	Macedonia	41.9	21.35	M
+I1736	MathiesonNature2018	8109	Ukraine_Neolithic	Ukraine	48.3	35.14	F
+I1734	MathiesonNature2018	9202	Ukraine_Mesolithic	Ukraine	48.3	35.14	M
+I1738	MathiesonNature2018	7350	Ukraine_Neolithic	Ukraine	48.3	35.14	M
+I1732	MathiesonNature2018	7239	Ukraine_Neolithic	Ukraine	48.3	35.14	F
+I1917	MathiesonNature2018	4955	Yamnaya_Ukraine_outlier	Ukraine	48.99	33.95	F
+I1926	MathiesonNature2018	5736	Trypillia	Ukraine	48.72	25.88	M
+I2105	MathiesonNature2018	4950	Yamnaya_Ukraine	Ukraine	48.22	37.15	F
+I2110	MathiesonNature2018	5735	Trypillia	Ukraine	48.72	25.88	M
+I2111	MathiesonNature2018	5647	Trypillia	Ukraine	48.72	25.88	M
+I2158	MathiesonNature2018	14275	WHG	Italy	37.93	12.33	F
+I2163	MathiesonNature2018	3638	Balkans_BronzeAge	Bulgaria	42.13	25.5	M
+I2165	MathiesonNature2018	4908	Balkans_BronzeAge	Bulgaria	42.13	25.5	M
+I2407	MathiesonNature2018	4955	Globular_Amphora_brother_of_I2435_son_of_I2433_son_of_I2440	Poland	52.85	17.88	M
+I3499	MathiesonNature2018	4725	Vucedol	Croatia	45.34	18.7	M
+I3141	MathiesonNature2018	4950	Yamnaya_Ukraine	Ukraine	48.22	37.15	F
+I3151	MathiesonNature2018	5750	Trypillia	Ukraine	48.72	25.88	M
+I3313	MathiesonNature2018	2733	Balkans_BronzeAge	Croatia	43.89	15.98	F
+I3433	MathiesonNature2018	7814	Balkans_Neolithic	Croatia	43.59	16.65	F
+I3498	MathiesonNature2018	7698	Balkans_Neolithic	Croatia	45.34	18.7	M
+I3879	MathiesonNature2018	7828	Malak_Preslavets	Bulgaria	43.98	26.4	M
+I3947	MathiesonNature2018	7836	Balkans_Neolithic	Croatia	43.59	16.65	M
+I3948	MathiesonNature2018	7860	Balkans_Neolithic	Croatia	43.59	16.65	M
+I2403	MathiesonNature2018	4673	Globular_Amphora	Poland	52.85	17.88	M
+I3714	MathiesonNature2018	7100	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I3715	MathiesonNature2018	7529	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I3717	MathiesonNature2018	7289	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I3719	MathiesonNature2018	6824	Ukraine_Neolithic_outlier	Ukraine	48.91	33.76	M
+I4088	MathiesonNature2018	6154	Balkans_Chalcolithic	Romania	47.75	22.4	F
+I4089	MathiesonNature2018	5653	Balkans_Chalcolithic	Romania	47.75	22.4	M
+I4110	MathiesonNature2018	5456	Ukraine_Eneolithic	Ukraine	48.91	33.76	F
+I4111	MathiesonNature2018	6585	Ukraine_Neolithic	Ukraine	48.91	33.76	F
+I4112	MathiesonNature2018	7100	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I4114	MathiesonNature2018	7351	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I4167	MathiesonNature2018	6624	Balkans_Neolithic	Croatia	45.34	18.7	M
+I4168	MathiesonNature2018	6600	Balkans_Neolithic	Croatia	45.34	18.7	F
+I4175	MathiesonNature2018	4800	Vucedol	Croatia	45.34	19.06	F
+I1763	MathiesonNature2018	10074	Ukraine_Mesolithic	Ukraine	48.3	35.14	M
+I1819	MathiesonNature2018	10643	Ukraine_Mesolithic	Ukraine	48.3	35.14	M
+I2509	MathiesonNature2018	6353	Balkans_Chalcolithic	Bulgaria	43.16	25.88	F
+I2510	MathiesonNature2018	4758	Balkans_BronzeAge	Bulgaria	43.16	25.88	M
+I2519	MathiesonNature2018	6242	Balkans_Chalcolithic	Bulgaria	43.16	25.88	F
+I2520	MathiesonNature2018	5132	Balkans_BronzeAge	Bulgaria	43.16	25.88	M
+I2532	MathiesonNature2018	7621	Balkans_Neolithic	Romania	45.47	27.01	M
+I2533	MathiesonNature2018	7378	Balkans_Neolithic	Romania	44.26	23.9	F
+I2534	MathiesonNature2018	7670	Romania_HG	Romania	44.03	25.39	F
+I3712	MathiesonNature2018	7392	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I3713	MathiesonNature2018	7001	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I3716	MathiesonNature2018	7349	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I4081	MathiesonNature2018	9335	Iron_Gates_HG	Romania	44.52	22.72	M
+I4331	MathiesonNature2018	3526	Balkans_BronzeAge	Croatia	43.19	17.34	M
+I4332	MathiesonNature2018	3516	Balkans_BronzeAge	Croatia	43.19	17.34	F
+I4432	MathiesonNature2018	7948	Latvia_HG	Latvia	56.28	25.13	M
+I4434	MathiesonNature2018	7446	Latvia_HG	Latvia	56.28	25.13	M
+I4435	MathiesonNature2018	6003	Latvia_MN	Latvia	56.28	25.13	F
+I4436	MathiesonNature2018	6105	Latvia_MN	Latvia	56.28	25.13	M
+I4437	MathiesonNature2018	6148	Latvia_MN	Latvia	56.28	25.13	F
+I4438	MathiesonNature2018	7291	Latvia_HG	Latvia	56.28	25.13	M
+I4439	MathiesonNature2018	7648	Latvia_HG	Latvia	56.28	25.13	M
+I4440	MathiesonNature2018	7080	Latvia_HG	Latvia	56.28	25.13	M
+I4441	MathiesonNature2018	6725	Latvia_HG	Latvia	56.28	25.13	M
+I4550	MathiesonNature2018	8489	Latvia_HG	Latvia	56.28	25.13	M
+I4551	MathiesonNature2018	7671	Latvia_HG	Latvia	56.28	25.13	M
+I4552	MathiesonNature2018	7377	Latvia_HG	Latvia	56.28	25.13	F
+I4553	MathiesonNature2018	7379	Latvia_HG	Latvia	56.28	25.13	M
+I4554	MathiesonNature2018	5949	Latvia_MN	Latvia	56.28	25.13	F
+I4626	MathiesonNature2018	7689	Latvia_HG	Latvia	56.28	25.13	M
+I4627	MathiesonNature2018	6064	Latvia_MN	Latvia	56.28	25.13	M
+I4628	MathiesonNature2018	7027	Latvia_HG	Latvia	56.28	25.13	M
+I4629	MathiesonNature2018	4833	Latvia_LN	Latvia	56.28	25.13	F
+I4655	MathiesonNature2018	8765	Iron_Gates_HG	Romania	44.63	22.61	M
+I4657	MathiesonNature2018	11465	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4665	MathiesonNature2018	8006	Lepenski_Vir	Serbia	44.55	22.03	F
+I4666	MathiesonNature2018	8017	Lepenski_Vir	Serbia	44.55	22.03	M
+I0700	MathiesonNature2018	7934	Balkans_MP_Neolithic_1d_rel_I1108	Bulgaria	43.98	26.4	M
+I0704	MathiesonNature2018	7889	Balkans_Neolithic	Bulgaria	43.16	25.88	F
+I0706	MathiesonNature2018	7905	Balkans_Neolithic	Bulgaria	43.16	25.88	M
+I1108	MathiesonNature2018	7875	Malak_Preslavets	Bulgaria	43.98	26.4	M
+I1109	MathiesonNature2018	7635	Malak_Preslavets	Bulgaria	43.98	26.4	F
+I1113	MathiesonNature2018	7983	Malak_Preslavets	Bulgaria	43.98	26.4	F
+I1295	MathiesonNature2018	7752	Malak_Preslavets	Bulgaria	43.98	26.4	M
+I1296	MathiesonNature2018	7675	Malak_Preslavets	Bulgaria	43.98	26.4	M
+I1297	MathiesonNature2018	7817	Malak_Preslavets	Bulgaria	43.98	26.4	F
+I1733	MathiesonNature2018	10200	Ukraine_Mesolithic	Ukraine	48.3	35.14	F
+I1737	MathiesonNature2018	10371	Ukraine_Mesolithic	Ukraine	48.3	35.14	F
+I2175	MathiesonNature2018	5122	Balkans_BronzeAge	Bulgaria	43.06	26.98	M
+I2176	MathiesonNature2018	5132	Balkans_BronzeAge	Bulgaria	43.06	26.98	M
+I2181	MathiesonNature2018	6453	Balkans_Chalcolithic_outlier	Bulgaria	43.06	26.98	M
+I2215	MathiesonNature2018	7980	Malak_Preslavets	Bulgaria	43.98	26.4	U
+I2216	MathiesonNature2018	7845	Malak_Preslavets	Bulgaria	43.98	26.4	F
+I2423	MathiesonNature2018	6388	Balkans_Chalcolithic	Bulgaria	43.06	26.98	F
+I2424	MathiesonNature2018	6304	Balkans_Chalcolithic	Bulgaria	43.06	26.98	F
+I2425	MathiesonNature2018	6515	Balkans_Chalcolithic	Bulgaria	43.06	26.77	F
+I2426	MathiesonNature2018	6307	Balkans_Chalcolithic	Bulgaria	43.06	26.77	M
+I2430	MathiesonNature2018	6448	Balkans_Chalcolithic	Bulgaria	43.06	26.98	M
+I2526	MathiesonNature2018	7336	Balkans_Neolithic	Bulgaria	43.14	25.61	F
+ILK001	MathiesonNature2018	4753	Globular_Amphora	Ukraine	49.56	27.69	M
+ILK002	MathiesonNature2018	4752	Globular_Amphora	Ukraine	49.56	27.69	M
+ILK003	MathiesonNature2018	4752	Globular_Amphora	Ukraine	49.56	27.69	F
+I1875	MathiesonNature2018	9118	WHG	Croatia	42.97	16.71	F
+I4595	MathiesonNature2018	7637	Latvia_HG	Latvia	56.28	25.13	F
+I4596	MathiesonNature2018	7976	Latvia_HG	Latvia	56.28	25.13	M
+I4630	MathiesonNature2018	9222	Latvia_HG	Latvia	56.28	25.13	M
+I4632	MathiesonNature2018	8308	Latvia_HG	Latvia	56.28	25.13	F
+I4871	MathiesonNature2018	8450	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4872	MathiesonNature2018	8450	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4873	MathiesonNature2018	7872	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4874	MathiesonNature2018	8506	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4875	MathiesonNature2018	8458	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4876	MathiesonNature2018	8455	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4877	MathiesonNature2018	8505	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4878	MathiesonNature2018	7803	Iron_Gates_HG	Serbia	44.53	22.05	M
+I4880	MathiesonNature2018	7813	Iron_Gates_HG	Serbia	44.53	22.05	M
+I4881	MathiesonNature2018	8363	Iron_Gates_HG	Serbia	44.53	22.05	M
+I4882	MathiesonNature2018	8000	Iron_Gates_HG_brother_I4880	Serbia	44.53	22.05	M
+I4914	MathiesonNature2018	8123	Iron_Gates_HG	Serbia	44.64	22.3	M
+I4915	MathiesonNature2018	8115	Iron_Gates_HG	Serbia	44.64	22.3	M
+I4916	MathiesonNature2018	8763	Iron_Gates_HG	Serbia	44.64	22.3	M
+I4917	MathiesonNature2018	8058	Iron_Gates_HG	Serbia	44.64	22.3	F
+I4918	MathiesonNature2018	7600	Balkans_Neolithic	Serbia	44.49	21.08	F
+I5068	MathiesonNature2018	7088	LBK_Austria	Austria	48.66	16.59	M
+I5069	MathiesonNature2018	7088	LBK_Austria	Austria	48.66	16.59	F
+I5070	MathiesonNature2018	7088	LBK_Austria	Austria	48.58	16.47	M
+I5071	MathiesonNature2018	7571	Balkans_Neolithic	Croatia	44.82	13.64	F
+I5072	MathiesonNature2018	7551	Balkans_Neolithic	Croatia	44.82	13.64	M
+I5077	MathiesonNature2018	7026	Balkans_Neolithic	Croatia	45.55	18.75	M
+I5078	MathiesonNature2018	6569	Balkans_Neolithic	Croatia	45.55	18.75	M
+I5079	MathiesonNature2018	5485	Balkans_Chalcolithic	Croatia	45.49	17.64	F
+I5232	MathiesonNature2018	7901	Iron_Gates_HG_outlier	Serbia	44.6	22.01	M
+I5233	MathiesonNature2018	8001	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5234	MathiesonNature2018	9800	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5235	MathiesonNature2018	10835	Iron_Gates_HG	Serbia	44.6	22.01	M
+I5236	MathiesonNature2018	10008	Iron_Gates_HG	Serbia	44.6	22.01	M
+I5237	MathiesonNature2018	9800	Iron_Gates_HG	Serbia	44.6	22.01	M
+I5238	MathiesonNature2018	9993	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5239	MathiesonNature2018	10333	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5240	MathiesonNature2018	10805	Iron_Gates_HG	Serbia	44.6	22.01	M
+I5241	MathiesonNature2018	11196	Iron_Gates_HG_daughter_I5236	Serbia	44.6	22.01	F
+I5242	MathiesonNature2018	10530	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5244	MathiesonNature2018	10785	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5204	MathiesonNature2018	6950	LBK_Austria	Austria	48.58	16.47	M
+I5205	MathiesonNature2018	6950	LBK_Austria	Austria	48.58	16.47	F
+I5206	MathiesonNature2018	6950	LBK_Austria	Austria	48.58	16.47	F
+I5769	MathiesonNature2018	2400	Balkans_IronAge	Bulgaria	43.16	25.88	F
+I5771	MathiesonNature2018	8325	Iron_Gates_HG	Serbia	44.53	22.05	M
+I5772	MathiesonNature2018	8450	Iron_Gates_HG	Serbia	44.53	22.05	M
+I5773	MathiesonNature2018	10040	Iron_Gates_HG	Serbia	44.53	22.05	M
+I5868	MathiesonNature2018	7341	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I5869	MathiesonNature2018	7200	Ukraine_Neolithic_1d_rel_I5870	Ukraine	47.95	35.39	M
+I5870	MathiesonNature2018	7360	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I5872	MathiesonNature2018	7382	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I5873	MathiesonNature2018	7346	Ukraine_Neolithic	Ukraine	47.95	35.39	F
+I5875	MathiesonNature2018	7126	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5876	MathiesonNature2018	8822	Ukraine_Mesolithic	Ukraine	48.91	33.76	M
+I5878	MathiesonNature2018	7138	Ukraine_Neolithic_father_or_son_I5883	Ukraine	48.91	33.76	M
+I5879	MathiesonNature2018	7100	Ukraine_Neolithic_brother_I8590_father_or_son_I3718	Ukraine	48.91	33.76	M
+I5881	MathiesonNature2018	7089	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5882	MathiesonNature2018	5047	Ukraine_Eneolithic	Ukraine	48.91	33.76	F
+I5883	MathiesonNature2018	7056	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5884	MathiesonNature2018	4743	Ukraine_Eneolithic	Ukraine	48.91	33.76	M
+I5885	MathiesonNature2018	8110	Ukraine_Mesolithic	Ukraine	48.91	33.76	F
+I5886	MathiesonNature2018	7217	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5888	MathiesonNature2018	7100	Ukraine_Neolithic_father_or_son_I5875	Ukraine	48.91	33.76	M
+I5889	MathiesonNature2018	6998	Ukraine_Neolithic	Ukraine	48.91	33.76	F
+I5890	MathiesonNature2018	7124	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5891	MathiesonNature2018	7338	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5892	MathiesonNature2018	7092	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I5893	MathiesonNature2018	7250	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I0679_d	MathiesonNature2018	7622	Krepost_Neolithic	Bulgaria	42.02	25.6	F
+I2521	MathiesonNature2018	7505	Balkans_Neolithic	Bulgaria	43.16	25.88	M
+I2529	MathiesonNature2018	7601	Balkans_Neolithic	Bulgaria	42.1	25.75	M
+I5207	MathiesonNature2018	6950	LBK_Austria	Austria	48.58	16.47	M
+I5208	MathiesonNature2018	6950	LBK_Austria	Austria	48.58	16.47	F
+I5401	MathiesonNature2018	8838	Iron_Gates_HG	Serbia	44.64	22.3	M
+I5402	MathiesonNature2018	8156	Iron_Gates_HG	Serbia	44.64	22.3	M
+I5405	MathiesonNature2018	7684	Lepenski_Vir	Serbia	44.55	22.03	F
+I5407	MathiesonNature2018	9800	Lepenski_Vir	Serbia	44.55	22.03	F
+I5408	MathiesonNature2018	8704	Iron_Gates_HG	Romania	44.52	22.72	M
+I5409	MathiesonNature2018	9800	Iron_Gates_HG	Serbia	44.6	22.01	F
+I5411	MathiesonNature2018	8600	Iron_Gates_HG	Romania	44.63	22.61	M
+I5427	MathiesonNature2018	7892	Peloponnese_Neolithic	Greece	36.64	22.38	F
+I5436	MathiesonNature2018	9025	Iron_Gates_HG	Romania	44.63	22.61	F
+I5957	MathiesonNature2018	7200	Ukraine_Neolithic	Ukraine	47.95	35.39	M
+I6133	MathiesonNature2018	7200	Ukraine_Neolithic	Ukraine	47.95	35.39	F
+I0698	MathiesonNature2018	7900	Balkans_Neolithic	Bulgaria	42.1	25.75	M
+I1378	MathiesonNature2018	7100	Ukraine_Neolithic	Ukraine	48.3	35.14	M
+I6561	MathiesonNature2018	5960	Ukraine_Eneolithic	Ukraine	48.66	33.1	M
+I2792	MathiesonNature2018	4677	Vucedol	Croatia	45.34	19.06	M
+I3708	MathiesonNature2018	6550	Peloponnese_Neolithic	Greece	36.64	22.38	F
+I3718	MathiesonNature2018	7230	Ukraine_Neolithic	Ukraine	48.91	33.76	M
+I3709	MathiesonNature2018	5847	Peloponnese_Neolithic	Greece	36.64	22.38	F
+I4582	MathiesonNature2018	8697	Iron_Gates_HG	Romania	44.52	22.72	F
+I2318	MathiesonNature2018	5945	Peloponnese_Neolithic	Greece	37.42	23.13	F
+I4607	MathiesonNature2018	8940	Iron_Gates_HG	Romania	44.63	22.61	M
+I3920	MathiesonNature2018	5770	Peloponnese_Neolithic	Greece	36.64	22.38	F
+I4660	MathiesonNature2018	9713	Iron_Gates_HG	Serbia	44.53	22.05	F
+I4870	MathiesonNature2018	8740	Iron_Gates_HG	Serbia	44.53	22.05	M
+I0839	OlaldeNature2018	4282	Beaker_Iberia	Portugal	39.5	-8.62	F
+I7579	OlaldeNature2018	3400	England_MBA	Great Britain	52.1	-0.51	F
+I7580	OlaldeNature2018	3400	England_MBA	Great Britain	52.1	-0.51	F
+I7271	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7278	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7041	OlaldeNature2018	4300	Hungary_BA	Hungary	47.43	19.05	M
+I7043	OlaldeNature2018	4300	Hungary_BA	Hungary	47.43	19.05	M
+I7282	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7283	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	F
+I7289	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7210	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7212	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7214	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	F
+I7040	OlaldeNature2018	4300	Hungary_BA	Hungary	47.43	19.05	F
+I7042	OlaldeNature2018	4300	Hungary_BA	Hungary	47.43	19.05	M
+I7044	OlaldeNature2018	4300	Beaker_Central_Europe	Hungary	47.43	19.05	M
+I7045	OlaldeNature2018	4300	Beaker_Central_Europe	Hungary	47.43	19.05	F
+I7195	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	F
+I7196	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	M
+I7197	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	M
+I7198	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	F
+I7199	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	M
+I7200	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	F
+I7201	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	F
+I7202	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	M
+I7203	OlaldeNature2018	4250	Czech_EBA	Czech Republic	50.05	14.37	M
+I7205	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7211	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	F
+I7213	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	F
+I7249	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7251	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7250	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	F
+I7269	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7272	OlaldeNature2018	4200	Corded_Ware_Czech	Czech Republic	50.19	14.16	M
+I7270	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	F
+I7275	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7276	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.19	14.16	M
+I7279	OlaldeNature2018	4200	Corded_Ware_Czech	Czech Republic	50.19	14.16	M
+I7280	OlaldeNature2018	4200	Corded_Ware_Czech	Czech Republic	50.19	14.16	M
+I7281	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.04	14.34	F
+I7286	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7287	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7288	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	M
+I7290	OlaldeNature2018	4200	Beaker_Central_Europe	Czech Republic	50.41	14.07	F
+I7554	OlaldeNature2018	5050	Scotland_N	Great Britain	55.99	3.25	M
+I7568	OlaldeNature2018	3400	England_MBA	Great Britain	52.34	0.03	F
+I7569	OlaldeNature2018	3400	England_MBA	Great Britain	52.69	-0.34	F
+I7570	OlaldeNature2018	3400	England_MBA	Great Britain	52.69	-0.34	M
+I7571	OlaldeNature2018	3400	England_MBA	Great Britain	52.34	0.03	M
+I7572	OlaldeNature2018	3400	England_MBA	Great Britain	52.34	0.03	M
+I7573	OlaldeNature2018	3400	England_MBA	Great Britain	52.31	0.38	F
+I7574	OlaldeNature2018	3400	England_MBA	Great Britain	52.18	0.12	F
+I7575	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	M
+I7576	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	M
+I7577	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	M
+I7578	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	F
+I7626	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	F
+I7627	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	F
+I7628	OlaldeNature2018	3400	England_MBA	Great Britain	52.12	-0.51	M
+I7630	OlaldeNature2018	3736	England_CA_EBA	Great Britain	53.73	-0.53	M
+I7635	OlaldeNature2018	4037	England_CA_EBA	Great Britain	54.52	-1.31	F
+I7638	OlaldeNature2018	3980	England_CA_EBA	Great Britain	51.41	-1.15	M
+I7639	OlaldeNature2018	3800	England_CA_EBA	Great Britain	52.28	0.46	F
+I7640	OlaldeNature2018	3316	England_MBA	Great Britain	52.18	0.12	M
+I2634	OlaldeNature2018	5570	Scotland_N	Great Britain	58.54	-3.6	M
+I2636	OlaldeNature2018	5391	Scotland_N	Great Britain	59.35	-2.87	F
+I2416	OlaldeNature2018	4285	Beaker_Britain	Great Britain	51.16	-1.77	M
+I2418	OlaldeNature2018	4270	Beaker_Britain	Great Britain	51.16	-1.77	F
+I2421	OlaldeNature2018	3794	England_CA_EBA	Great Britain	54.88	-1.45	M
+I2457	OlaldeNature2018	4066	England_CA_EBA	Great Britain	51.16	-1.77	M
+I2459	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.16	-1.77	F
+I2460	OlaldeNature2018	3875	England_CA_EBA	Great Britain	51.16	-1.77	F
+I2463	OlaldeNature2018	3785	England_CA_EBA	Great Britain	51.33	1.36	F
+I2478	OlaldeNature2018	4018	Beaker_Northern_Italy	Italy	44.8	10.33	M
+I0840	OlaldeNature2018	4279	Beaker_Iberia	Portugal	39.5	-8.62	F
+I0462	OlaldeNature2018	4406	Beaker_Iberia	Spain	42.4	-3.75	F
+I0460	OlaldeNature2018	4285	Beaker_Iberia	Spain	42.4	-3.75	M
+I0459	OlaldeNature2018	4350	Beaker_Iberia	Spain	42.4	-3.75	F
+I0457	OlaldeNature2018	4580	SE_Iberia_CA	Spain	38.1	-1.85	M
+I0456	OlaldeNature2018	4580	SE_Iberia_CA	Spain	38.1	-1.85	F
+I0453	OlaldeNature2018	4253	SE_Iberia_CA	Spain	38.1	-1.85	M
+I0455	OlaldeNature2018	4735	SE_Iberia_CA	Spain	38.1	-1.85	M
+I0263	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I1553	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I0825	OlaldeNature2018	4337	Beaker_Iberia	Spain	41.49	2.14	M
+I0260	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I0261	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	M
+I0823	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I0258	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I0262	OlaldeNature2018	4350	Beaker_Iberia	Spain	41.49	2.14	F
+I0257	OlaldeNature2018	4411	Beaker_Iberia	Spain	41.49	2.14	M
+I0826	OlaldeNature2018	4607	Beaker_Iberia	Spain	41.49	2.14	M
+I0458	OlaldeNature2018	4282	Beaker_Iberia	Spain	42.4	-3.75	M
+I1388	OlaldeNature2018	4246	Beaker_Southern_France	France	45.46	6.21	M
+I1382	OlaldeNature2018	4236	Beaker_Central_Europe	France	49.15	6.1	M
+I1381	OlaldeNature2018	4100	Beaker_Central_Europe	France	49.15	6.1	M
+I1391	OlaldeNature2018	4190	Beaker_Central_Europe	France	47.57	7.18	F
+I1389	OlaldeNature2018	4323	Beaker_Central_Europe	France	47.39	7.27	M
+I1390	OlaldeNature2018	4383	Beaker_Central_Europe	France	47.39	7.27	M
+I2364	OlaldeNature2018	4215	Beaker_Central_Europe	Hungary	47.6	19.05	M
+E09538	OlaldeNature2018	4288	Beaker_Central_Europe	Germany	48.32	10.89	M
+E09569	OlaldeNature2018	4223	Beaker_Central_Europe	Germany	48.32	10.89	M
+E09537_d	OlaldeNature2018	4336	Beaker_Central_Europe	Germany	48.32	10.89	F
+E09568_d	OlaldeNature2018	4286	Beaker_Central_Europe	Germany	48.33	10.9	M
+E09613_d	OlaldeNature2018	4165	Beaker_Central_Europe	Germany	48.33	10.9	F
+E09614_d	OlaldeNature2018	4107	Beaker_Central_Europe	Germany	48.33	10.9	F
+I0461	OlaldeNature2018	4278	Beaker_Iberia	Spain	42.4	-3.75	F
+I2445	OlaldeNature2018	4114	Beaker_Britain	Great Britain	51.8	-1.32	M
+I2452	OlaldeNature2018	4049	Beaker_Britain	Great Britain	52.15	-0.38	M
+I2453	OlaldeNature2018	4115	Beaker_Britain	Great Britain	52.67	-0.35	M
+I2454	OlaldeNature2018	4040	Beaker_Britain	Great Britain	52.34	0.03	F
+I2455	OlaldeNature2018	3970	Beaker_Britain	Great Britain	52.34	0.03	F
+I2980	OlaldeNature2018	5182	Scotland_N	Great Britain	59.31	-2.94	F
+I2981	OlaldeNature2018	3703	Scotland_CA_EBA	Great Britain	59.28	-2.43	F
+I2988	OlaldeNature2018	5390	Scotland_N	Great Britain	55.4	-5.2	F
+I3136	OlaldeNature2018	5394	Scotland_N	Great Britain	56.4	-5.48	F
+I3137	OlaldeNature2018	5450	Scotland_N	Great Britain	56.4	-5.48	M
+I3138	OlaldeNature2018	5044	Scotland_N	Great Britain	56.4	-5.48	F
+I3255	OlaldeNature2018	3994	Beaker_Britain	Great Britain	52.17	0.1	F
+I3528	OlaldeNature2018	4300	Beaker_Central_Europe	Hungary	47.62	19.04	M
+I3529	OlaldeNature2018	4300	Beaker_Central_Europe	Hungary	47.62	19.04	F
+I3599	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3600	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	F
+I3601	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	F
+I3602	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	F
+I3604	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.66	13.07	M
+I3607	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.66	13.07	M
+I3874	OlaldeNature2018	4069	Beaker_Southern_France	France	44.48	6.37	F
+I3875	OlaldeNature2018	3991	Beaker_Southern_France	France	44.48	6.37	M
+I2977	OlaldeNature2018	4837	Scotland_N	Great Britain	58.74	-2.92	M
+I2978	OlaldeNature2018	5130	Scotland_N	Great Britain	58.74	-2.92	M
+I3133	OlaldeNature2018	5455	Scotland_N	Great Britain	56.4	-5.48	M
+I3256	OlaldeNature2018	4067	Beaker_Britain	Great Britain	52.17	0.1	M
+I2979	OlaldeNature2018	5088	Scotland_N	Great Britain	58.74	-2.92	M
+I3134	OlaldeNature2018	5456	Scotland_N	Great Britain	56.4	-5.48	M
+I3135	OlaldeNature2018	5463	Scotland_N	Great Britain	56.4	-5.48	M
+I3132	OlaldeNature2018	3954	Scotland_CA_EBA	Great Britain	57.72	-3.39	M
+I3068	OlaldeNature2018	5557	England_N	Great Britain	53.08	-1.64	M
+I2365	OlaldeNature2018	4285	Beaker_Central_Europe	Hungary	47.6	19.05	M
+I3587	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3588	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3589	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3590	OlaldeNature2018	4191	Beaker_Central_Europe	Germany	48.88	12.53	F
+I3594	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	F
+I4067	OlaldeNature2018	3769	Beaker_The_Netherlands	The Netherlands	52.73	5.1	F
+I4068	OlaldeNature2018	3992	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I4069	OlaldeNature2018	3988	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I4070	OlaldeNature2018	3714	Netherlands_BA	The Netherlands	52.73	5.1	M
+I4071	OlaldeNature2018	3724	Netherlands_BA	The Netherlands	52.73	5.1	F
+I4073	OlaldeNature2018	4000	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I4075	OlaldeNature2018	3979	Beaker_The_Netherlands	The Netherlands	52.73	5.1	F
+I4076	OlaldeNature2018	3767	Beaker_The_Netherlands	The Netherlands	52.73	5.1	F
+I4178	OlaldeNature2018	4300	Beaker_Central_Europe	Hungary	47.38	19.02	M
+I4247	OlaldeNature2018	4288	Beaker_Iberia	Spain	40.44	-3.5	F
+I4248	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I4249	OlaldeNature2018	4189	Beaker_Central_Europe	Germany	48.84	12.75	F
+I4250	OlaldeNature2018	4242	Beaker_Central_Europe	Germany	48.84	12.75	F
+I4251	OlaldeNature2018	4242	Beaker_Central_Europe	Poland	50.65	20.66	M
+I4252	OlaldeNature2018	4163	Beaker_Central_Europe	Poland	50.65	20.66	M
+I4253	OlaldeNature2018	4283	Beaker_Central_Europe	Poland	50.65	20.66	M
+I1767	OlaldeNature2018	4035	Beaker_Britain	Great Britain	54.52	-1.31	M
+I1770	OlaldeNature2018	3950	Beaker_Britain	Great Britain	54.2	-0.43	F
+I1775	OlaldeNature2018	3597	Wales_CA_EBA	Great Britain	53.33	-3.84	M
+I2464	OlaldeNature2018	3630	England_CA_EBA	Great Britain	51.15	-1.75	M
+I2565	OlaldeNature2018	4255	Beaker_Britain	Great Britain	51.16	-1.77	M
+I2566	OlaldeNature2018	4070	Beaker_Britain	Great Britain	51.16	-1.77	M
+I2567	OlaldeNature2018	4030	Scotland_CA_EBA	Great Britain	55.97	-2.44	M
+I2568	OlaldeNature2018	4113	Beaker_Britain	Great Britain	55.97	-2.44	M
+I2569	OlaldeNature2018	3978	Scotland_CA_EBA	Great Britain	55.99	-2.54	M
+I2573	OlaldeNature2018	3352	Scotland_MBA	Great Britain	55.98	-2.9	F
+I2574	OlaldeNature2018	3272	Wales_MBA	Great Britain	53.33	-3.84	F
+I2575	OlaldeNature2018	4294	Beaker_Southern_France	France	43.97	5.81	M
+I2596	OlaldeNature2018	4105	England_CA_EBA	Great Britain	51.16	-1.77	M
+I2598	OlaldeNature2018	3990	Beaker_Britain	Great Britain	51.16	-1.77	M
+I2600	OlaldeNature2018	3990	England_CA_EBA	Great Britain	51.13	-1.69	F
+I2601	OlaldeNature2018	3805	England_CA_EBA	Great Britain	51.33	1.36	F
+I2602	OlaldeNature2018	3745	England_CA_EBA	Great Britain	51.33	1.36	M
+I2605	OlaldeNature2018	5239	England_N	Great Britain	51.49	-0.67	F
+I2609	OlaldeNature2018	3848	England_CA_EBA	Great Britain	54.98	-2.12	F
+I2610	OlaldeNature2018	3791	England_CA_EBA	Great Britain	54.97	-1.73	F
+I2612	OlaldeNature2018	4287	England_CA_EBA	Great Britain	54.88	-1.45	F
+I2618	OlaldeNature2018	3993	England_CA_EBA	Great Britain	55.06	-2.15	M
+I2629	OlaldeNature2018	4930	Scotland_N	Great Britain	58.74	-2.92	M
+I2630	OlaldeNature2018	4473	Scotland_N	Great Britain	58.74	-2.92	M
+I2631	OlaldeNature2018	4953	Scotland_N	Great Britain	59.23	-2.57	M
+I2633	OlaldeNature2018	5654	Scotland_N	Great Britain	58.53	-3.6	F
+I2635	OlaldeNature2018	5472	Scotland_N	Great Britain	58.53	-3.6	M
+I2637	OlaldeNature2018	5375	Scotland_N	Great Britain	59.35	-2.87	M
+I2639	OlaldeNature2018	3465	England_MBA	Great Britain	51.16	-1.77	F
+I2650	OlaldeNature2018	5380	Scotland_N	Great Britain	59.35	-2.87	M
+I2651	OlaldeNature2018	5160	Scotland_N	Great Britain	59.35	-2.87	F
+I2653	OlaldeNature2018	3350	Scotland_MBA	Great Britain	55.98	-2.9	M
+I2654	OlaldeNature2018	3350	Scotland_MBA	Great Britain	55.98	-2.9	F
+I2655	OlaldeNature2018	3308	Scotland_MBA	Great Britain	58.23	-6.94	M
+I2659	OlaldeNature2018	5653	Scotland_N	Great Britain	56.41	-5.47	F
+I2660	OlaldeNature2018	5384	Scotland_N	Great Britain	56.41	-5.47	M
+I2691	OlaldeNature2018	5621	Scotland_N	Great Britain	56.41	-5.47	M
+I2741	OlaldeNature2018	4256	Beaker_Central_Europe	Hungary	47.38	19.02	M
+I2787	OlaldeNature2018	4280	Beaker_Central_Europe	Hungary	47.38	19.02	M
+I2796	OlaldeNature2018	5571	Scotland_N	Great Britain	59.31	-2.94	M
+I2859	OlaldeNature2018	2811	Scotland_LBA	Great Britain	57.72	-3.39	M
+I2860	OlaldeNature2018	2843	Scotland_LBA	Great Britain	57.72	-3.39	M
+I2861	OlaldeNature2018	2853	Scotland_LBA	Great Britain	57.72	-3.39	F
+I2932	OlaldeNature2018	4410	Scotland_N	Great Britain	58.74	-2.92	M
+I2933	OlaldeNature2018	4899	Scotland_N	Great Britain	58.74	-2.92	M
+I2934	OlaldeNature2018	5127	Scotland_N	Great Britain	58.74	-2.92	F
+I2935	OlaldeNature2018	5124	Scotland_N	Great Britain	58.74	-2.92	M
+I3041	OlaldeNature2018	5440	Scotland_N	Great Britain	56.4	-5.48	M
+I3085	OlaldeNature2018	5133	Scotland_N	Great Britain	58.74	-2.92	F
+I3130	OlaldeNature2018	2854	Scotland_LBA	Great Britain	57.72	-3.39	F
+I1765_d	OlaldeNature2018	4135	Beaker_Britain	Great Britain	54.52	-1.31	M
+I2656_d	OlaldeNature2018	3080	Scotland_LBA	Great Britain	55.97	-2.9	M
+I3592	OlaldeNature2018	4281	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3593	OlaldeNature2018	4222	Beaker_Central_Europe	Germany	48.88	12.53	F
+I3596	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I3597	OlaldeNature2018	4175	Beaker_Central_Europe	Germany	48.88	12.53	M
+I4074	OlaldeNature2018	4046	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I4303	OlaldeNature2018	6633	France_MLN	France	43.46	5.86	M
+I5014	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.71	11.45	F
+I5015	OlaldeNature2018	4289	Beaker_Central_Europe	Hungary	47.6	19.05	F
+I5017	OlaldeNature2018	4284	Beaker_Central_Europe	Germany	48.33	10.9	F
+I5019	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.66	13.07	F
+I5020	OlaldeNature2018	4282	Beaker_Central_Europe	Germany	48.66	12.71	F
+I5021	OlaldeNature2018	4492	Beaker_Central_Europe	Germany	48.69	13.02	M
+I5022	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.69	13.02	M
+I5023	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.69	13.02	F
+I5024	OlaldeNature2018	4106	Beaker_Central_Europe	Czech Republic	50.12	14.26	M
+I5025	OlaldeNature2018	4250	Beaker_Central_Europe	Czech Republic	50.12	14.26	F
+I5035	OlaldeNature2018	4150	Czech_EBA	Czech Republic	50.17	14.32	F
+I5037	OlaldeNature2018	4100	Czech_EBA	Czech Republic	48.8	17.02	M
+I5042	OlaldeNature2018	4100	Czech_EBA	Czech Republic	48.8	17.02	M
+I5043	OlaldeNature2018	4250	Czech_EBA	Czech Republic	48.8	17.02	M
+I5044	OlaldeNature2018	4250	Czech_EBA	Czech Republic	48.8	17.02	F
+I5116	OlaldeNature2018	4550	Hungary_LCA	Hungary	47.81	20.89	F
+I5117	OlaldeNature2018	4550	Hungary_LCA	Hungary	47.81	20.89	M
+I5118	OlaldeNature2018	4550	Hungary_LCA	Hungary	47.81	20.89	M
+I5119	OlaldeNature2018	4550	Hungary_LCA	Hungary	47.81	20.89	F
+I2657	OlaldeNature2018	5817	Scotland_N	Great Britain	56.42	-5.47	M
+I4304	OlaldeNature2018	6639	France_MLN	France	43.46	5.86	M
+I4305	OlaldeNature2018	6672	France_MLN	France	43.46	5.86	F
+I4308	OlaldeNature2018	5450	France_MLN	France	43.34	5.06	F
+I4945	OlaldeNature2018	4168	Beaker_Central_Europe	Czech Republic	50.12	14.46	F
+I4946	OlaldeNature2018	4172	Beaker_Central_Europe	Czech Republic	50.05	14.37	F
+I4947	OlaldeNature2018	4300	Beaker_Central_Europe	Czech Republic	50.05	14.37	M
+I4949	OlaldeNature2018	5454	England_N	Great Britain	50.86	-0.38	M
+I4950	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.3	-1.8	M
+I4951	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.24	-1.76	M
+I4884	OlaldeNature2018	3764	Czech_EBA	Czech Republic	50.12	14.46	M
+I4885	OlaldeNature2018	4166	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4886	OlaldeNature2018	4074	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4887	OlaldeNature2018	4070	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4888	OlaldeNature2018	4060	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4889	OlaldeNature2018	4122	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4890	OlaldeNature2018	4250	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4891	OlaldeNature2018	4122	Beaker_Central_Europe	Czech Republic	50.12	14.46	M
+I4892	OlaldeNature2018	3741	Czech_EBA	Czech Republic	50.12	14.46	F
+I4893	OlaldeNature2018	6349	Czech_MN	Czech Republic	50.12	14.46	M
+I4894	OlaldeNature2018	6378	Czech_MN	Czech Republic	50.12	14.46	F
+I4895	OlaldeNature2018	4110	Beaker_Central_Europe	Czech Republic	50.05	14.37	M
+I4896	OlaldeNature2018	4165	Beaker_Central_Europe	Czech Republic	50.05	14.37	F
+I5512	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.24	-1.76	F
+I5513	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.22	-1.77	M
+I5514	OlaldeNature2018	4163	Beaker_Central_Europe	Czech Republic	50.05	14.37	M
+I5515	OlaldeNature2018	3856	Scotland_CA_EBA	Great Britain	56.06	-3.42	M
+I5516	OlaldeNature2018	3640	Scotland_CA_EBA	Great Britain	56.19	-4.06	M
+I5519	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.33	10.9	M
+I5520	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.33	10.9	F
+I5521	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.33	10.9	F
+I5522	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.33	10.9	F
+I5523	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	F
+I5524	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	F
+I5525	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	F
+I5526	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	F
+I5527	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.71	11.45	F
+I5529	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.69	13.02	M
+I5530	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	M
+I5531	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.6	12.75	F
+I5748	OlaldeNature2018	4382	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I5750	OlaldeNature2018	4050	Beaker_The_Netherlands	The Netherlands	52.73	5.1	M
+I5755	OlaldeNature2018	4178	Beaker_Central_Europe	Switzerland	46.23	7.35	M
+I5757	OlaldeNature2018	4178	Beaker_Central_Europe	Switzerland	46.23	7.35	M
+I5759	OlaldeNature2018	4178	Beaker_Central_Europe	Switzerland	46.23	7.35	F
+I5833	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5834	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I5835	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5836	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	49.65	8.32	F
+I2417	OlaldeNature2018	4270	Beaker_Britain	Great Britain	51.16	-1.77	M
+I2443	OlaldeNature2018	4085	Beaker_Britain	Great Britain	51.8	-1.32	F
+I2446	OlaldeNature2018	4248	Beaker_Britain	Great Britain	51.8	-1.32	F
+I2447	OlaldeNature2018	3964	Beaker_Britain	Great Britain	51.8	-1.32	M
+I2450	OlaldeNature2018	4283	Beaker_Britain	Great Britain	51.68	-1.3	F
+I2458	OlaldeNature2018	3340	England_MBA	Great Britain	51.16	-1.77	F
+I2461	OlaldeNature2018	4270	England_CA_EBA	Great Britain	51.13	-1.69	F
+I2462	OlaldeNature2018	3960	England_CA_EBA	Great Britain	51.33	1.36	F
+I2477	OlaldeNature2018	4015	Beaker_Northern_Italy	Italy	44.8	10.33	F
+I4930	OlaldeNature2018	4721	Beaker_Sicily	Italy	37.73	12.96	F
+I4933	OlaldeNature2018	4250	Beaker_Sicily	Italy	37.73	12.96	M
+I4936	OlaldeNature2018	4250	Beaker_Sicily	Italy	37.73	12.96	F
+I5358	OlaldeNature2018	4942	Wales_N	Great Britain	53.06	-3.25	F
+I5359	OlaldeNature2018	5600	Wales_N	Great Britain	51.45	-3.31	M
+I5364	OlaldeNature2018	3350	Wales_MBA	Great Britain	51.54	-4.21	F
+I5366	OlaldeNature2018	5464	England_N	Great Britain	50.86	-0.38	F
+I5367	OlaldeNature2018	4255	Beaker_Britain	Great Britain	56.68	-6.46	F
+I5370	OlaldeNature2018	5600	Scotland_N	Great Britain	56.41	-5.47	F
+I5371	OlaldeNature2018	5600	Scotland_N	Great Britain	56.41	-5.47	F
+I5373	OlaldeNature2018	4038	England_CA_EBA	Great Britain	53.08	-1.64	M
+I5374	OlaldeNature2018	4596	England_N	Great Britain	51.28	-2.74	M
+I5376	OlaldeNature2018	4250	Beaker_Britain	Great Britain	51.47	-0.31	F
+I5379	OlaldeNature2018	4330	Beaker_Britain	Great Britain	50.92	-2.02	M
+I5382	OlaldeNature2018	4080	Beaker_Britain	Great Britain	54.52	-1.31	M
+I5385	OlaldeNature2018	4252	Beaker_Britain	Great Britain	58.36	-3.4	F
+I5441	OlaldeNature2018	3750	England_CA_EBA	Great Britain	50.43	-3.58	M
+I5469	OlaldeNature2018	3524	Scotland_CA_EBA	Great Britain	55.97	-3.18	F
+I5470	OlaldeNature2018	3485	Scotland_CA_EBA	Great Britain	55.97	-3.18	M
+I5471	OlaldeNature2018	4096	Beaker_Britain	Great Britain	55.95	-2.47	F
+I5473	OlaldeNature2018	4200	Scotland_CA_EBA	Great Britain	55.62	-3.62	M
+I5655	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I5656	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5657	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5658	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I5659	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5660	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5661	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5663	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	M
+I5665	OlaldeNature2018	4250	Beaker_Iberia	Spain	42.72	-3.84	M
+I5666	OlaldeNature2018	4250	Beaker_Central_Europe	Czech Republic	50.2	15.8	M
+I6466	OlaldeNature2018	4500	Beaker_Iberia	Portugal	38.88	-9.08	M
+I6467	OlaldeNature2018	4500	Beaker_Iberia	Portugal	38.88	-9.08	F
+I6468	OlaldeNature2018	4150	Beaker_Central_Europe	Czech Republic	50.17	14.32	F
+I6471	OlaldeNature2018	4250	Beaker_Iberia	Spain	40.49	-3.37	M
+I6475	OlaldeNature2018	4250	Beaker_Iberia	Spain	40.49	-3.37	F
+I6476	OlaldeNature2018	4100	Beaker_Central_Europe	Czech Republic	50.5	14	F
+I6480	OlaldeNature2018	4150	Beaker_Central_Europe	Czech Republic	50.17	14.32	M
+I6481	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.71	11.33	M
+I6482	OlaldeNature2018	4250	Beaker_Central_Europe	Germany	48.71	11.33	F
+I6531	OlaldeNature2018	4113	Poland_BA	Poland	50.23	18.22	M
+I6534	OlaldeNature2018	4254	Beaker_Central_Europe	Poland	50.09	18.1	M
+I6535	OlaldeNature2018	4285	Beaker_Central_Europe	Poland	50.09	18.1	M
+I6537	OlaldeNature2018	4117	Poland_BA	Poland	50.11	18.21	M
+I6538	OlaldeNature2018	3838	Beaker_Central_Europe	Poland	50.91	16.79	F
+I6539	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	M
+I6542	OlaldeNature2018	4100	Beaker_Iberia	Spain	40.44	-3.5	M
+I6543	OlaldeNature2018	4100	C_Iberia_CA	Spain	40.44	-3.5	M
+I6579	OlaldeNature2018	4142	Poland_BA	Poland	51.04	17.07	F
+I6580	OlaldeNature2018	4175	Beaker_Central_Europe	Poland	50.87	16.86	M
+I6581	OlaldeNature2018	4251	Beaker_Central_Europe	Poland	50.09	18.1	M
+I6582	OlaldeNature2018	4151	Beaker_Central_Europe	Poland	50.09	18.1	F
+I6583	OlaldeNature2018	4121	Beaker_Central_Europe	Poland	50.96	17.02	F
+I6584	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	F
+I6585	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	M
+I6587	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	M
+I6588	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	M
+I6589	OlaldeNature2018	4200	Beaker_Iberia	Spain	40.22	-3.76	M
+I6590	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I6591	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I6596	OlaldeNature2018	4550	C_Iberia_CA	Spain	40.22	-3.76	M
+I6601	OlaldeNature2018	4250	SW_Iberia_CA	Portugal	39.09	-9.29	M
+I6604	OlaldeNature2018	3940	C_Iberia_CA	Spain	40.44	-3.5	M
+I6605	OlaldeNature2018	4357	C_Iberia_CA	Spain	40.44	-3.5	F
+I6608	OlaldeNature2018	3818	C_Iberia_CA	Spain	40.44	-3.5	M
+I6610	OlaldeNature2018	3799	C_Iberia_CA	Spain	40.44	-3.5	F
+I6612	OlaldeNature2018	4201	C_Iberia_CA	Spain	40.44	-3.5	F
+I6613	OlaldeNature2018	4100	C_Iberia_CA	Spain	40.44	-3.5	F
+I6617	OlaldeNature2018	4550	C_Iberia_CA	Spain	40.22	-3.76	M
+I6622	OlaldeNature2018	4250	Beaker_Iberia	Spain	40.44	-3.5	M
+I6623	OlaldeNature2018	4250	Beaker_Iberia	Spain	40.44	-3.5	F
+I6624	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.84	12.75	F
+I6628	OlaldeNature2018	4550	C_Iberia_CA	Spain	40.22	-3.76	F
+I6629	OlaldeNature2018	4550	C_Iberia_CA	Spain	40.22	-3.76	M
+I6630	OlaldeNature2018	4550	C_Iberia_CA	Spain	40.22	-3.76	F
+I3082	OlaldeNature2018	3455	England_MBA	Great Britain	50.92	-2.02	M
+I4132	OlaldeNature2018	4200	Beaker_Central_Europe	Germany	48.33	10.9	M
+I4229	OlaldeNature2018	4150	Beaker_Iberia	Portugal	38.75	-9.22	M
+I4245	OlaldeNature2018	4327	Beaker_Iberia	Spain	40.44	-3.5	F
+I6472	OlaldeNature2018	4250	Beaker_Iberia	Spain	40.49	-3.37	M
+I6750	OlaldeNature2018	5658	England_N	Great Britain	51.09	-1.73	M
+I6751	OlaldeNature2018	5638	England_N	Great Britain	51.09	-1.73	F
+I6759	OlaldeNature2018	5536	England_N	Great Britain	54.07	-2.29	M
+I6761	OlaldeNature2018	5525	England_N	Great Britain	50.83	-0.11	F
+I6762	OlaldeNature2018	5700	England_N	Great Britain	51.56	-1.45	M
+I6774	OlaldeNature2018	4150	Beaker_Britain	Great Britain	50.86	-0.12	M
+I6775	OlaldeNature2018	4150	Beaker_Britain	Great Britain	51.12	-3.08	M
+I6777	OlaldeNature2018	4150	Beaker_Britain	Great Britain	51.15	-1.81	M
+I6778	OlaldeNature2018	4150	Beaker_Britain	Great Britain	51.15	-1.81	F
+I2597	OlaldeNature2018	4105	England_CA_EBA	Great Britain	51.16	-1.77	M
+I2604	OlaldeNature2018	4070	England_CA_EBA	Great Britain	51.15	-1.36	F
+I2606	OlaldeNature2018	5065	England_N	Great Britain	51.49	-0.67	M
+I6609	OlaldeNature2018	4201	C_Iberia_CA	Spain	40.44	-3.5	F
+I0519	OlaldeNature2018	5180	England_N	Great Britain	52.22	-0.94	M
+I0520	OlaldeNature2018	5180	England_N	Great Britain	52.22	-0.94	M
+I0518	OlaldeNature2018	5180	England_N	Great Britain	52.22	-0.94	M
+I2786	OlaldeNature2018	4283	Beaker_Central_Europe	Hungary	47.38	19.02	M
+I5383	OlaldeNature2018	2945	England_LBA	Great Britain	54.16	-2.47	F
+I5377	OlaldeNature2018	3745	England_CA_EBA	Great Britain	51.47	-0.27	M
+I1392	OlaldeNature2018	4604	Beaker_Central_Europe	France	47.34	7.31	F
+I6679	OlaldeNature2018	3958	Beaker_Britain	Great Britain	55.31	-1.55	M
+I6680	OlaldeNature2018	3702	England_CA_EBA	Great Britain	55.31	-1.55	M
+I1970	OlaldeNature2018	4635	Beaker_Iberia	Portugal	38.88	-9.08	M
+I1979	OlaldeNature2018	4015	Beaker_Northern_Italy	Italy	44.78	10.29	F
+I6626	OlaldeNature2018	4075	Beaker_Iberia	Spain	40.44	-3.5	U
+I0576	UnterlanderNatureCommunications2017	2650	Aldy_Bel_IA	Russia	52.1	93.71	F
+I0574	UnterlanderNatureCommunications2018	2250	Early_Sarmatian_IA	Russia	51.99	53.87	F
+I0575	UnterlanderNatureCommunications2019	2250	Early_Sarmatian_IA	Russia	51.99	53.87	M
+I0563	UnterlanderNatureCommunications2020	2300	Pazyryk_IA	Kazakhstan	49.34	86.35	M
+I0562	UnterlanderNatureCommunications2021	2300	Pazyryk_IA	Kazakhstan	49.34	86.35	F
+I0577	UnterlanderNatureCommunications2022	2650	Aldy_Bel_IA	Russia	52.1	93.71	M
+IS2	UnterlanderNatureCommunications2023	1200	Zevakino_Chilikta_IA	Russia	..	..	M
+Ze6b	UnterlanderNatureCommunications2024	1200	Zevakino_Chilikta_IA	Russia	..	..	F
+I2298	SkoglundCell2017	606	Tanzania_Pemba_700BP	Tanzania	-4.9	39.6	F
+I1048	SkoglundCell2017	1358	Tanzania_Pemba_1400BP	Tanzania	-4.9	39.6	F
+I0595	SkoglundCell2017	410	Kenya_500BP	Kenya	-3.7	39.7	M
+I4421	SkoglundCell2017	5200	Malawi_Chencherere_5200BP	Malawi	-14.38	33.82	F
+I4422	SkoglundCell2017	5181	Malawi_Chencherere_5200BP	Malawi	-14.38	33.82	F
+I4426	SkoglundCell2017	2517	Malawi_Fingira_2500BP	Malawi	-10.79	33.77	F
+I4427	SkoglundCell2017	6061	Malawi_Fingira_6000BP	Malawi	-10.79	33.77	F
+I4468	SkoglundCell2017	6087	Malawi_Fingira_6000BP	Malawi	-10.79	33.77	F
+I0589	SkoglundCell2017	1335	Tanzania_Zanzibar_1400BP	Tanzania	-6.4	39.5	F
+I2966	SkoglundCell2017	8075	Malawi_Hora_Holocene	Malawi	-11.66	33.64	M
+I2967	SkoglundCell2017	8065	Malawi_Hora_Holocene	Malawi	-11.66	33.64	M
+I3726	SkoglundCell2017	3079	Tanzania_Luxmanda_3000BP	Tanzania	-4.26	35.32	F
+I1368_low	SkoglundNature2016	2865	Lapita_Vanuatu	Vanuatu	-17.79	168.37	F
+I1369_low	SkoglundNature2016	2875	Lapita_Vanuatu	Vanuatu	-17.79	168.37	F
+I1370_low	SkoglundNature2016	2945	Lapita_Vanuatu	Vanuatu	-17.79	168.37	F
+Sk10	SkoglundNature2016	2510	Lapita_Tonga	Tonga	-21.18	175.12	F
+I4451_all	LipsonCurrentBiology2018	2393	Vanuatu_2300BP_all	Vanuatu	-17.7	168.25	F
+I4451	LipsonCurrentBiology2018	2393	Vanuatu_2300BP	Vanuatu	-17.7	168.25	F
+I1368_all	LipsonCurrentBiology2018	2865	Vanuatu_2900BP_all	Vanuatu	-17.79	168.37	F
+I1369_all	LipsonCurrentBiology2018	2875	Vanuatu_2900BP_all	Vanuatu	-17.79	168.37	F
+I1370_all	LipsonCurrentBiology2018	2945	Vanuatu_2900BP_all	Vanuatu	-17.79	168.37	F
+I4419	LipsonCurrentBiology2018	141	Vanuatu_Efate_150BP	Vanuatu	-17.81	168.5	F
+I4424	LipsonCurrentBiology2018	145	Vanuatu_Efate_150BP	Vanuatu	-17.77	168.29	F
+I4425	LipsonCurrentBiology2018	149	Vanuatu_Efate_150BP	Vanuatu	-17.65	168.4	F
+I4450	LipsonCurrentBiology2018	368	Vanuatu_Efate_150BP	Vanuatu	-17.67	168.54	F
+I5259	LipsonCurrentBiology2018	582	Vanuatu_500BP	Vanuatu	-17.64	168.21	F
+I5951	LipsonCurrentBiology2018	3123	Vanuatu_2900BP	Vanuatu	-17.79	168.37	F
+I3921_all	LipsonCurrentBiology2018	1404	Vanuatu_1300BP_all	Vanuatu	-16.71	168.13	F
+I4105_all	LipsonCurrentBiology2018	287	Vanuatu_Epi_150BP_all	Vanuatu	-16.89	168.3	F
+I4106_all	LipsonCurrentBiology2018	153	Vanuatu_Epi_150BP_all	Vanuatu	-16.89	168.3	F
+I4096_all	LipsonCurrentBiology2018	1353	Vanuatu_1300BP_all	Vanuatu	-16.71	168.13	F
+I1368	LipsonCurrentBiology2018	2865	Vanuatu_2900BP	Vanuatu	-17.79	168.37	F
+I1369	LipsonCurrentBiology2018	2875	Vanuatu_2900BP	Vanuatu	-17.79	168.37	F
+I1370	LipsonCurrentBiology2018	2945	Vanuatu_2900BP	Vanuatu	-17.79	168.37	F
+I4106	LipsonCurrentBiology2018	153	Vanuatu_Epi_150BP	Vanuatu	-16.89	168.3	F
+I3921	LipsonCurrentBiology2018	1404	Vanuatu_1300BP	Vanuatu	-16.71	168.13	F
+I4105	LipsonCurrentBiology2018	287	Vanuatu_Epi_150BP	Vanuatu	-16.89	168.3	F
+I6677	NarasimhanScience2019	5550	Bilina_N_Baalberge	Czech Republic	50.55	13.79	M
+I6695	NarasimhanScience2019	4575	Western_Steppe_MLBA	Czech Republic	50.55	13.79	F
+I6696	NarasimhanScience2019	4575	Western_Steppe_MLBA	Czech Republic	50.53	14.07	M
+I7207	NarasimhanScience2019	4400	Western_Steppe_MLBA	Czech Republic	50.54	13.84	M
+I7208	NarasimhanScience2019	4330	Western_Steppe_MLBA	Czech Republic	50.54	13.83	M
+I7209	NarasimhanScience2019	4283	Western_Steppe_MLBA	Czech Republic	50.54	13.83	M
+I7949	NarasimhanScience2019	3450	Bilina_BA	Czech Republic	50.56	13.8	M
+I11501	NarasimhanScience2019	5169	Central_Steppe_EMBA	Kazakhstan	49.49	58.51	F
+I5270	NarasimhanScience2019	5081	Afanasievo	Russia	50.76	85.56	M
+I2069	NarasimhanScience2019	5077	Afanasievo	Russia	51.51	84.84	F
+I7489	NarasimhanScience2019	5076	Western_Steppe_EMBA	Russia	52.91	50.99	F
+I11736	NarasimhanScience2019	5068	Mereke_EBA_Yamnaya	Kazakhstan	50.46	49.2	F
+I1829	NarasimhanScience2019	5066	Afanasievo	Russia	50.55	86.59	F
+I5277	NarasimhanScience2019	5040	Afanasievo	Russia	50.76	85.56	M
+I2071	NarasimhanScience2019	4968	Afanasievo	Russia	51.5	85.97	M
+I11531	NarasimhanScience2019	4953	Central_Steppe_EMBA	Kazakhstan	49.49	58.51	F
+I5278	NarasimhanScience2019	4948	Afanasievo	Russia	50.75	85.56	M
+I11732	NarasimhanScience2019	4945	Central_Steppe_EMBA	Kazakhstan	49.49	58.51	F
+I11734	NarasimhanScience2019	4917	Central_Steppe_EMBA	Kazakhstan	49.49	58.51	M
+I5269	NarasimhanScience2019	4908	Afanasievo	Russia	50.76	85.56	M
+I5271	NarasimhanScience2019	4907	Afanasievo	Russia	50.76	85.56	F
+I5279	NarasimhanScience2019	4905	Afanasievo	Russia	50.75	85.56	M
+I5273	NarasimhanScience2019	4899	Afanasievo	Russia	50.75	85.56	M
+I5272	NarasimhanScience2019	4895	Afanasievo	Russia	50.76	85.56	F
+I10564	NarasimhanScience2019	4850	Afanasievo	Russia	54.36	¬¨‚Ä†90.919186	F
+I6715	NarasimhanScience2019	4850	Afanasievo	Russia	54.37	90.56	F
+I11112	NarasimhanScience2019	4800	Afanasievo	Russia	53.87	91.47	M
+I6711	NarasimhanScience2019	4750	Afanasievo	Russia	54.36	90.92	M
+I7671	NarasimhanScience2019	4733	Western_Steppe_EMBA	Russia	53.17	50.67	M
+I3387	NarasimhanScience2019	4725	Afanasievo	Russia	54.36	90.92	M
+I6294	NarasimhanScience2019	4721	Western_Steppe_EMBA	Russia	53.59	50.57	M
+I3951	NarasimhanScience2019	4709	Afanasievo_sister.I3950	Russia	48.83	83.91	F
+I3950	NarasimhanScience2019	4707	Afanasievo	Russia	48.83	83.91	M
+I3954	NarasimhanScience2019	4699	Afanasievo	Russia	48.83	83.91	F
+I3952	NarasimhanScience2019	4673	Afanasievo	Russia	48.83	83.91	M
+I11752	NarasimhanScience2019	4650	Afanasievo	Russia	51.3	83.2	F
+I6712	NarasimhanScience2019	4632	Afanasievo_son.I10565	Russia	54.36	90.92	M
+I3447	NarasimhanScience2019	4623	Dali_EBA	Kazakhstan	45.13	79.36	F
+I3949	NarasimhanScience2019	4618	Afanasievo_son.I3388_son.I3950_brother.I6714	Russia	48.83	83.91	M
+I3388	NarasimhanScience2019	4600	Afanasievo	Russia	48.83	83.91	F
+I6714	NarasimhanScience2019	4495	Afanasievo_son.I3388_son.I3950_brother.I3949	Russia	54.36	¬¨‚Ä†90.919186	M
+I6713	NarasimhanScience2019	4450	Afanasievo	Russia	54.36	¬¨‚Ä†90.919186	F
+I0442	NarasimhanScience2019	4350	Western_Steppe_EMBA	Russia	53.38	52.12	F
+I11735	NarasimhanScience2019	4331	Central_Steppe_EMBA	Kazakhstan	50.46	49.2	M
+I8745	NarasimhanScience2019	4300	Western_Steppe_EMBA	Russia	49.97	44.67	M
+I11737	NarasimhanScience2019	4064	Central_Steppe_EMBA	Kazakhstan	50.46	49.2	M
+I6708	NarasimhanScience2019	4062	Kanai_MBA	Kazakhstan	48.83	83.91	M
+I11541	NarasimhanScience2019	3717	Central_Steppe_MLBA	Kazakhstan	50.45	57.04	M
+I11538	NarasimhanScience2019	3631	Chanchar_LBA	Kazakhstan	50.67	57.72	F
+I3763	NarasimhanScience2019	3476	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I11542	NarasimhanScience2019	3250	Western_Steppe_MLBA	Kazakhstan	51.01	57.93	F
+I6047	NarasimhanScience2019	3249	Steppe_LBA	Russia	55.51	77.05	M
+I6709	NarasimhanScience2019	3244	Steppe_LBA	Kazakhstan	49.12	84.3	F
+I3769	NarasimhanScience2019	3150	Steppe_LBA	Kazakhstan	43.37	76.58	F
+I3453	NarasimhanScience2019	3130	Tasbas_LBA_LowCov	Kazakhstan	45.13	79.37	M
+I4295	NarasimhanScience2019	3084	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I4267	NarasimhanScience2019	3053	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I3976	NarasimhanScience2019	3051	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I3977	NarasimhanScience2019	3013	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I3456	NarasimhanScience2019	2997	Tasbas_LBA	Kazakhstan	45.13	79.37	M
+I3753	NarasimhanScience2019	2976	Steppe_LBA	Kazakhstan	50.22	81.84	M
+I3772	NarasimhanScience2019	2913	Steppe_LBA	Kazakhstan	50.22	81.84	F
+I3451	NarasimhanScience2019	2818	Steppe_LBA	Kazakhstan	45.13	79.37	F
+I11537	NarasimhanScience2019	2534	Steppe_LBA	Kazakhstan	50.67	57.72	M
+I11540	NarasimhanScience2019	1765	Steppe_LBA	Kazakhstan	50.45	57.04	M
+I0244	NarasimhanScience2019	4173	Steppe_MLBA_oWSHG	Russia	53.59	50.57	F
+I3770	NarasimhanScience2019	3986	Central_Steppe_MLBA	Kazakhstan	50.22	81.84	M
+I7670	NarasimhanScience2019	3982	Western_Steppe_MLBA	Russia	53.59	50.57	M
+I8507	NarasimhanScience2019	3950	Steppe_MLBA_oBMAC	Uzbekistan	40.54	64.99	M
+I0945	NarasimhanScience2019	3900	Western_Steppe_MLBA	Russia	53.88	59.08	F
+I0946	NarasimhanScience2019	3898	Western_Steppe_MLBA	Russia	53.88	59.08	F
+I1012	NarasimhanScience2019	3890	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0984	NarasimhanScience2019	3853	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1020	NarasimhanScience2019	3843	Steppe_MLBA_oWSHG	Russia	52.82	60.47	M
+I0944	NarasimhanScience2019	3834	Western_Steppe_MLBA	Russia	53.88	59.08	F
+I1029	NarasimhanScience2019	3823	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1027	NarasimhanScience2019	3819	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1057	NarasimhanScience2019	3811	Steppe_MLBA_oWSHG	Russia	52.82	60.47	M
+I5761	NarasimhanScience2019	3802	Western_Steppe_MLBA	Kazakhstan	48.74	77	F
+I0980	NarasimhanScience2019	3800	Steppe_MLBA_oWSHG	Russia	52.82	60.47	M
+I1007	NarasimhanScience2019	3800	Steppe_MLBA_oWSHG	Russia	52.82	60.47	M
+I0983	NarasimhanScience2019	3800	Steppe_MLBA_oWSHG	Russia	52.82	60.47	F
+I1013	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1003	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0982	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1006	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0937	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I0938	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I0986	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0942	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1060	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1062	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1065	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1022	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I0989	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1061	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1088	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1084	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1082	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1008	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1055	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1018	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0987	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1019	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1086	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1024	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1090	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I0939	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1063	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I0943	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1089	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I7480	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	F
+I1011	NarasimhanScience2019	3800	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I0940	NarasimhanScience2019	3800	Western_Steppe_MLBA_1d.rel.I1055	Russia	52.82	60.47	F
+I0985	NarasimhanScience2019	3800	Western_Steppe_MLBA_1d.rel.I1084	Russia	52.82	60.47	F
+I1010	NarasimhanScience2019	3800	Western_Steppe_MLBA_brother.I1086	Russia	52.82	60.47	M
+I1053	NarasimhanScience2019	3793	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I1017	NarasimhanScience2019	3791	Steppe_MLBA_oWSHG	Russia	52.82	60.47	M
+I1058	NarasimhanScience2019	3775	Steppe_MLBA_oWSHG_brother.I1057_brother.I1056	Russia	52.82	60.47	M
+I1054	NarasimhanScience2019	3769	Western_Steppe_MLBA_brother.I1053	Russia	52.82	60.47	M
+I6796	NarasimhanScience2019	3765	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	F
+I1056	NarasimhanScience2019	3741	Steppe_MLBA_oWSHG_brother.I1057_brother.I1058	Russia	52.82	60.47	M
+I4262	NarasimhanScience2019	3738	Western_Steppe_MLBA	Kazakhstan	48.78	76.45	M
+I1064	NarasimhanScience2019	3737	Western_Steppe_MLBA	Russia	52.82	60.47	M
+I6789	NarasimhanScience2019	3735	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	M
+I6792	NarasimhanScience2019	3734	Steppe_MLBA_oWSHG	Kazakhstan	50.09	74.44	F
+I6799	NarasimhanScience2019	3732	Satan_MLBA_Alakul	Kazakhstan	49.12	75.81	M
+I6794	NarasimhanScience2019	3732	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	M
+I3861	NarasimhanScience2019	3728	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	F
+I6790	NarasimhanScience2019	3728	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	F
+I6797	NarasimhanScience2019	3728	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	F
+I1028	NarasimhanScience2019	3721	Sintashta_MLBA_o3	Russia	52.82	60.47	M
+I3767	NarasimhanScience2019	3717	Western_Steppe_MLBA	Kazakhstan	47.78	72.01	M
+I6788	NarasimhanScience2019	3713	Western_Steppe_MLBA	Kazakhstan	52.61	62.69	F
+I6791	NarasimhanScience2019	3713	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	F
+I0507	NarasimhanScience2019	3704	Steppe_MLBA_oWSHG	Kazakhstan	45.13	79.36	M
+I3448	NarasimhanScience2019	3700	Steppe_MLBA_oWSHG	Kazakhstan	45.13	79.36	F
+I4263	NarasimhanScience2019	3700	Western_Steppe_MLBA	Kazakhstan	48.78	76.45	M
+I4776	NarasimhanScience2019	3663	Western_Steppe_MLBA	Kazakhstan	48.74	77	F
+I4318	NarasimhanScience2019	3663	Western_Steppe_MLBA	Kazakhstan	48.74	77	F
+I6800	NarasimhanScience2019	3663	Western_Steppe_MLBA	Kazakhstan	52.61	62.69	F
+I4780	NarasimhanScience2019	3648	Steppe_MLBA_oWSHG	Kazakhstan	48.74	77	F
+I6795	NarasimhanScience2019	3646	Steppe_MLBA_oWSHG	Kazakhstan	50.09	74.44	F
+I4568	NarasimhanScience2019	3641	Western_Steppe_MLBA	Kazakhstan	48.74	77	M
+I4779	NarasimhanScience2019	3641	Western_Steppe_MLBA	Kazakhstan	48.74	77	F
+I6793	NarasimhanScience2019	3641	Western_Steppe_MLBA	Kazakhstan	50.09	74.44	M
+I4319	NarasimhanScience2019	3638	Steppe_LBA_LowCov	Kazakhstan	48.74	77	M
+I4567	NarasimhanScience2019	3637	Western_Steppe_MLBA	Kazakhstan	48.74	77	M
+I4323	NarasimhanScience2019	3634	Central_Steppe_MLBA	Kazakhstan	43.25	77.81	F
+I8506	NarasimhanScience2019	3631	Steppe_MLBA_oBMAC	Uzbekistan	40.54	64.99	M
+I4782	NarasimhanScience2019	3629	Central_Steppe_MLBA	Kazakhstan	46.95	79.99	F
+I3860	NarasimhanScience2019	3626	Steppe_MLBA_oWSHG	Kazakhstan	42.69	73.12	M
+I3391	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I3392	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I3396	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I3390	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	F
+I3395	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	F
+I3394	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I3389	NarasimhanScience2019	3600	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I3393	NarasimhanScience2019	3600	Central_Steppe_MLBA_father.or.son.I6718	Russia	55.19	89.31	M
+I4566	NarasimhanScience2019	3596	Steppe_MLBA_oWSHG	Kazakhstan	48.74	77	F
+I6048	NarasimhanScience2019	3596	Western_Steppe_MLBA	Russia	55.51	77.05	F
+I6716	NarasimhanScience2019	3587	Central_Steppe_MLBA	Russia	55.19	89.31	F
+I3864	NarasimhanScience2019	3587	Western_Steppe_MLBA	Kazakhstan	50.29	51.39	F
+I4778	NarasimhanScience2019	3587	Western_Steppe_MLBA_father.or.son.I4262	Kazakhstan	48.78	76.45	M
+I4264	NarasimhanScience2019	3560	Western_Steppe_MLBA	Kazakhstan	46.97	80.03	F
+I1856	NarasimhanScience2019	3558	Central_Steppe_MLBA	Russia	53.87	91.46	M
+I3788	NarasimhanScience2019	3558	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	M
+I4321	NarasimhanScience2019	3534	Central_Steppe_MLBA	Kazakhstan	46.95	79.99	F
+I4265	NarasimhanScience2019	3534	Western_Steppe_MLBA	Kazakhstan	46.97	80.03	M
+I1852	NarasimhanScience2019	3521	Central_Steppe_MLBA	Russia	54.18	91.58	F
+I4784	NarasimhanScience2019	3516	Steppe_MLBA_oBMAC	Kazakhstan	43.25	77.81	M
+I4773	NarasimhanScience2019	3516	Western_Steppe_MLBA	Kazakhstan	46.97	80.03	M
+I4258	NarasimhanScience2019	3513	Steppe_MLBA_oBMAC	Tajikistan	39.45	68.03	F
+I4774	NarasimhanScience2019	3512	Western_Steppe_MLBA	Kazakhstan	46.97	80.03	M
+I1821	NarasimhanScience2019	3509	Central_Steppe_MLBA	Russia	53.87	91.46	M
+I6718	NarasimhanScience2019	3509	Central_Steppe_MLBA	Russia	55.19	89.31	M
+I4789	NarasimhanScience2019	3508	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	F
+I4322	NarasimhanScience2019	3507	Central_Steppe_MLBA	Kazakhstan	46.95	79.99	M
+I1853	NarasimhanScience2019	3507	Central_Steppe_MLBA	Russia	53.87	91.46	M
+I1828	NarasimhanScience2019	3507	Central_Steppe_MLBA	Russia	54.18	91.58	F
+I5762	NarasimhanScience2019	3500	Western_Steppe_MLBA_LowCov	Kazakhstan	48.74	77	M
+I1851	NarasimhanScience2019	3485	Central_Steppe_MLBA	Russia	54.18	91.58	M
+I4783	NarasimhanScience2019	3482	Central_Steppe_MLBA	Kazakhstan	46.95	79.99	M
+I4791	NarasimhanScience2019	3480	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	M
+I4160	NarasimhanScience2019	3475	Steppe_MLBA_oBMAC	Tajikistan	39.45	68.03	F
+I0233	NarasimhanScience2019	3475	Western_Steppe_MLBA	Russia	48.1	54.44	M
+I7060	NarasimhanScience2019	3473	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	F
+I6707	NarasimhanScience2019	3468	Western_Steppe_MLBA	Kazakhstan	49.71	73.88	F
+I10112	NarasimhanScience2019	3450	Central_Steppe_MLBA	Kazakhstan	50.82	75.6	M
+I4794	NarasimhanScience2019	3450	Steppe_MLBA_oBMAC	Kazakhstan	48.21	67.02	M
+I4790	NarasimhanScience2019	3433	Central_Steppe_MLBA	Kazakhstan	42.69	73.12	M
+I4257	NarasimhanScience2019	3426	Steppe_MLBA_oBMAC	Tajikistan	39.45	68.03	F
+I6717	NarasimhanScience2019	3402	Steppe_MLBA_oESHG	Russia	55.19	89.31	M
+I11214	NarasimhanScience2019	3400	Central_Steppe_MLBA	Russia	53.82	84.61	F
+I12499	NarasimhanScience2019	3358	Steppe_MLBA_oBMAC	Uzbekistan	40.54	64.99	M
+I1931	NarasimhanScience2019	3348	Steppe_MLBA_oWSHG	Kazakhstan	45.13	79.36	F
+I10140	NarasimhanScience2019	3250	Western_Steppe_MLBA	Kazakhstan	46.97	80.03	M
+I4787	NarasimhanScience2019	3238	Central_Steppe_MLBA	Kazakhstan	48.21	67.02	M
+I10110	NarasimhanScience2019	3100	Central_Steppe_MLBA	Kazakhstan	50.82	75.6	F
+I10111	NarasimhanScience2019	3100	Central_Steppe_MLBA	Kazakhstan	50.82	75.6	M
+I4153	NarasimhanScience2019	3050	Central_Steppe_MLBA	Uzbekistan	40.38	71.86	M
+I4255	NarasimhanScience2019	3050	Central_Steppe_MLBA	Uzbekistan	40.38	71.86	M
+I4785	NarasimhanScience2019	3000	Myrzhyk_MLBA_LowCov	Kazakhstan	..	..	M
+I1960	NarasimhanScience2019	8166	WSHG	Russia	56.04	69.34	F
+I1958	NarasimhanScience2019	6591	WSHG	Russia	56.04	69.34	F
+I5766	NarasimhanScience2019	6057	WSHG	Russia	57.36	65.37	F
+I11471	NarasimhanScience2019	5125	Indus_Periphery5	Iran	30.65	61.4	F
+I8726	NarasimhanScience2019	5000	Indus_Periphery4	Iran	30.65	61.4	M
+I11469	NarasimhanScience2019	5000	Shahr_I_Sokhta_BA1_LowCov	Iran	30.65	61.4	F
+I8525	NarasimhanScience2019	4955	BMAC_o2	Turkmenistan	37.19	61.03	U
+I11483	NarasimhanScience2019	4954	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	F
+I11468	NarasimhanScience2019	4900	Shahr_I_Sokhta_BA1.1d.rel.I11483	Iran	30.65	61.4	F
+I8725	NarasimhanScience2019	4896	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	M
+I8724	NarasimhanScience2019	4850	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	M
+I11462	NarasimhanScience2019	4846	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	M
+I11480	NarasimhanScience2019	4800	Indus_Periphery6	Iran	30.65	61.4	M
+I11479	NarasimhanScience2019	4754	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	F
+I11472	NarasimhanScience2019	4750	Shahr_I_Sokhta_BA3	Iran	30.65	61.4	F
+I11459	NarasimhanScience2019	4703	Indus_Periphery10	Iran	30.65	61.4	M
+Darra.I.Kur_d	NarasimhanScience2019	4605	Darra_i_kur_MBA	Afghanistan	36.78	70	M
+I11460	NarasimhanScience2019	4600	Indus_Periphery12_LowCov	Iran	30.65	61.4	M
+I11488	NarasimhanScience2019	4600	Indus_Periphery13_LowCov	Iran	30.65	61.4	F
+I11458	NarasimhanScience2019	4600	Indus_Periphery7	Iran	30.65	61.4	M
+I11474	NarasimhanScience2019	4600	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	M
+I11476	NarasimhanScience2019	4600	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	F
+I11461	NarasimhanScience2019	4600	Shahr_I_Sokhta_BA1_LowCov	Iran	30.65	61.4	M
+I11456	NarasimhanScience2019	4500	Indus_Periphery8	Iran	30.65	61.4	F
+I8728	NarasimhanScience2019	4500	Indus_Periphery9	Iran	30.65	61.4	M
+I11478	NarasimhanScience2019	4500	Shahr_I_Sokhta_BA1	Iran	30.65	61.4	M
+I4243	NarasimhanScience2019	4326	Hajji_Firuz_BA	Iran	36.99	45.47	F
+I1792	NarasimhanScience2019	4280	Gonur1_BA_o	Turkmenistan	38.19	62.03	M
+I2123	NarasimhanScience2019	4246	Indus_Periphery1	Turkmenistan	38.19	62.03	F
+I11042	NarasimhanScience2019	4225	BMAC	Turkmenistan	38.19	62.03	M
+I10411	NarasimhanScience2019	4200	BMAC	Turkmenistan	38.19	62.03	M
+I11466	NarasimhanScience2019	4200	Indus_Periphery11	Iran	30.65	61.4	F
+I11039	NarasimhanScience2019	4172	Gonur4_BA	Turkmenistan	38.19	62.03	F
+I1782	NarasimhanScience2019	4165	BMAC	Turkmenistan	38.19	62.03	F
+I6217	NarasimhanScience2019	4160	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I10409	NarasimhanScience2019	4112	Indus_Periphery3	Turkmenistan	38.19	62.03	M
+I1789	NarasimhanScience2019	4104	BMAC_o2	Turkmenistan	38.19	62.03	M
+I1783	NarasimhanScience2019	4100	Gonur1_BA_o	Turkmenistan	38.19	62.03	F
+I11526	NarasimhanScience2019	4072	Aigyrzhal_BA	Kyrgyzstan	41.43	75.89	M
+I2121	NarasimhanScience2019	4072	BMAC	Turkmenistan	38.19	62.03	F
+I2128	NarasimhanScience2019	4067	BMAC	Turkmenistan	38.19	62.03	M
+I1784	NarasimhanScience2019	4066	BMAC	Turkmenistan	38.19	62.03	M
+I2087	NarasimhanScience2019	4065	BMAC	Turkmenistan	38.19	62.03	M
+I6124	NarasimhanScience2019	4062	BMAC2	Turkmenistan	38.19	62.03	F
+I1793	NarasimhanScience2019	4060	BMAC	Turkmenistan	38.19	62.03	F
+I7171	NarasimhanScience2019	4050	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I7173	NarasimhanScience2019	4050	BMAC_LowCov	Turkmenistan	38.19	62.03	U
+I7101	NarasimhanScience2019	4050	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I3365	NarasimhanScience2019	4050	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I1787	NarasimhanScience2019	4010	BMAC	Turkmenistan	38.19	62.03	F
+I2122	NarasimhanScience2019	4010	BMAC_o2	Turkmenistan	38.19	62.03	F
+I2125	NarasimhanScience2019	4007	BMAC	Turkmenistan	38.19	62.03	F
+I11041	NarasimhanScience2019	4006	Indus_Periphery2	Turkmenistan	38.19	62.03	M
+I6117	NarasimhanScience2019	4000	BMAC_1d.rel.I1781_LowCov	Turkmenistan	38.19	62.03	M
+I6120	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I6127	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I6118	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I6218	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I6125	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I6312	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I6318	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I6126	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I6122	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I6310	NarasimhanScience2019	4000	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I1790	NarasimhanScience2019	3996	BMAC	Turkmenistan	38.19	62.03	F
+I6119	NarasimhanScience2019	3989	BMAC	Turkmenistan	38.19	62.03	M
+I3374	NarasimhanScience2019	3985	BMAC	Turkmenistan	38.19	62.03	F
+I11527	NarasimhanScience2019	3971	Aigyrzhal_BA	Kyrgyzstan	41.43	75.89	M
+I1788	NarasimhanScience2019	3966	BMAC	Turkmenistan	38.19	62.03	F
+I2116	NarasimhanScience2019	3951	BMAC	Turkmenistan	38.19	62.03	F
+I8508	NarasimhanScience2019	3950	Zaman_Baba_BA	Uzbekistan	39.62	63.74	U
+I7414	NarasimhanScience2019	3923	BMAC	Uzbekistan	37.42	66.83	F
+I4161	NarasimhanScience2019	3900	BMAC	Uzbekistan	37.75	67	F
+I4901	NarasimhanScience2019	3900	BMAC_o2	Uzbekistan	37.75	67	F
+I5608	NarasimhanScience2019	3900	BMAC_o2	Uzbekistan	37.75	67	F
+I2085	NarasimhanScience2019	3899	BMAC	Turkmenistan	38.19	62.03	M
+I7494	NarasimhanScience2019	3897	BMAC2	Uzbekistan	37.42	66.83	M
+I11040	NarasimhanScience2019	3850	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I7170	NarasimhanScience2019	3850	BMAC_LowCov	Turkmenistan	38.19	62.03	M
+I7102	NarasimhanScience2019	3850	BMAC_LowCov	Turkmenistan	38.19	62.03	F
+I1781	NarasimhanScience2019	3841	BMAC	Turkmenistan	38.19	62.03	M
+I7492	NarasimhanScience2019	3827	BMAC	Uzbekistan	37.42	66.83	M
+I7495	NarasimhanScience2019	3827	BMAC2	Uzbekistan	37.42	66.83	F
+I7416	NarasimhanScience2019	3813	BMAC	Uzbekistan	37.42	66.83	F
+I12255	NarasimhanScience2019	3800	BMAC_LowCov	Turkmenistan	38.21	62.03	F
+I4289	NarasimhanScience2019	3799	BMAC	Uzbekistan	37.42	66.83	F
+I7421	NarasimhanScience2019	3799	BMAC	Uzbekistan	37.42	66.83	M
+I4286	NarasimhanScience2019	3771	BMAC	Uzbekistan	37.42	66.83	F
+I7542	NarasimhanScience2019	3769	BMAC	Uzbekistan	37.42	66.83	F
+I10410	NarasimhanScience2019	3750	BMAC	Turkmenistan	38.19	62.03	F
+I4288	NarasimhanScience2019	3750	BMAC	Uzbekistan	37.42	66.83	F
+I7420	NarasimhanScience2019	3750	BMAC	Uzbekistan	37.42	66.83	M
+I7493	NarasimhanScience2019	3750	BMAC_o2	Uzbekistan	37.42	66.83	M
+I4314	NarasimhanScience2019	3743	BMAC_LowCov	Uzbekistan	37.75	67	F
+I7419	NarasimhanScience2019	3741	BMAC	Uzbekistan	37.42	66.83	M
+I5604	NarasimhanScience2019	3739	BMAC	Uzbekistan	37.67	67	M
+I4285	NarasimhanScience2019	3717	BMAC	Uzbekistan	37.42	66.83	M
+I7412	NarasimhanScience2019	3646	BMAC	Uzbekistan	37.75	67	F
+I4312	NarasimhanScience2019	3629	BMAC	Uzbekistan	37.75	67	F
+I7411	NarasimhanScience2019	3560	BMAC	Uzbekistan	37.75	67	F
+I11027	NarasimhanScience2019	3542	BMAC	Uzbekistan	37.67	67	M
+I11520	NarasimhanScience2019	3511	Bustan_BA_o2	Uzbekistan	37.67	67	M
+I4315	NarasimhanScience2019	3487	BMAC	Uzbekistan	37.75	67	M
+I4163	NarasimhanScience2019	3482	BMAC	Uzbekistan	37.75	67	F
+I4313	NarasimhanScience2019	3422	BMAC	Uzbekistan	37.75	67	F
+I6667	NarasimhanScience2019	3405	Parkhai_LBA_o	Turkmenistan	38.35	56.25	F
+I4156	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	M
+I11025	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	F
+I4899	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	M
+I11519	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	F
+I4159	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	M
+I5605	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	F
+I4157	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	M
+I11026	NarasimhanScience2019	3400	BMAC	Uzbekistan	37.67	67	F
+I4158	NarasimhanScience2019	3400	BMAC_o_LowCov	Uzbekistan	37.67	67	M
+I11521	NarasimhanScience2019	3400	Bustan_BA_o1	Uzbekistan	37.67	67	F
+I6668	NarasimhanScience2019	3250	BMAC	Turkmenistan	38.35	56.25	F
+I6675	NarasimhanScience2019	3250	BMAC	Turkmenistan	37.93	58.43	M
+I4351	NarasimhanScience2019	7925	Hajji_Firuz_C	Iran	36.99	45.47	F
+I4241	NarasimhanScience2019	7908	Hajji_Firuz_C	Iran	36.99	45.47	M
+I2328	NarasimhanScience2019	7906	Hajji_Firuz_C	Iran	36.99	45.47	M
+I2323	NarasimhanScience2019	7906	Hajji_Firuz_C	Iran	36.99	45.47	F
+I4349	NarasimhanScience2019	7756	Hajji_Firuz_C	Iran	36.99	45.47	M
+I2918	NarasimhanScience2019	5569	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2921	NarasimhanScience2019	5541	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2337	NarasimhanScience2019	5530	Tepe_Hissar_C	Iran	36.15	54.38	M
+I4910	NarasimhanScience2019	5529	Sarazm_EN	Tajikistan	39.51	67.46	F
+I2335	NarasimhanScience2019	5462	Tepe_Hissar_C_LowCov	Iran	36.15	54.38	M
+I4635	NarasimhanScience2019	5450	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I4085	NarasimhanScience2019	5450	Parkhai_Anau_EN	Turkmenistan	37.87	58.23	M
+I4086	NarasimhanScience2019	5450	Parkhai_Anau_EN	Turkmenistan	37.87	58.23	F
+I4087	NarasimhanScience2019	5450	Parkhai_Anau_EN	Turkmenistan	37.87	58.23	M
+I4290	NarasimhanScience2019	5450	Sarazm_EN	Tajikistan	39.51	67.46	F
+I8510	NarasimhanScience2019	5168	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I11028	NarasimhanScience2019	5102	Bustan_EN	Uzbekistan	37.67	67	M
+I8528	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8527	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I8526	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I12478	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I12479	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8529	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I8532	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8505	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	U
+I12484	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8530	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8503	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8524	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I12482	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I12483	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I12487	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I12480	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I12481	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I12485	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I12486	NarasimhanScience2019	5100	Geoksyur_EN	Turkmenistan	37.19	61.03	F
+I8531	NarasimhanScience2019	5100	Geoksyur_EN_possible.1d.rel.I8503	Turkmenistan	37.19	61.03	F
+I4259	NarasimhanScience2019	5068	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I8502	NarasimhanScience2019	5066	Geoksyur_EN_1.or.2d.rel.I8524_1d.rel.I8505	Turkmenistan	37.19	61.03	F
+I4634	NarasimhanScience2019	5044	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I8504	NarasimhanScience2019	4959	Geoksyur_EN	Turkmenistan	37.19	61.03	M
+I6669	NarasimhanScience2019	4946	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I8534	NarasimhanScience2019	4896	Geoksyur_EN_mother.or.daughter.I12486	Turkmenistan	37.19	61.03	F
+I2512	NarasimhanScience2019	4846	Tepe_Hissar_C	Iran	36.15	54.38	M
+I2924	NarasimhanScience2019	4724	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2925	NarasimhanScience2019	4724	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2923	NarasimhanScience2019	4707	Tepe_Hissar_C	Iran	36.15	54.38	M
+I2928	NarasimhanScience2019	4632	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2513	NarasimhanScience2019	4621	Tepe_Hissar_C	Iran	36.15	54.38	F
+I6671	NarasimhanScience2019	4550	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I6670	NarasimhanScience2019	4450	Parkhai_Anau_EN_LowCov	Turkmenistan	38.35	56.25	M
+I2927	NarasimhanScience2019	4413	Tepe_Hissar_C	Iran	36.15	54.38	M
+I2514	NarasimhanScience2019	4341	Tepe_Hissar_C	Iran	36.15	54.38	M
+I6674	NarasimhanScience2019	4139	Parkhai_Anau_EN	Turkmenistan	38.35	56.25	F
+I2922	NarasimhanScience2019	4062	Tepe_Hissar_C	Iran	36.15	54.38	F
+I2327	NarasimhanScience2019	3056	Hajji_Firuz_IA	Iran	36.99	45.47	M
+I12292	NarasimhanScience2019	2055	Ksirov_H_Kushan	Tajikistan	37.42	68.17	M
+I12260	NarasimhanScience2019	2050	Ksirov_H_Kushan_1d.rel.I12292	Tajikistan	37.42	68.17	M
+I12293	NarasimhanScience2019	2000	Ksirov_H_Kushan	Tajikistan	37.42	68.17	M
+I12257	NarasimhanScience2019	2000	Ksirov_H_Kushan_LowCov	Tajikistan	37.42	68.17	M
+I12294	NarasimhanScience2019	1969	Ksirov_H_Kushan	Tajikistan	37.42	68.17	M
+I2312_all_d	NarasimhanScience2019	11950	Belt_Cave_M	Iran	35.59	53.5	M
+I1954	NarasimhanScience2019	10093	Ganj_Dareh_N	Iran	34.45	48.12	M
+I1946	NarasimhanScience2019	10000	Ganj_Dareh_N_father.of.I1947_father.of.I1952	Iran	34.45	48.12	M
+I1947	NarasimhanScience2019	9973	Ganj_Dareh_N	Iran	34.45	48.12	M
+I1952	NarasimhanScience2019	9940	Ganj_Dareh_N_son.of.I1946_brother.of.I1947	Iran	34.45	48.12	M
+I7527	NarasimhanScience2019	9900	Ganj_Dareh_N	Iran	34.45	48.12	F
+I11044	NarasimhanScience2019	4450	Farkhor_BA_LowCov	Tajikistan	37.48	69.4	U
+I10551	NarasimhanScience2019	4450	Farkhor_BA_LowCov	Tajikistan	37.48	69.4	M
+I8220	NarasimhanScience2019	2543	Swat_H	Pakistan	34.8	72.32	M
+I2954	NarasimhanScience2019	2332	Swat_H_LowCov	Pakistan	34.76	72.36	M
+I7717	NarasimhanScience2019	2330	Swat_H	Pakistan	34.76	72.36	F
+I7722	NarasimhanScience2019	2250	Saidu_Sharif_H_o	Pakistan	34.76	72.36	M
+I7718	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	M
+I7720	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	F
+I7719	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	F
+I7723	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	F
+I7721	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	M
+I6894	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	F
+I6891	NarasimhanScience2019	2250	Swat_H	Pakistan	34.76	72.36	M
+I6893	NarasimhanScience2019	2232	Swat_H	Pakistan	34.76	72.36	F
+I6896	NarasimhanScience2019	2216	Swat_H	Pakistan	34.76	72.36	F
+I8245	NarasimhanScience2019	2189	Swat_H	Pakistan	34.8	72.32	M
+I6549	NarasimhanScience2019	2057	Butkara_H	Pakistan	34.76	72.37	M
+I6552	NarasimhanScience2019	2050	Butkara_H_mother.I6549	Pakistan	34.76	72.37	F
+I6547	NarasimhanScience2019	2000	Butkara_H	Pakistan	34.76	72.37	F
+I6551	NarasimhanScience2019	2000	Butkara_H	Pakistan	34.76	72.37	F
+I8218	NarasimhanScience2019	1949	Swat_H	Pakistan	34.8	72.32	F
+I7714	NarasimhanScience2019	1948	Barikot_H	Pakistan	34.76	72.36	F
+I6550	NarasimhanScience2019	1942	Butkara_H	Pakistan	34.76	72.37	M
+I11565	NarasimhanScience2019	1450	Swat_Medieval_LowCov	Pakistan	36.28	72.41	M
+I11562	NarasimhanScience2019	1450	Swat_Medieval_LowCov	Pakistan	36.28	72.41	M
+I1808	NarasimhanScience2019	1143	Swat_Medieval	Pakistan	36.28	72.41	M
+I6890	NarasimhanScience2019	863	Barikot_H	Pakistan	34.68	72.21	F
+I2959	NarasimhanScience2019	828	Swat_Medieval	Pakistan	36.74	72.31	M
+I2960	NarasimhanScience2019	825	Swat_Medieval_father.or.son.I2959	Pakistan	36.74	72.31	M
+I7716	NarasimhanScience2019	741	Swat_Medieval	Pakistan	36.74	72.31	M
+I7715	NarasimhanScience2019	617	Swat_Medieval	Pakistan	34.76	72.36	M
+I6889	NarasimhanScience2019	610	Barikot_H	Pakistan	34.68	72.21	M
+I1805	NarasimhanScience2019	383	Swat_Medieval	Pakistan	36.28	72.41	M
+I6900	NarasimhanScience2019	3213	SPGT	Pakistan	34.75	72.31	M
+I1799	NarasimhanScience2019	3157	SPGT	Pakistan	34.75	72.31	M
+I8193	NarasimhanScience2019	3150	SPGT	Pakistan	34.75	72.31	F
+I3260	NarasimhanScience2019	3074	SPGT_1d.rel.I6900	Pakistan	34.75	72.31	F
+I12147	NarasimhanScience2019	3061	SPGT	Pakistan	34.77	72.35	M
+I1992	NarasimhanScience2019	3037	SPGT_o	Pakistan	34.75	72.31	M
+I1985	NarasimhanScience2019	2958	SPGT	Pakistan	34.75	72.31	M
+I8194	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	M
+I6198	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	F
+I6901	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	F
+I6897	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	F
+I6194	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	M
+I6197	NarasimhanScience2019	2950	SPGT	Pakistan	34.75	72.31	M
+I3261	NarasimhanScience2019	2950	SPGT_1d.rel.of.I1985	Pakistan	34.75	72.31	M
+I12138	NarasimhanScience2019	2948	SPGT_o	Pakistan	34.75	72.4	F
+I12457	NarasimhanScience2019	2933	SPGT	Pakistan	34.75	72.4	M
+I1994	NarasimhanScience2019	2924	SPGT	Pakistan	34.75	72.31	F
+I13226	NarasimhanScience2019	2910	SPGT	Pakistan	34.75	72.4	F
+I6195	NarasimhanScience2019	2910	SPGT	Pakistan	34.75	72.31	F
+I10974	NarasimhanScience2019	2905	SPGT	Pakistan	34.75	72.4	M
+I6899	NarasimhanScience2019	2868	SPGT	Pakistan	34.75	72.31	M
+I8190	NarasimhanScience2019	2861	SPGT	Pakistan	34.75	72.31	F
+I8219	NarasimhanScience2019	2855	Aligrama2_IA	Pakistan	34.8	72.32	F
+I6546	NarasimhanScience2019	2855	SPGT	Pakistan	34.68	72.21	F
+I3262	NarasimhanScience2019	2854	SPGT_father.or.son.I1799_1d.rel.I1992	Pakistan	34.75	72.31	M
+I6553	NarasimhanScience2019	2853	SPGT	Pakistan	34.75	72.4	M
+I5397	NarasimhanScience2019	2851	SPGT	Pakistan	34.77	72.35	F
+I6557	NarasimhanScience2019	2850	SPGT	Pakistan	34.86	72.24	F
+I6548	NarasimhanScience2019	2850	SPGT	Pakistan	34.68	72.21	M
+I12451	NarasimhanScience2019	2850	SPGT	Pakistan	34.76	72.37	M
+I13219	NarasimhanScience2019	2850	SPGT	Pakistan	34.76	72.37	F
+I12968	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12473	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12444	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12144	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12448	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12141	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12465	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12475	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12463	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I5399	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12461	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12446	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12447	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12143	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12142	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12471	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12146	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12149	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12477	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12464	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12445	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12462	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12460	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I10523	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12454	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12470	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I5398	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	F
+I12980	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I13221	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12456	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I13222	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12455	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I13224	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I13220	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I13223	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I13227	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I12137	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I12458	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12459	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12134	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I13228	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12984	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I10000	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12982	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12988	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12983	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I12979	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I12981	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I12987	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	F
+I10001	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I8998	NarasimhanScience2019	2850	SPGT	Pakistan	34.75	72.4	M
+I12472	NarasimhanScience2019	2850	SPGT	Pakistan	34.77	72.35	M
+I12140	NarasimhanScience2019	2850	SPGT_1d.rel.I10523_LowCov	Pakistan	34.77	72.35	M
+I8997	NarasimhanScience2019	2850	SPGT_brother.I8998	Pakistan	34.75	72.4	M
+I12449	NarasimhanScience2019	2850	SPGT_father.or.son.I12968	Pakistan	34.76	72.37	M
+I12466	NarasimhanScience2019	2850	SPGT_LowCov	Pakistan	34.77	72.35	M
+I12453	NarasimhanScience2019	2850	SPGT_LowCov	Pakistan	34.77	72.35	M
+I12985	NarasimhanScience2019	2850	SPGT_mother.I10001 	Pakistan	34.75	72.4	F
+I12136	NarasimhanScience2019	2850	SPGT_mother.I6555	Pakistan	34.75	72.4	F
+I5400	NarasimhanScience2019	2829	SPGT	Pakistan	34.75	72.4	M
+I6545	NarasimhanScience2019	2826	SPGT	Pakistan	34.68	72.21	F
+I8999	NarasimhanScience2019	2817	SPGT	Pakistan	34.75	72.4	F
+I6555	NarasimhanScience2019	2813	SPGT	Pakistan	34.75	72.4	M
+I5396	NarasimhanScience2019	2811	SPGT	Pakistan	34.77	72.35	M
+I6292	NarasimhanScience2019	2798	SPGT	Pakistan	34.75	72.4	F
+I6556	NarasimhanScience2019	2796	SPGT	Pakistan	34.75	72.4	F
+I6554	NarasimhanScience2019	2764	SPGT_son.I6292.son.I10000	Pakistan	34.75	72.4	M
+I12450	NarasimhanScience2019	2758	SPGT	Pakistan	34.76	72.37	M
+I6888	NarasimhanScience2019	2754	Aligrama2_IA	Pakistan	34.8	72.32	F
+I8246	NarasimhanScience2019	2710	Aligrama2_IA	Pakistan	34.8	72.32	M
+I10899	OlaldeScience2019	7600	SE_Iberia_Meso	Spain	37.44	-3.44	M
+I3209	OlaldeScience2019	5880	SE_Iberia_Meso	Spain	40.42	-0.12	M
+I8130	OlaldeScience2019	5998	SE_Iberia_Meso	Spain	39.79	-1.03	M
+I0843	OlaldeScience2019	5903	NW_Iberia_Meso	Spain	42.91	-5.38	M
+I10942	OlaldeScience2019	5000	SW_Iberia_EN	Gibraltar	36.13	-5.34	F
+I11300	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.22	F
+I11301	OlaldeScience2019	3186	N_Iberia_MLN	Spain	43.09	-2.22	F
+I11248	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.22	M
+I11249	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.22	M
+I7605	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.25	M
+I7603	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.25	M
+I7602	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.25	M
+I7604	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.25	M
+I7606	OlaldeScience2019	3200	N_Iberia_MLN	Spain	43.09	-2.25	M
+I10277	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10278	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10280	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10282	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10283	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10284	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10285	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	F
+I10286	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I10287	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I11303	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	F
+I11304	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I11305	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	M
+I11306	OlaldeScience2019	2950	NE_Iberia_MLN	Spain	41.44	1.57	F
+I3214	OlaldeScience2019	3250	NW_Iberia_MLN	Spain	43.41	-5.98	M
+I7647	OlaldeScience2019	3695	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7645	OlaldeScience2019	3770	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7646	OlaldeScience2019	3670	SE_Iberia_MLN	Spain	38.7	-0.49	F
+I7643	OlaldeScience2019	3835	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7601	OlaldeScience2019	3590	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7600	OlaldeScience2019	3400	SE_Iberia_MLN	Spain	38.7	-0.49	F
+I7644	OlaldeScience2019	3510	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7642	OlaldeScience2019	2834	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I7594	OlaldeScience2019	3445	SE_Iberia_MLN	Spain	38.7	-0.49	F
+I7595	OlaldeScience2019	3445	SE_Iberia_MLN	Spain	38.7	-0.49	F
+I7597	OlaldeScience2019	3400	SE_Iberia_MLN	Spain	38.7	-0.49	U
+I7598	OlaldeScience2019	3500	SE_Iberia_MLN	Spain	38.7	-0.49	M
+I8567	OlaldeScience2019	3400	SE_Iberia_MLN	Spain	38.76	-0.59	M
+I8568	OlaldeScience2019	3426	SE_Iberia_MLN	Spain	38.76	-0.59	F
+I7160	OlaldeScience2019	3922	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I7679	OlaldeScience2019	4000	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I7547	OlaldeScience2019	4000	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I7549	OlaldeScience2019	4000	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I7550	OlaldeScience2019	4000	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I8134	OlaldeScience2019	4000	SW_Iberia_MLN	Spain	36.45	-6.21	F
+I1845	OlaldeScience2019	2946	N_Iberia_CA	Spain	42.57	-2.57	M
+I1846	OlaldeScience2019	2946	N_Iberia_CA	Spain	42.57	-2.57	F
+I1978	OlaldeScience2019	2946	N_Iberia_CA	Spain	42.57	-2.57	F
+I1842	OlaldeScience2019	3050	N_Iberia_CA	Spain	42.63	-2.7	M
+I4565	OlaldeScience2019	2965	NE_Iberia_CA	Spain	41.29	1.06	M
+I8140_d	OlaldeScience2019	1948	SE_Iberia_CA	Spain	37.14	-3.55	F
+I8566	OlaldeScience2019	3150	SE_Iberia_CA	Spain	38.82	-0.86	F
+I8569	OlaldeScience2019	2749	SE_Iberia_CA	Spain	40.3	0.28	M
+I8048	OlaldeScience2019	2100	SE_Iberia_CA	Spain	37.01	-3.89	M
+I8141	OlaldeScience2019	2100	SE_Iberia_CA	Spain	37.01	-3.89	F
+I8142	OlaldeScience2019	2100	SE_Iberia_CA	Spain	37.01	-3.89	M
+I8131	OlaldeScience2019	2518	SE_Iberia_CA	Spain	38.98	-0.16	F
+I8132	OlaldeScience2019	2500	SE_Iberia_CA	Spain	38.98	-0.16	F
+I7588	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	U
+I7587	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8148	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8149	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8150	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8153	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8154	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8155	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8156	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8157	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8158	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8197	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8198	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	F
+I8199	OlaldeScience2019	2700	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8364	OlaldeScience2019	2638	SE_Iberia_CA	Spain	37.24	-4.24	M
+I8365	OlaldeScience2019	2638	SE_Iberia_CA	Spain	37.24	-4.24	M
+I11614	OlaldeScience2019	2700	SW_Iberia_CA	Portugal	39.08	9.27	F
+I11592	OlaldeScience2019	2700	SW_Iberia_CA	Portugal	39.08	9.27	M
+I11599	OlaldeScience2019	3100	SW_Iberia_CA	Portugal	39.11	-8.66	M
+I11601	OlaldeScience2019	3100	SW_Iberia_CA	Portugal	39.11	-8.66	F
+I5428	OlaldeScience2019	3100	SW_Iberia_CA	Portugal	39.62	-9.05	M
+I5076	OlaldeScience2019	3181	SW_Iberia_CA	Portugal	37.2	-8.59	F
+I11604	OlaldeScience2019	2800	SW_Iberia_CA	Portugal	39.23	-9.3	M
+I11605	OlaldeScience2019	2800	SW_Iberia_CA	Portugal	39.23	-9.3	M
+I3432	OlaldeScience2019	2996	SW_Iberia_CA	Portugal	38.39	-7.55	F
+I5429	OlaldeScience2019	2949	SW_Iberia_CA	Portugal	38.39	-7.55	M
+I3485	OlaldeScience2019	2100	C_Iberia_CA	Spain	38.58	-2.84	F
+I3484	OlaldeScience2019	2128	C_Iberia_CA_Stp	Spain	38.58	-2.84	M
+EHU001	OlaldeScience2019	2166	C_Iberia_CA_Stp	Spain	42.42	-3.48	M
+EHU002	OlaldeScience2019	2434	C_Iberia_CA_Stp	Spain	42.42	-3.48	M
+I3243	OlaldeScience2019	2350	NW_Iberia_CA_Stp	Spain	43.41	-5.98	M
+I3239	OlaldeScience2019	2350	NW_Iberia_CA_Stp	Spain	43.41	-5.98	F
+I3238	OlaldeScience2019	2350	NW_Iberia_CA_Stp	Spain	43.41	-5.98	M
+I4246	OlaldeScience2019	2252	C_Iberia_CA_Afr	Spain	40.44	-3.5	M
+I3756	OlaldeScience2019	1898	C_Iberia_BA	Spain	38.58	-2.84	M
+I12855	OlaldeScience2019	1825	C_Iberia_BA	Spain	38.58	-2.84	M
+I12809	OlaldeScience2019	1825	C_Iberia_BA	Spain	38.58	-2.84	M
+I3490	OlaldeScience2019	1500	C_Iberia_BA	Spain	41.74	-3.87	F
+I3491	OlaldeScience2019	1500	C_Iberia_BA	Spain	41.66	-4.67	F
+I12208	OlaldeScience2019	1290	C_Iberia_BA	Spain	41.46	-5.29	F
+I12209	OlaldeScience2019	1290	C_Iberia_BA	Spain	41.46	-5.29	M
+I3492	OlaldeScience2019	1500	C_Iberia_BA	Spain	40.86	-5.35	M
+I3493	OlaldeScience2019	1352	C_Iberia_BA	Spain	40.86	-5.35	F
+I6618	OlaldeScience2019	1786	C_Iberia_BA	Spain	40.22	-3.76	M
+I6470	OlaldeScience2019	1651	C_Iberia_BA	Spain	42.73	3.84	M
+I2469	OlaldeScience2019	875	N_Iberia_BA	Spain	42.57	-2.62	F
+I2471	OlaldeScience2019	1564	N_Iberia_BA	Spain	42.57	-2.62	F
+I1977	OlaldeScience2019	1557	N_Iberia_BA	Spain	42.57	-2.62	F
+I2472	OlaldeScience2019	1515	N_Iberia_BA	Spain	42.57	-2.62	M
+I2470	OlaldeScience2019	1321	N_Iberia_BA	Spain	42.57	-2.62	M
+I1840	OlaldeScience2019	1557	N_Iberia_BA	Spain	42.57	-2.62	M
+I1982	OlaldeScience2019	1630	N_Iberia_BA	Spain	42.99	-2.11	F
+VAD001	OlaldeScience2019	1742	N_Iberia_BA	Spain	42.44	-2.89	M
+VAD002	OlaldeScience2019	1609	N_Iberia_BA	Spain	42.44	-2.89	M
+VAD003	OlaldeScience2019	1609	N_Iberia_BA	Spain	42.44	-2.89	F
+VAD004	OlaldeScience2019	1464	N_Iberia_BA	Spain	42.44	-2.89	M
+VAD005	OlaldeScience2019	1644	N_Iberia_BA	Spain	42.44	-2.89	M
+I1311	OlaldeScience2019	1700	NE_Iberia_BA	Spain	41.54	2.13	M
+I1312_d	OlaldeScience2019	1700	NE_Iberia_BA	Spain	41.54	2.13	M
+I1313_d	OlaldeScience2019	1700	NE_Iberia_BA	Spain	41.54	2.13	F
+I1310	OlaldeScience2019	1700	NE_Iberia_BA	Spain	41.54	2.13	F
+I1836	OlaldeScience2019	1594	NE_Iberia_BA	Spain	41.22	1.77	M
+I4558	OlaldeScience2019	1600	NE_Iberia_BA	Spain	41.29	1.06	F
+I4563	OlaldeScience2019	1600	NE_Iberia_BA	Spain	41.29	1.06	M
+I4559	OlaldeScience2019	1600	NE_Iberia_BA	Spain	41.29	1.06	M
+I4560	OlaldeScience2019	1600	NE_Iberia_BA	Spain	41.29	1.06	F
+I4561	OlaldeScience2019	1600	NE_Iberia_BA	Spain	41.29	1.06	F
+I4562	OlaldeScience2019	1681	NE_Iberia_BA	Spain	41.29	1.06	F
+I3486	OlaldeScience2019	1600	SE_Iberia_BA	Spain	38.63	-0.86	M
+I3488	OlaldeScience2019	1600	SE_Iberia_BA	Spain	38.63	-0.86	M
+I3487	OlaldeScience2019	1676	SE_Iberia_BA	Spain	38.63	-0.86	M
+I8144	OlaldeScience2019	1757	SE_Iberia_BA	Spain	37.73	-2.51	F
+I8136	OlaldeScience2019	1512	SE_Iberia_BA	Spain	37.73	-2.51	F
+I3494	OlaldeScience2019	1837	SE_Iberia_BA	Spain	38.85	-0.87	M
+I3997	OlaldeScience2019	1741	SE_Iberia_BA	Spain	39.53	-0.51	M
+I8570	OlaldeScience2019	1400	SE_Iberia_BA	Spain	40.14	0.11	M
+I8571	OlaldeScience2019	1400	SE_Iberia_BA	Spain	40.14	0.11	M
+I10939	OlaldeScience2019	1650	SW_Iberia_BA	Gibraltar	36.13	-5.34	M
+I10940	OlaldeScience2019	1650	SW_Iberia_BA	Gibraltar	36.13	-5.34	M
+I10941	OlaldeScience2019	1650	SW_Iberia_BA	Gibraltar	36.13	-5.34	M
+I8045	OlaldeScience2019	1500	SW_Iberia_BA	Portugal	38.2	-8.71	F
+I7162	OlaldeScience2019	1815	SW_Iberia_BA_Afr	Spain	36.39	-6.17	F
+I7688	OlaldeScience2019	950	SW_Iberia_BA	Portugal	40.09	-8.52	F
+I7687	OlaldeScience2019	950	SW_Iberia_BA	Portugal	40.09	-8.52	M
+I7689	OlaldeScience2019	1950	SW_Iberia_BA	Portugal	39.67	-8.13	F
+I7692	OlaldeScience2019	1950	SW_Iberia_BA	Portugal	39.67	-8.13	F
+I7691	OlaldeScience2019	1950	SW_Iberia_BA	Portugal	39.67	-8.13	M
+I3757	OlaldeScience2019	350	N_Iberia_IA	Spain	42.57	-2.59	F
+I3759	OlaldeScience2019	278	N_Iberia_IA	Spain	42.57	-2.59	M
+I3758	OlaldeScience2019	285	N_Iberia_IA	Spain	42.57	-2.59	F
+I3496	OlaldeScience2019	250	E_Iberia_IA	Spain	41.5	2.15	M
+I4556	OlaldeScience2019	600	E_Iberia_IA	Spain	41.37	1.77	F
+I3326	OlaldeScience2019	225	E_Iberia_IA	Spain	42.01	3.08	M
+I3327	OlaldeScience2019	225	E_Iberia_IA	Spain	42.01	3.08	M
+I3324	OlaldeScience2019	277	E_Iberia_IA	Spain	42.01	3.08	M
+I3323	OlaldeScience2019	285	E_Iberia_IA	Spain	42.01	3.08	M
+I12410	OlaldeScience2019	445	E_Iberia_IA	Spain	41.36	1.67	M
+I12877	OlaldeScience2019	445	E_Iberia_IA	Spain	41.36	1.67	M
+I12878	OlaldeScience2019	437	E_Iberia_IA	Spain	41.36	1.67	F
+I12879	OlaldeScience2019	563	E_Iberia_IA	Spain	41.33	1.59	F
+I12640	OlaldeScience2019	618	E_Iberia_IA	Spain	41.54	2.13	M
+I12641	OlaldeScience2019	666	E_Iberia_IA	Spain	41.54	2.13	M
+I12642	OlaldeScience2019	565	E_Iberia_IA	Spain	41.54	2.13	F
+I12643	OlaldeScience2019	594	E_Iberia_IA	Spain	41.54	2.13	F
+I3321	OlaldeScience2019	200	E_Iberia_IA	Spain	40.14	-0.07	M
+I3320	OlaldeScience2019	200	E_Iberia_IA	Spain	40.14	-0.07	M
+I3322	OlaldeScience2019	550	E_Iberia_IA	Spain	40.51	0.43	F
+I12173	OlaldeScience2019	600	SW_Iberia_IA	Spain	37.52	-5.98	F
+I12171	OlaldeScience2019	600	SW_Iberia_IA	Spain	37.52	-5.98	F
+I12560	OlaldeScience2019	600	SW_Iberia_IA	Spain	37.52	-5.98	F
+I12561	OlaldeScience2019	600	SW_Iberia_IA	Spain	37.52	-5.98	M
+I8213	OlaldeScience2019	450	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	F
+I8211	OlaldeScience2019	475	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8212	OlaldeScience2019	425	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8210	OlaldeScience2019	425	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8214	OlaldeScience2019	375	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	F
+I8209	OlaldeScience2019	425	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8340	OlaldeScience2019	425	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	F
+I8341	OlaldeScience2019	425	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8344	OlaldeScience2019	450	NE_Iberia_Greek (Emp√∫ries1)	Spain	42.13	3.11	M
+I8215	OlaldeScience2019	375	NE_Iberia_Greek (Emp√∫ries2)	Spain	42.13	3.11	F
+I8204	OlaldeScience2019	200	NE_Iberia_Hel_out	Spain	42.13	3.11	F
+I8206	OlaldeScience2019	200	NE_Iberia_Hel (Emp√∫ries1)	Spain	42.13	3.11	M
+I8203	OlaldeScience2019	200	NE_Iberia_Hel (Emp√∫ries1)	Spain	42.13	3.11	F
+I8205	OlaldeScience2019	200	NE_Iberia_Hel (Emp√∫ries2)	Spain	42.13	3.11	M
+I8208	OlaldeScience2019	287	NE_Iberia_Hel (Emp√∫ries2)	Spain	42.13	3.11	M
+I8202	OlaldeScience2019	200	NE_Iberia_RomP (Emp√∫ries1)	Spain	42.13	3.11	M
+I8339	OlaldeScience2019	150	NE_Iberia_RomP (Emp√∫ries1)	Spain	42.13	3.11	F
+I10865	OlaldeScience2019	150	NE_Iberia_RomP_out	Spain	42.13	3.11	M
+I10866	OlaldeScience2019	47	NE_Iberia_RomP_out	Spain	42.13	3.11	F
+I8338	OlaldeScience2019	150	NE_Iberia_RomP (Emp√∫ries2)	Spain	42.13	3.11	F
+I8475	OlaldeScience2019	150	NE_Iberia_RomP_out	Spain	42.13	3.11	F
+I8216	OlaldeScience2019	133	NE_Iberia_RomP (Emp√∫ries2)	Spain	42.13	3.11	M
+I8474	OlaldeScience2019	150	NE_Iberia_RomP (Emp√∫ries1)	Spain	42.13	3.11	F
+I7158	OlaldeScience2019	350	NE_Iberia_RomP	Spain	41.27	1.18	M
+I6492	OlaldeScience2019	350	NE_Iberia_RomP	Spain	41.27	1.18	M
+I6490	OlaldeScience2019	350	NE_Iberia_RomP	Spain	41.27	1.18	F
+I6491	OlaldeScience2019	350	NE_Iberia_RomP	Spain	41.27	1.18	M
+I8343	OlaldeScience2019	550	NE_Iberia_Late_RomP	Spain	42.13	3.11	M
+I3778	OlaldeScience2019	650	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	M
+I3776	OlaldeScience2019	650	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	F
+I3866	OlaldeScience2019	650	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	M
+I3775	OlaldeScience2019	650	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	M
+I3777	OlaldeScience2019	650	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	F
+I7674	OlaldeScience2019	793	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	F
+I7672	OlaldeScience2019	793	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	M
+I7676	OlaldeScience2019	793	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	F
+I7675	OlaldeScience2019	793	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	M
+I7673	OlaldeScience2019	793	NE_Iberia_c.6-8CE_ES	Spain	41.98	2.31	F
+I12029	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	M
+I12030	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	F
+I12031	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	M
+I12032	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	M
+I12033	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	M
+I12034	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	F
+I12162	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	M
+I12163	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	F
+I12164	OlaldeScience2019	550	NE_Iberia_c.6CE_PL	Spain	42.02	2.81	F
+I10851	OlaldeScience2019	950	NE_Iberia_c.8-12CE	Spain	42.05	2.87	F
+I10852	OlaldeScience2019	1062	NE_Iberia_c.8-12CE	Spain	42.05	2.87	F
+I10853	OlaldeScience2019	1071	NE_Iberia_c.8-12CE	Spain	42.05	2.87	M
+I10854	OlaldeScience2019	1062	NE_Iberia_c.8-12CE	Spain	42.05	2.87	M
+I10892	OlaldeScience2019	985	NE_Iberia_c.8-12CE	Spain	42.05	2.87	F
+I10895	OlaldeScience2019	879	NE_Iberia_c.8-12CE	Spain	42.05	2.87	M
+I10897	OlaldeScience2019	1119	NE_Iberia_c.8-12CE	Spain	42.05	2.87	F
+I4054	OlaldeScience2019	300	SE_Iberia_c.3-4CE	Spain	37.18	-3.61	M
+I4055	OlaldeScience2019	300	SE_Iberia_c.3-4CE	Spain	37.18	-3.61	M
+I3983	OlaldeScience2019	346	SE_Iberia_c.3-4CE	Spain	37.18	-3.61	M
+I3982	OlaldeScience2019	300	SE_Iberia_c.3-4CE	Spain	37.18	-3.61	F
+I3577	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	F
+I3574	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	F
+I3579	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	M
+I3583	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	M
+I3578	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	F
+I3575	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	M
+I3582	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	M
+I3581	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	F
+I3576	OlaldeScience2019	473	SE_Iberia_c.5-8CE	Spain	37.32	-4.01	M
+I3584	OlaldeScience2019	550	SE_Iberia_c.5-8CE	Spain	36.96	-4.12	M
+I3585	OlaldeScience2019	772	SE_Iberia_c.5-8CE	Spain	36.96	-4.12	M
+I3980	OlaldeScience2019	517	SE_Iberia_c.5-8CE	Spain	37.18	-3.61	F
+I3981	OlaldeScience2019	500	SE_Iberia_c.5-8CE	Spain	37.18	-3.61	M
+I7497	OlaldeScience2019	1050	SE_Iberia_c.10-16CE	Spain	37.81	-2.54	F
+I7498	OlaldeScience2019	1050	SE_Iberia_c.10-16CE	Spain	37.81	-2.54	M
+I7499	OlaldeScience2019	1050	SE_Iberia_c.10-16CE	Spain	37.81	-2.54	F
+I7500	OlaldeScience2019	1000	SE_Iberia_c.10-16CE	Spain	36.7	-3.48	M
+I7427	OlaldeScience2019	950	SE_Iberia_c.10-16CE_Afr	Spain	37.18	-3.59	M
+I7458	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	37	-3.99	U
+I7457	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	37	-3.99	M
+I8145	OlaldeScience2019	1400	SE_Iberia_c.10-16CE	Spain	37.15	-3.59	M
+I8146	OlaldeScience2019	1400	SE_Iberia_c.10-16CE	Spain	37.15	-3.59	F
+I8147	OlaldeScience2019	1400	SE_Iberia_c.10-16CE	Spain	37.15	-3.59	U
+I3807	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	M
+I7426	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	M
+I3809	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	M
+I7423	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	M
+I3810	OlaldeScience2019	1550	SE_Iberia_c.10-16CE_Afr2	Spain	36.95	-3.55	F
+I7424	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	F
+I3808	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	F
+I7425	OlaldeScience2019	1550	SE_Iberia_c.10-16CE	Spain	36.95	-3.55	F
+I12644	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	M
+I12645	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	F
+I12646	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	M
+I12647	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	F
+I12648	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	M
+I12649	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	M
+I12650	OlaldeScience2019	1200	SE_Iberia_c.10-16CE	Spain	39.47	-0.38	M
+I12514	OlaldeScience2019	1088	SE_Iberia_c.10-16CE	Spain	39.93	-0.2	M
+I12515	OlaldeScience2019	1100	SE_Iberia_c.10-16CE	Spain	39.93	-0.2	M
+I12516	OlaldeScience2019	1009	SE_Iberia_c.10-16CE	Spain	40.47	0.48	F
